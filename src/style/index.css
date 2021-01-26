@@ -11,3 +11,9 @@
 /* Stop purging. */
 
 /* Your own custom utilities */
+
+@layer utilities {
+  .w-200 {
+    width: 200px;
+  }
+}
