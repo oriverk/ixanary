@@ -35,3 +35,4 @@ yarn-error.log*
 
 # output style
 src/style/bundle.css
+src/style/tailwind.css
