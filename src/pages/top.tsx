@@ -1,8 +1,8 @@
+import React, { FC } from 'react';
+
 import Nav from '../components/nav'
 
-export const config = { amp: true }
-
-export default function IndexPage() {
+const Top: FC = () => {
   return (
     <div>
       <Nav />
@@ -12,5 +12,7 @@ export default function IndexPage() {
         </h1>
       </div>
     </div>
-  )
+  );
 }
+
+export default Top;
