@@ -1,12 +1,13 @@
 {
-  "name": "with-tailwindcss",
+  "name": "ixanary",
+  "description": "Next.js, TypeScript, AMP, TailwindCSS",
   "version": "1.0.0",
   "scripts": {
     "dev": "run-p dev:*",
     "dev:next": "next",
-    "dev:postcss": "yarn postcss src/style/index.css -o src/style/bundle.css -w",
-    "build": "yarn build:css && next build",
-    "build:css": "yarn postcss src/style/index.css -o src/style/bundle.css",
+    "dev:css": "postcss src/style/index.css --config postcss.config.js -o src/style/tailwind.css -w",
+    "build": "build:css && next build",
+    "build:css": "postcss src/style/index.css --config postcss.config.js -o src/style/bundle.css",
     "start": "next start"
   },
   "dependencies": {

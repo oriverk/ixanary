@@ -1,6 +1,9 @@
 import Document, { Html, Head, Main, NextScript, DocumentContext } from 'next/document'
 // @ts-ignore
-import tailwindcss from '!raw-loader!../style/bundle.css'
+import tailwindcss from '!raw-loader!../style/tailwind.css';
+// @ts-ignore
+import postcss from '!raw-loader!../style/bundle.css'
+const cssFile = process.env.NODE_ENV === 'development' ? tailwindcss : postcss;
 
 class MyDocument extends Document {
   static async getInitialProps(ctx: DocumentContext) {
@@ -14,7 +17,7 @@ class MyDocument extends Document {
         <style
           key='custom'
           dangerouslySetInnerHTML={{
-            __html: tailwindcss
+            __html: cssFile
           }}
         />,
       ]
