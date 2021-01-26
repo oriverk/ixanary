@@ -6,7 +6,7 @@ import { links } from '../../constant/links'
 export const Aside = () => {
   
   return (
-    <aside className='border-2 border-solid border-yellow-500 w-200 sm:hidden'>
+    <aside className='border-2 border-solid border-yellow-500 w-200'>
       aside links ↓
       <ul>
         {links.map((link) => {
