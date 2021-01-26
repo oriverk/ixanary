@@ -2,7 +2,7 @@ module.exports = {
   plugins:
     process.env.NODE_ENV === 'devlopment'
       ? [
-          require("tailwindcss")
+          // require("tailwindcss")
         ]
       : [
           require("tailwindcss"),
