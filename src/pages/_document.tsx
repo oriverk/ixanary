@@ -1,15 +1,15 @@
 import Document, { Html, Head, Main, NextScript, DocumentContext } from 'next/document'
+
 // @ts-ignore
-import tailwindcss from '!raw-loader!../style/tailwind.css';
+import devCss from '!raw-loader!../style/global.css'
 // @ts-ignore
-import postcss from '!raw-loader!../style/bundle.css'
-const cssFile = process.env.NODE_ENV === 'development' ? tailwindcss : postcss;
+import buildCss from '!raw-loader!../style/bundle.min.css'
+const cssFile = process.env.NODE_ENV === 'development' ? devCss : buildCss
 
 class MyDocument extends Document {
   static async getInitialProps(ctx: DocumentContext) {
     const page = ctx.renderPage((App) => (props) => <App {...props} />)
     const initialProps: any = await Document.getInitialProps(ctx)
-    // return { ...initialProps }
     return {
       ...page,
       styles: [
@@ -28,7 +28,7 @@ class MyDocument extends Document {
     return (
       <Html>
         <Head />
-        <body className='bg-gray-50 dark:bg-gray-900'>
+        <body>
           <Main />
           <NextScript />
         </body>
