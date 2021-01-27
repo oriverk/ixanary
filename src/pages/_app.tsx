@@ -1,5 +1,11 @@
 import { AppProps } from 'next/app'
 
+import { ThemeProvider } from '../hooks/useTheme'
+
 export default function MyApp({ Component, pageProps }: AppProps) {
-  return <Component {...pageProps} />
+  return (
+    <ThemeProvider>
+      <Component {...pageProps} />
+    </ThemeProvider>
+  )
 }
