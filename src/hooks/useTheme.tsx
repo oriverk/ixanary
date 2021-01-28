@@ -9,7 +9,7 @@ type ContextProps = {
   toggleTheme: (currentTheme: Themes) => void
 }
 
-const ThemeContext = createContext<Partial<ContextProps>>({})
+const ThemeContext = createContext({} as ContextProps)
 
 const getLocalTheme = () => {
   try {
