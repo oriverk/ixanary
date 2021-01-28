@@ -8,21 +8,15 @@ type ContextProps = {
 const SidebarContext = createContext({} as ContextProps)
 
 const SidebarProvider: React.FC = ({ children }) => {
-  const [isOpen, setOpen] = useState(false)
-
-  function setSidebarOpen(isOpen: boolean) {
-    setOpen(isOpen)
-  }
-
-  const isSidebarOpen = isOpen
-
+  const [isSidebarOpen, setSidebarOpen] = useState(false)
+  
   return (
-    <SidebarContext.Provider value={{isSidebarOpen, setSidebarOpen}}>
+    <SidebarContext.Provider value={{ isSidebarOpen, setSidebarOpen }}>
       {children}
     </SidebarContext.Provider>
   )
 }
 
-const useSidebarContext = useContext(SidebarContext)
+const useSidebarContext = () => useContext(SidebarContext)
 
 export { SidebarProvider, useSidebarContext }

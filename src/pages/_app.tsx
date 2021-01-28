@@ -1,14 +1,15 @@
 import { AppProps } from 'next/app'
 
 import { ThemeProvider } from '../hooks/useTheme'
-// import { SidebarProvider } from '../hooks/useSidebar'
+import { SidebarProvider } from '../hooks/useSidebar'
 
 export default function MyApp({ Component, pageProps }: AppProps) {
+
   return (
     <ThemeProvider>
-      {/* <SidebarProvider> */}
+      <SidebarProvider>
         <Component {...pageProps} />
-      {/* </SidebarProvider> */}
+      </SidebarProvider>
     </ThemeProvider>
   )
 }

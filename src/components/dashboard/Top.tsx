@@ -1,5 +1,3 @@
-import React from 'react';
-
 export const Top: React.FC = () => {
   return (
     <div className="mt-4" >
