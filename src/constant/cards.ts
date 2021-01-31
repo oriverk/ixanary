@@ -1,82 +1,97 @@
-export const cards = [
+import { CardType } from '../types/CardType'
+
+export const Cards: CardType[] = [
   {
-    id: 1001,
-    occupation: '将',
-    rarelity: '天',
+    id: '1001',
     name: '織田信長',
+    rarelity: '天',
+    jobType: '将',
+    illustrator: '',
     cost: 3.5,
     capacity: 3500,
-    parameter: { spear: 'a', bow: 'b', horse: 'a', weapon: 's' },
-    offence: 745,
+    yari: 'a',
+    kiba: 'a',
+    yumi: 'b',
+    heiki: 's',
+    attack: 745,
     defence: 710,
-    tactic: 465,
-    offenceGrowth: 19,
-    deffenceGrowth: 19,
-    tacticGrowth: 2.5,
-    skil: {
-      type: 'offence',
+    intelligence: 465,
+    attackGrowth: 19,
+    defenceGrowth: 19,
+    intGrowth: 2.5,
+    skill: {
+      type: '攻',
       name: '三段撃 激烈'
     },
-    unitSkil:['']
+    unitSkill:['']
   },
   {
-    id: 2001,
-    occupation: '将',
+    id: '2001',
+    jobType: '将',
     rarelity: '極',
     name: '本多忠勝',
     cost: 3.0,
     capacity: 2790,
-    parameter: { spear: 'a', bow: 'b', horse: 's', weapon: 'c' },
-    offence: 745,
+    yari: 'a',
+    yumi: 'b',
+    kiba: 's',
+    heiki: 'c',
+    attack: 745,
     defence: 725,
-    tactic: 385,
-    offenceGrowth: 18,
-    deffenceGrowth: 17,
-    tacticGrowth: 2.0,
-    skil: {
-      type: 'offence',
+    intelligence: 385,
+    attackGrowth: 18,
+    defenceGrowth: 17,
+    intGrowth: 2.0,
+    skill: {
+      type: '攻',
       name: '剛勇無双'
     },
-    unitSkil: ['葵の勇将', '東西無双']
+    unitSkill: ['葵の勇将', '東西無双']
   },
   {
-    id: 3001,
-    occupation: '剣',
+    id: '3001',
+    jobType: '剣',
     rarelity: '特',
     name: '上泉信綱',
     cost: 2.0,
     capacity: 820,
-    parameter: { spear: 's', bow: 'c', horse: 'c', weapon: 'f' },
-    offence: 950,
+    yari: 's',
+    yumi: 'c',
+    kiba: 'c',
+    heiki: 'f',
+    attack: 950,
     defence: 950,
-    tactic: 400,
-    offenceGrowth: 50,
-    deffenceGrowth: 50,
-    tacticGrowth: 1.5,
-    skil: {
-      type: 'offence',
+    intelligence: 400,
+    attackGrowth: 50,
+    defenceGrowth: 50,
+    intGrowth: 1.5,
+    skill: {
+      type: '攻',
       name: '新陰流'
     },
-    unitSkil: ['剣の教え']
+    unitSkill: ['剣の教え']
   },
   {
-    id: 4001,
-    occupation: '将',
+    id: '4001',
+    jobType: '将',
     rarelity: '上',
     name: '武田晴信',
     cost: 3.0,
     capacity: 2370,
-    parameter: { spear: 'b', bow: 'c', horse: 'b', weapon: 'd' },
-    offence: 625,
+    yari: 'b',
+    yumi: 'c',
+    kiba: 'b',
+    heiki: 'd',
+    attack: 625,
     defence: 625,
-    tactic: 425,
-    offenceGrowth: 16,
-    deffenceGrowth: 16,
-    tacticGrowth: 2.0,
-    skil: {
-      type: 'offence',
+    intelligence: 425,
+    attackGrowth: 16,
+    defenceGrowth: 16,
+    intGrowth: 2.0,
+    skill: {
+      type: '攻',
       name: '騎馬隊挟撃'
     },
-    unitSkil: ['']
+    unitSkill: ['']
   },
 ]
