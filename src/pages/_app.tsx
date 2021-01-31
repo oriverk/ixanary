@@ -7,9 +7,9 @@ export default function MyApp({ Component, pageProps }: AppProps) {
 
   return (
     <ThemeProvider>
-      <SidebarProvider>
+      {/* <SidebarProvider> */}
         <Component {...pageProps} />
-      </SidebarProvider>
+      {/* </SidebarProvider> */}
     </ThemeProvider>
   )
 }
