@@ -1,53 +1,34 @@
-import React, { useState, FC } from 'react'
-import Link from 'next/link'
-
-import { links } from '../../constant/links'
-
+import { useSidebarContext, SidebarProvider } from '../../hooks/useSidebar'
+import { Sidebar } from './Sidebar'
 import { Header } from './Header'
-import { Aside } from './Aside'
 import { Footer } from './Footer'
-import { useThemeContext } from '../../hooks/useTheme'
 
-export const Layout: FC = ({ children }) => {
-  const { theme, toggleTheme } = useThemeContext()
-  const [isOpen, setOpen] = useState(false)
-  console.log(isOpen)
+import { useEffect } from 'react'
+
+/* reference: https://tailwindcomponents.com/component/dashboard-template */
+/* reference code: https://github.com/tailwindcomponents/dashboard */
+
+export const Layout: React.FC = ({children}) => {
+  const { isSidebarOpen, setSidebarOpen } = useSidebarContext()
+
+  useEffect(() => {
+    console.log('sidebar is open?', isSidebarOpen)
+  },[isSidebarOpen])
 
   return (
-    <>
-      <div className='w-40 min-h-screen hidden'>
-        <div className='m-3'>
-          <h2 className='mt-2'>Menu</h2>
-          <ul>
-            {links.map((link) => {
-              return (
-                <li key={link.url}>
-                  <Link href={link.url}>
-                    <a>{link.title}</a>
-                  </Link>
-                </li>
-              )
-            })}
-          </ul>
+    <SidebarProvider>
+      <div className="flex h-screen bg-gray-200">
+        <div onClick={() => setSidebarOpen(false)} className={`${isSidebarOpen ? 'block' : 'hidden'} fixed z-20 inset-0 bg-black opacity-50 transition-opacity lg:hidden`}></div>
+        {/* <div onClick={() => setSidebarOpen(false)} className={`${isSidebarOpen ? 'block' : 'hidden'} fixed z-20 inset-0 bg-black opacity-50 transition-opacity`}></div> */}
+        <Sidebar />
+        <div className="flex-1 flex flex-col overflow-hidden">
+          <Header />
+          <main className="flex-1 overflow-x-hidden overflow-y-auto bg-gray-200">
+            {children}
+          </main>
+          <Footer />
         </div>
       </div>
-      <div className='flex flex-col min-h-screen bg-white dark:bg-gray-900 text-white'>
-        <Header>
-          <button className='' aria-label='open side menu' onClick={()=>setOpen(true)}>
-            button
-          </button>
-          <button className='' aria-label='toggle theme' onClick={()=>toggleTheme(theme)}>
-            {theme === 'light' ? '🌞' : '🌙'}
-          </button>
-        </Header>
-        <main className='border-2 border-solid border-blue-500 flex flex-grow flex-row'>
-          <Aside />
-          <div className='contents boder-2 border-solid border-yellow-400 flex-col'>
-            {children}
-          </div>
-        </main>
-        <Footer />
-      </div>
-    </>
+    </SidebarProvider>
   );
 }
