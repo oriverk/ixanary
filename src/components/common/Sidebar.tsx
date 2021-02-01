@@ -3,14 +3,14 @@ import { IconContext } from 'react-icons'
 import { MdDashboard } from 'react-icons/md'
 
 import { routes } from '../../routes'
-import { useSidebarContext } from '../../hooks/useSidebar'
+import { SidebarPropsType } from '../../types'
 
-export const Sidebar: React.FC = () => {
-  const { isSidebarOpen } = useSidebarContext()
+export const Sidebar: React.FC<SidebarPropsType> = ({sidebarProps}) => {
+  const { isOpen } = sidebarProps
 
   return (
     // <div className={`${isSidebarOpen ? 'translate-x-0 ease-out' : '-translate-x-full ease-in' } fixed z-30 inset-y-0 left-0 w-64 transition duration-300 transform bg-gray-900 overflow-y-auto lg:translate-x-0 lg:static lg:inset-0`}>
-    <div className={`${isSidebarOpen ? 'translate-x-0 ease-out' : '-translate-x-full ease-in'} fixed z-30 inset-y-0 left-0 w-64 transition duration-300 transform bg-gray-900 overflow-y-auto`}>
+    <div className={`${isOpen ? 'translate-x-0 ease-out' : '-translate-x-full ease-in'} fixed z-30 inset-y-0 left-0 w-64 transition duration-300 transform bg-gray-900 overflow-y-auto`}>
       <Link href={routes.top}>
         <a>
           <div className='flex items-center justify-center mt-8'>
@@ -62,7 +62,7 @@ export const Sidebar: React.FC = () => {
           </IconContext.Provider>
           <span className='mx-3'>
             Forms
-            </span>
+          </span>
         </a>
       </nav>
     </div>

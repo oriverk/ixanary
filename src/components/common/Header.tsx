@@ -3,18 +3,18 @@ import { MdSearch } from "react-icons/md"
 import { FaMoon, FaSun } from "react-icons/fa"
 import { GiHamburgerMenu } from "react-icons/gi"
 
+import { SidebarPropsType } from '../../types'
 
 import { useThemeContext } from '../../hooks/useTheme'
-import { useSidebarContext } from '../../hooks/useSidebar'
 
-export const Header: React.FC = () => {
+export const Header: React.FC<SidebarPropsType> = ({sidebarProps}) => {
   const { theme, toggleTheme } = useThemeContext()
-  const { setSidebarOpen } = useSidebarContext()
+  const { setSidebarState } = sidebarProps
 
   return (
     <header className="flex justify-between items-center py-4 px-6 bg-white border-b-4 border-indigo-600">
       <div className="flex items-center">
-        <button onClick={()=>setSidebarOpen(true)} className="text-gray-500 focus:outline-none">
+        <button onClick={()=>setSidebarState(true)} className="text-gray-500 focus:outline-none">
         {/* <button onClick={()=>setSidebarOpen(true)} className="text-gray-500 focus:outline-none lg:hidden"> */}
           <IconContext.Provider value={{ className: 'h-6 w-6' }}>
             <GiHamburgerMenu/>
