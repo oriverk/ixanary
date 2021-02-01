@@ -9,8 +9,8 @@ export const Sidebar: React.FC<SidebarPropsType> = ({sidebarProps}) => {
   const { isOpen } = sidebarProps
 
   return (
-    // <div className={`${isSidebarOpen ? 'translate-x-0 ease-out' : '-translate-x-full ease-in' } fixed z-30 inset-y-0 left-0 w-64 transition duration-300 transform bg-gray-900 overflow-y-auto lg:translate-x-0 lg:static lg:inset-0`}>
-    <div className={`${isOpen ? 'translate-x-0 ease-out' : '-translate-x-full ease-in'} fixed z-30 inset-y-0 left-0 w-64 transition duration-300 transform bg-gray-900 overflow-y-auto`}>
+    <div className={`${isOpen ? 'translate-x-0 ease-out' : '-translate-x-full ease-in' } fixed z-30 inset-y-0 left-0 w-64 transition duration-300 transform bg-gray-900 overflow-y-auto lg:translate-x-0 lg:static lg:inset-0`}>
+      {/* <div className={`${isOpen ? 'translate-x-0 ease-out' : '-translate-x-full ease-in'} fixed z-30 inset-y-0 left-0 w-64 transition duration-300 transform bg-gray-900 overflow-y-auto`}> */}
       <Link href={routes.top}>
         <a>
           <div className='flex items-center justify-center mt-8'>
