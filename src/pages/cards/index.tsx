@@ -2,6 +2,8 @@ import { useEffect } from 'react'
 import { GetStaticProps } from 'next'
 import Link from 'next/link'
 
+import { routes } from '../../routes'
+
 import { Layout } from '../../components/common/Layout'
 import { CardType } from '../../types/CardType'
 import { Cards } from '../../constant/cards'
@@ -72,7 +74,7 @@ const Component: React.FC<Props> = ({ cardsData }) => {
                         <td className='px-4.5 py-3.5'>{card.rarelity}</td>
                         <td className='px-4.5 py-3.5'>{card.jobType}</td>
                         <td className='px-4.5 py-3.5 whitespace-nowrap'>
-                          <Link href={`/cards/${card.id}`}>
+                          <Link href={routes.cardsDetail(card.id)}>
                             <a>{card.name}</a>
                           </Link>
                         </td>
