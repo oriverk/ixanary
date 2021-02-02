@@ -1,3 +1,5 @@
+import Link from 'next/link'
+
 import { IconContext } from "react-icons"
 import { MdSearch } from "react-icons/md"
 import { FaMoon, FaSun } from "react-icons/fa"
@@ -21,13 +23,20 @@ export const Header: React.FC<SidebarPropsType> = ({sidebarProps}) => {
           </IconContext.Provider>
         </button>
         {/* input form */}
-        <div className="relative mx-4 lg:mx-0">
-          <span className="absolute inset-y-0 left-0 pl-3 flex items-center">
-            <IconContext.Provider value={{ className: 'h-5 w-5' }}>
-              <MdSearch/>
-            </IconContext.Provider>
-          </span>
-          <input className="form-input w-32 sm:w-64 rounded-md pl-10 pr-4 focus:border-indigo-600" type="text" placeholder="Search" />
+        
+        <div className='relative mx-4 lg:mx-0 text-gray-500 hover:text-black'>
+          <Link href='/search'>
+            <a>
+              <span className='absolute inset-y-0 left-0 pl-3 flex items-center'>
+                <IconContext.Provider value={{ className: 'h-5 w-5' }}>
+                  <MdSearch />
+                </IconContext.Provider>
+              </span>
+              <span className='pl-10 pr-4'>
+                Search
+              </span>
+            </a>
+          </Link>
         </div>
       </div>
       <div className="flex items-center">
