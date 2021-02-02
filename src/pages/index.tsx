@@ -1,10 +1,10 @@
 import { useEffect } from 'react'
 
 import { Layout } from '../components/common/Layout'
-import { CardType } from '../types/CardType'
+import { CardDataType } from '../types/CardDataType'
 
 type Props = {
-  cardsData: CardType[]
+  cardsData: CardDataType[]
 }
 
 const Component: React.FC<Props> = ({ cardsData }) => {
