@@ -5,7 +5,7 @@ import Link from 'next/link'
 import { routes } from '../../routes'
 
 import { Layout } from '../../components/common/Layout'
-import { CardType } from '../../types/CardType'
+import { CardDataType } from '../../types/CardDataType'
 import { Cards } from '../../constant/cards'
 
 export const getStaticProps: GetStaticProps = async () => {
@@ -18,7 +18,7 @@ export const getStaticProps: GetStaticProps = async () => {
 }
 
 type Props = {
-  cardsData: CardType[]
+  cardsData: CardDataType[]
 }
 
 const Component: React.FC<Props> = ({ cardsData }) => {
@@ -41,7 +41,7 @@ const Component: React.FC<Props> = ({ cardsData }) => {
                 <thead>
                   <tr className='divide-x divide-y divide-gray-200 bg-gray-50 text-sm leading-4 font-medium tracking-wider text-gray-500'>
                     <th rowSpan={2} className='px-4.5 py-3 border-b'scope='col'>id</th>
-                    <th rowSpan={2} className='px-4.5 py-3 text-gray-500' scope='col'>レア度</th>
+                    <th rowSpan={2} className='px-4.5 py-3' scope='col'>レア度</th>
                     <th rowSpan={2} className='px-4.5 py-3' scope='col'>職業</th>
                     <th rowSpan={2} className='px-4.5 py-3' scope='col'>名前</th>
                     <th rowSpan={2} className='px-4.5 py-3' scope='col'>スキル</th>
