@@ -1,9 +1,12 @@
 
 import { Layout } from '../components/common/Layout'
+import { CustomHead } from '../components/common/Head'
+import { routes } from '../routes'
 
 const Component: React.FC = () => {
   return (
     <Layout>
+      <CustomHead pageUrl={routes.search} pageTitle='検索' pageDescription='Search | IXAnary' />
       <div className='container mx-auto px-0 py-4 md:px-6 md:py-8'>
         <h3 className='text-2xl md:text-3xl font-medium'>Search</h3>
         <div className='mt-8'></div>

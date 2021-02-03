@@ -8,6 +8,7 @@ import { Layout } from '../../components/common/Layout'
 import { TableOuterLayout } from '../../components/common/TableOuterLayout'
 import { CardDataType } from '../../types/CardDataType'
 import { Cards } from '../../constant/cards'
+import { CustomHead } from '../../components/common/Head'
 
 export const getStaticProps: GetStaticProps = async () => {
   const cardsData = Cards
@@ -31,6 +32,7 @@ const Component: React.FC<Props> = ({ cardsData }) => {
   },[])
   return (
     <Layout>
+      <CustomHead pageUrl={routes.cards} pageTitle='カード一覧' pageDescription='カード一覧 | IXAnary' />
       <div className='container mx-auto px-0 py-4 md:px-6 md:py-8'>
         <h3 className='text-2xl md:text-3xl font-medium'>武将一覧</h3>
         <div className='mt-8'></div>

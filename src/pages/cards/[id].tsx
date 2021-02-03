@@ -11,6 +11,8 @@ import { ParameterChangeTable } from '../../components/cardDetail/ParameterChang
 import { AddSkillTable } from '../../components/cardDetail/AddSkillTable'
 import { CardFront } from '../../components/cardDetail/CardFront'
 import { CardBack } from '../../components/cardDetail/CardBack'
+import { CustomHead } from '../../components/common/Head'
+import { routes } from '../../routes'
 
 export const getStaticPaths: GetStaticPaths = async () => {
   const paths = await Cards.map((card) => {
@@ -67,6 +69,8 @@ const Component: React.FC<CardProps> = ({ cardData }) => {
 
   return (
     <Layout>
+      <CustomHead pageUrl={routes.cardsDetail(cardData.id)} pageTitle={`${CardData.id}: ${CardData.rarelity} ${CardData.name}`}
+        pageDescription={`${CardData.name} | IXAnary`} />
       <div className='container mx-auto px-0 py-4 md:px-6 md:py-8'>
         <h3 className='text-2xl md:text-3xl span-medium'>No.{CardData.id}: {CardData.name}</h3>
         <div className='mb-8'></div>
