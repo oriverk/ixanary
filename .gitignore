@@ -34,5 +34,5 @@ yarn-error.log*
 .vercel
 
 # output style
-src/style/global.css
+# src/style/global.css
 src/style/bundle.min.css
