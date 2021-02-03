@@ -70,7 +70,7 @@ export const CardFront: React.FC<Props> = ({ data }) => {
             {CardData.intelligence.toFixed(1)}
           </div>
         </div>
-        <div className='capacity absolute border border-red-600 border-solid text-center text-lg' style={{ bottom: '2px', right: '8px', width: '90px', height: '30px' }}>
+        <div className='capacity absolute text-center text-lg' style={{ bottom: '2px', right: '8px', width: '90px', height: '30px' }}>
           <span className='text-white text-base'>
             0 / {CardData.capacity}
           </span>

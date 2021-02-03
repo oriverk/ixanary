@@ -12,15 +12,17 @@ export const Layout: React.FC = ({children}) => {
 
   return (
     <div className="flex h-screen bg-gray-200">
-      {/* <div onClick={() => setSidebarOpen(false)} className={`${isSidebarOpen ? 'block' : 'hidden'} fixed z-20 inset-0 bg-black opacity-50 transition-opacity lg:hidden`}></div> */}
-      <div onClick={() => setSidebarState(false)} className={`${isOpen ? 'block' : 'hidden'} fixed z-20 inset-0 bg-black opacity-75 transition-opacity`} />
+      <div onClick={() => setSidebarState(false)} className={`${isOpen ? 'block': 'hidden' } fixed z-20 inset-0 bg-black opacity-50 transition-opacity lg:hidden`} />
+      {/* <div onClick={() => setSidebarState(false)} className={`${isOpen ? 'block' : 'hidden'} fixed z-20 inset-0 bg-black opacity-75 transition-opacity`} /> */}
       <Sidebar sidebarProps={{ isOpen }} />
       <div className="flex-1 flex flex-col overflow-hidden">
-      <Header sidebarProps={{ setSidebarState }} />
-        <main className="flex-1 overflow-x-hidden overflow-y-auto bg-gray-200">
-          {children}
-        </main>
-        <Footer />
+        <Header sidebarProps={{ setSidebarState }} />
+        <div className="flex-1 overflow-x-hidden overflow-y-auto bg-gray-200">
+          <main className='bg-blue-400 max-w-4xl mx-auto p-3'>
+            {children}
+          </main>
+          <Footer />
+        </div>
       </div>
     </div>
   )
