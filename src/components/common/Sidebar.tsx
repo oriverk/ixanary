@@ -5,7 +5,11 @@ import { MdDashboard } from 'react-icons/md'
 import { routes } from '../../routes'
 import { SidebarPropsType } from '../../types'
 
-export const Sidebar: React.FC<SidebarPropsType> = ({sidebarProps}) => {
+type Props = {
+  sidebarProps: Pick<SidebarPropsType, 'isOpen'>
+}
+
+export const Sidebar: React.FC<Props> = ({sidebarProps}) => {
   const { isOpen } = sidebarProps
 
   return (

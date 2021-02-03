@@ -23,6 +23,7 @@ export const getStaticPaths: GetStaticPaths = async () => {
 }
 
 export const getStaticProps: GetStaticProps = async ({ params }) => {
+  // @ts-ignore
   const cardData = await Cards.find((card) => params.id === card.id)
   return {
     props: {

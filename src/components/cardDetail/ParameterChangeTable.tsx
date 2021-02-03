@@ -26,7 +26,7 @@ export const ParameterChangeTable: React.FC<Props> = ({ data }) => {
   
   return (
     <>
-        <div className='align-middle inline-block mx-auto max-w-screen-xl shadow overflow-hidden sm:rounded-lg border-gray-200'>
+        <div className='align-middle inline-block mx-auto max-w-screen-xl shadow sm:rounded-lg border-gray-200'>
           <table className='text-center'>
             <caption>ランクアップによる武将パラメータの変化</caption>
             <thead>

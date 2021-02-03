@@ -36,7 +36,7 @@ const getTheme = (): Themes => {
 }
 
 const ThemeProvider: React.FC = ({ children }) => {
-  const [theme, setTheme] = useState<Themes | null>(null)
+  const [theme, setTheme] = useState<Themes>(defaultTheme)
   
   function toggleTheme(currentTheme: Themes) {
     const newTheme = currentTheme === 'light' ? 'dark' : 'light'

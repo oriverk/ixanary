@@ -1,9 +1,9 @@
 import Image from 'next/image'
 
-import { CardJobType } from '../../types/CardDataType'
+import { CardDataType } from '../../types/CardDataType'
 
 type Props = {
-  job: CardJobType
+  job: CardDataType['jobType']
 }
 
 export const CardJobTypeIcon: React.FC<Props> = ({ job }) => {

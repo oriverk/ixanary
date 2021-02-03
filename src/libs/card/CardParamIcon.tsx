@@ -1,9 +1,9 @@
 import Image from 'next/image'
 
-import { SolParamType } from '../../types/CardDataType'
+import { CardDataType } from '../../types/CardDataType'
 
 type Props = {
-  param: SolParamType
+  param: CardDataType['yari' | 'yumi' | 'kiba' | 'heiki']
 }
 
 export const CardParamIcon: React.FC<Props> = ({ param }) => {

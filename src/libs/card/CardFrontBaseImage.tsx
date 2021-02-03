@@ -1,8 +1,8 @@
 import Image from 'next/image'
 
-type Props = {
-  id: string
-}
+import { CardDataType } from '../../types/CardDataType'
+
+type Props = Pick<CardDataType, 'id'>
 
 export const CardFrontBaseImage: React.FC<Props> = ({ id }) => {
   if ('1951' <= id && id < '2000') {
