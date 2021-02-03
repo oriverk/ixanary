@@ -1,8 +1,12 @@
+import { CardDataType } from './types/CardDataType'
+
+type CardID = CardDataType['id']
+
 export const routes = {
   top: '/',
   search: '/search',
   cards: '/cards',
-  cardsDetail: (cardId: string | number) => `/cards/${cardId}`,
+  cardsDetail: (cardId: CardID) => `/cards/${cardId}`,
   skills: '/skills',
   // skillsDetail: (skillId: string) => `/cards/${skillId}`,
   skillsDetail: '/skills/show',

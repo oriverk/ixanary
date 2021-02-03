@@ -2,10 +2,10 @@ import ixanary from '../../ixanary.config'
 
 const fixedPage = [
   '',
-  'cards',
-  'skills',
-  'unit-skills',
-  'search'
+  'cards/',
+  'skills/',
+  'unit-skills/',
+  'search/'
 ]
 
 export function generateSitemapXml(): string {  

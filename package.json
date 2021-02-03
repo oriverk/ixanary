@@ -1,6 +1,6 @@
 {
-  "name": "ixanary",
-  "description": "Next.js, TypeScript, AMP, TailwindCSS",
+  "name": "ixananary",
+  "description": "Next.js, TypeScript, TailwindCSS",
   "version": "1.0.0",
   "scripts": {
     "dev": "run-p dev:*",
@@ -30,7 +30,8 @@
     "postcss-preset-env": "^6.7.0",
     "raw-loader": "^4.0.2",
     "tailwindcss": "^2.0.2",
-    "typescript": "^4.1.3"
+    "typescript": "^4.1.3",
+    "webpack": "^5.20.1"
   },
   "license": "MIT"
 }
