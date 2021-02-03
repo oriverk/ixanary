@@ -1,10 +1,8 @@
 import Document, { Html, Head, Main, NextScript, DocumentContext } from 'next/document'
 
 // @ts-ignore
-import devCss from '!raw-loader!../style/global.css'
-// @ts-ignore
 import buildCss from '!raw-loader!../style/bundle.css'
-const cssFile = process.env.NODE_ENV === 'development' ? devCss : buildCss
+const cssFile = buildCss
 
 class MyDocument extends Document {
   static async getInitialProps(ctx: DocumentContext) {
