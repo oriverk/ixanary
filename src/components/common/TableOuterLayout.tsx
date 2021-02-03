@@ -1,13 +1,11 @@
 type Props = {
-  paddingBottom?: number,
-  marginBottom?: number
+  marginTop?: number
 }
 
-export const TableOuterLayout: React.FC<Props> = ({ children, paddingBottom, marginBottom }) => {
-  const pb = paddingBottom
-  const mb = marginBottom
+export const TableOuterLayout: React.FC<Props> = ({ children, marginTop }) => {
+  const mt = marginTop
   return (
-    <div className={`-my-2 py-2 overflow-x-auto ${mb && `mb-${mb}`} ${ pb && `pb-${pb}` }sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8`}>
+    <div className={`-my-2 py-2 overflow-x-auto ${mt && `mb-${mt}`} sm:-mx-6 sm:px-6 lg:-mx-8 lg:px-8`}>
       <div className="align-middle inline-block min-w-full shadow overflow-x-auto sm:rounded-lg">
         {children}
       </div>

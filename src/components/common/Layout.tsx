@@ -20,7 +20,7 @@ export const Layout: React.FC = ({children}) => {
       <div className="flex-1 flex flex-col overflow-hidden">
         <Header sidebarProps={{ setSidebarState }} />
         <div className="flex-1 overflow-x-hidden overflow-y-auto">
-          <main className='max-w-4xl mx-auto p-3'>
+          <main className='max-w-5xl mx-auto p-3'>
             {children}
           </main>
           <Footer />
