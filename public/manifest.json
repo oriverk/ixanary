@@ -1,0 +1,36 @@
+{
+  "name":"Ixa dictionary",
+  "short_name":"Ixanary",
+  "start_url": ".",
+  "display":"standalone",
+  "background_color":"#181A1B",
+  "theme_color":"#1B1491",
+  "description": "戦国ixa に関する情報を集める半自動生成の百科事典",
+  "lang": "ja-JP",
+  "icons":[
+    {
+      "src":"./assets/favicon/icon48.jpg",
+      "sizes":"48x48",
+      "type":"image/jpg",
+      "purpose": "any maskable"
+    },
+    {
+      "src":"./assets/favicon/icon128.jpg",
+      "sizes":"128x128",
+      "type":"image/jpg",
+      "purpose": "any maskable"
+    },
+    {
+      "src":"./assets/favicon/icon192.jpg",
+      "sizes":"192x192",
+      "type":"image/jpg",
+      "purpose": "any maskable"
+    },
+    {
+      "src":"./assets/favicon/icon512.jpg",
+      "sizes":"512x512",
+      "type":"image/jpg",
+      "purpose": "any maskable"
+    }
+  ]
+}
