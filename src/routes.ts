@@ -1,5 +1,6 @@
 export const routes = {
   top: '/',
+  search: '/search',
   cards: '/cards',
   cardsDetail: (cardId: string | number) => `/cards/${cardId}`,
   skills: '/skills',
