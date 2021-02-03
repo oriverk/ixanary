@@ -3,7 +3,7 @@ import Document, { Html, Head, Main, NextScript, DocumentContext } from 'next/do
 // @ts-ignore
 import devCss from '!raw-loader!../style/global.css'
 // @ts-ignore
-import buildCss from '!raw-loader!../style/bundle.min.css'
+import buildCss from '!raw-loader!../style/bundle.css'
 const cssFile = process.env.NODE_ENV === 'development' ? devCss : buildCss
 
 class MyDocument extends Document {

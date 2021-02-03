@@ -7,7 +7,7 @@
     "dev:css": "postcss src/style/tailwind.css -o src/style/global.css",
     "dev:next": "next",
     "build": "run-s build:*",
-    "build:css": "NODE_ENV=production postcss src/style/tailwind.css -o src/style/bundle.min.css",
+    "build:css": "NODE_ENV=production postcss src/style/tailwind.css -o src/style/bundle.css",
     "build:next": "next build",
     "start": "next start"
   },

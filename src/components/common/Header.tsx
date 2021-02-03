@@ -20,7 +20,7 @@ export const Header: React.FC<Props> = ({ sidebarProps }) => {
   return (
     <header className="flex justify-between items-center py-4 px-6 border-b-4 border-indigo-600">
       <div className="flex items-center">
-        <button onClick={() => setSidebarState(true)} className="text-gray-500 focus:outline-none md:hidden">
+        <button onClick={() => setSidebarState(true)} className="text-gray-500 lg:hidden">
         {/* <button onClick={()=>setSidebarOpen(true)} className="text-gray-500 focus:outline-none lg:hidden"> */}
           <IconContext.Provider value={{ className: 'h-6 w-6' }}>
             <GiHamburgerMenu/>
@@ -43,9 +43,9 @@ export const Header: React.FC<Props> = ({ sidebarProps }) => {
       </div>
       <div className="flex items-center">
         <div className="relative">
-          <button onClick={() => toggleTheme(theme)} className='flex mx-4 text-yellow-400 dark:text-yellow-500 focus:outline-none'>
+          <button onClick={() => toggleTheme(theme)} className='flex mx-4 text-yellow-500 focus:outline-none'>
             <IconContext.Provider value={{ className: 'h-6 w-6' }}>
-              {theme === 'light' ? <FaMoon /> : <FaSun />}
+              {theme === 'dark' ? <FaMoon /> : <FaSun />}
             </IconContext.Provider>
           </button>
         </div>
