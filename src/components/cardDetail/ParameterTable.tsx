@@ -13,30 +13,30 @@ export const ParameterTable: React.FC<Props> = ({ data }) => {
       <caption className='mb-2 font-semibold'>武将パラメータ</caption>
       <thead className='bg-gray-300 text-gray-800 dark:bg-gray-800 dark:text-gray-200'>
         <tr className='text-sm leading-4 span-medium tracking-wider'>
-          <th rowSpan={2} className='px-4.5 py-2.5 border border-gray-500' scope='col'>id</th>
-          <th rowSpan={2} className='px-4.5 py-2.5 border border-gray-500 whitespace-pre' scope='col'>{`レ\nア`}</th>
-          <th rowSpan={2} className='px-4.5 py-2.5 border border-gray-500 whitespace-pre' scope='col'>{`職\n業`}</th>
-          <th rowSpan={2} className='px-4.5 py-2.5 border border-gray-500' scope='col'>名前</th>
-          <th rowSpan={2} className='px-4.5 py-2.5 border border-gray-500' scope='col'>スキル</th>
-          <th rowSpan={2} className='px-4.5 py-2.5 border border-gray-500 whitespace-pre' scope='col'>{`コ\nス\nト`}</th>
-          <th rowSpan={2} className='px-4.5 py-2.5 border border-gray-500' scope='col'>指揮</th>
-          <th rowSpan={2} className='px-4.5 py-2.5 border border-gray-500' scope='col'>槍</th>
-          <th rowSpan={2} className='px-4.5 py-2.5 border border-gray-500' scope='col'>弓</th>
-          <th rowSpan={2} className='px-4.5 py-2.5 border border-gray-500' scope='col'>馬</th>
-          <th rowSpan={2} className='px-4.5 py-2.5 border border-gray-500' scope='col'>器</th>
+          <th rowSpan={2} className='px-4.5 py-3 border border-gray-500' scope='col'>id</th>
+          <th rowSpan={2} className='px-4.5 py-3 border border-gray-500 whitespace-pre' scope='col'>{`レ\nア`}</th>
+          <th rowSpan={2} className='px-4.5 py-3 border border-gray-500 whitespace-pre' scope='col'>{`職\n業`}</th>
+          <th rowSpan={2} className='px-4.5 py-3 border border-gray-500' scope='col'>名前</th>
+          <th rowSpan={2} className='px-4.5 py-3 border border-gray-500' scope='col'>スキル</th>
+          <th rowSpan={2} className='px-4.5 py-3 border border-gray-500 whitespace-pre' scope='col'>{`コ\nス\nト`}</th>
+          <th rowSpan={2} className='px-4.5 py-3 border border-gray-500' scope='col'>指揮</th>
+          <th rowSpan={2} className='px-4.5 py-3 border border-gray-500' scope='col'>槍</th>
+          <th rowSpan={2} className='px-4.5 py-3 border border-gray-500' scope='col'>弓</th>
+          <th rowSpan={2} className='px-4.5 py-3 border border-gray-500' scope='col'>馬</th>
+          <th rowSpan={2} className='px-4.5 py-3 border border-gray-500' scope='col'>器</th>
 
           <th colSpan={3} className='px-4.5 py-2 border border-gray-500' scope='colgroup'>初期値</th>
           <th colSpan={3} className='px-4.5 py-2 border border-gray-500' scope='colgroup'>成長値</th>
 
-          <th rowSpan={2} className='px-4.5 py-2.5 border border-gray-500' scope='col'>部隊スキル</th>
+          <th rowSpan={2} className='px-4.5 py-3 border border-gray-500' scope='col'>部隊スキル</th>
         </tr>
         <tr className='text-sm leading-4 span-medium tracking-wider'>
-          <th className='px-4.5 py-2.5 border border-gray-500' scope='col'>攻</th>
-          <th className='px-4.5 py-2.5 border border-gray-500' scope='col'>防</th>
-          <th className='px-4.5 py-2.5 border border-gray-500' scope='col'>兵</th>
-          <th className='px-4.5 py-2.5 border border-gray-500' scope='col'>攻</th>
-          <th className='px-4.5 py-2.5 border border-gray-500' scope='col'>防</th>
-          <th className='px-4.5 py-2.5 border border-gray-500' scope='col'>兵</th>
+          <th className='px-4.5 py-3 border border-gray-500' scope='col'>攻</th>
+          <th className='px-4.5 py-3 border border-gray-500' scope='col'>防</th>
+          <th className='px-4.5 py-3 border border-gray-500' scope='col'>兵</th>
+          <th className='px-4.5 py-3 border border-gray-500' scope='col'>攻</th>
+          <th className='px-4.5 py-3 border border-gray-500' scope='col'>防</th>
+          <th className='px-4.5 py-3 border border-gray-500' scope='col'>兵</th>
         </tr>
       </thead>
       <tbody className='bg-gray-50 text-gray-600 dark:bg-gray-700 dark:text-gray-300'>

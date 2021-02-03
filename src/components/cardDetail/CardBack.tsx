@@ -1,5 +1,6 @@
-import { CardDataType } from '../../types/CardDataType'
+import Image from 'next/image'
 
+import { CardDataType } from '../../types/CardDataType'
 import { CardJobTypeIcon } from '../../libs/card'
 
 type Props = {
@@ -9,8 +10,12 @@ type Props = {
 export const CardBack: React.FC<Props> = ({ data }) => {
   const CardData = data
   return (
-    <div id='card_back' className='relative mx-auto text-gray-900' style={{ width:'224px', height: '315px'}}>
-      <img src='/assets/card_back.jpg' className='absolute top-0 left-0' />
+    <div id='card_back' className='relative mx-auto text-gray-900' style={{ width: '224px', height: '315px' }}>
+      <div className='absolute top-0 left-0'>
+        <Image src='/assets/1066_back.png'
+          layout='fixed' width={224} height={315} />
+      </div>
+      <img src='/assets/card/card_back.jpg' className='absolute top-0 left-0' />
       <div className='absolute top-0 left-0'>
         <div className='flex flex-row'>
           <div className='jobtype text-center' style={{ margin: '11px 0 0 12px', width: '30px', height: '30px' }}>

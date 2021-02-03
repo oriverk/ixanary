@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import Image from 'next/image'
 
 import { CardDataType } from '../../types/CardDataType'
 import { CardFrontFrameImage, CardFrontBaseImage, CardRarelityIcon, CardParamIcon } from '../../libs/card'
@@ -16,11 +17,18 @@ export const CardFront: React.FC<Props> = ({ data }) => {
     <div id='card_front' className={`relative mx-auto`} style={{ width: '224px', height: '315px' }}
       onClick={() => setCardState(cardState + 1)}
     >
-      <img src='/assets/1066_back.png' className='absolute top-0 left-0' />
+      <div className='absolute top-0 left-0'>
+        <Image src='/assets/1066_back.png'
+          layout='fixed' width={224} height={315} loading='eager' />
+      </div>
+      {/* <img src='/assets/1066_back.png' className='absolute top-0 left-0' /> */}
       <div className={`absolute top-0 left-0 ${cardState % 3 === 2 ? 'hidden' : ''}`}>
         <CardFrontFrameImage id={CardData.id} />
       </div>
-      <img src='/assets/1066.png' className='absolute top-0 left-0' />
+      <div className='absolute top-0 left-0'>
+        <Image src='/assets/1066.png'
+          layout='fixed' width={224} height={315} loading='eager' />
+      </div>
       <div className={`absolute top-0 left-0 ${cardState % 3 !== 0 ? 'hidden' : ''}`}>
         <CardFrontBaseImage id={CardData.id} />
       </div>
