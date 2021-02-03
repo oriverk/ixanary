@@ -69,7 +69,7 @@ const Component: React.FC<CardProps> = ({ cardData }) => {
 
   return (
     <Layout>
-      <CustomHead pageUrl={routes.cardsDetail(cardData.id)} pageTitle={`${CardData.id}: ${CardData.rarelity} ${CardData.name}`}
+      <CustomHead pageUrl={routes.cardsDetail(CardData.id)} pageTitle={`${CardData.id} : ${CardData.name}`}
         pageDescription={`${CardData.name} | IXAnary`} />
       <div className='container mx-auto px-0 py-4 md:px-6 md:py-8'>
         <h3 className='text-2xl md:text-3xl span-medium'>No.{CardData.id}: {CardData.name}</h3>

@@ -26,7 +26,7 @@ class MyDocument extends Document {
 
   render() {
     return (
-      <Html>
+      <Html lang={ixanary.lang}>
         <Head>
           <meta name='format-detection' content='email=no,telephone=no,address=no' />
           <meta name='theme-color' content={ixanary.themeColor} />
