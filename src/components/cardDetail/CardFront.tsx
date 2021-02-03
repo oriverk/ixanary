@@ -24,19 +24,19 @@ export const CardFront: React.FC<Props> = ({ data }) => {
       <div className={`absolute top-0 left-0 ${cardState % 3 !== 0 ? 'hidden' : ''}`}>
         <CardFrontBaseImage id={CardData.id} />
       </div>
-      <div className={`absolute top-0 left-0 w-full h-full ${cardState % 3 !== 0 ? 'hidden' : ''}`}>
+      <div className={`absolute top-0 left-0 w-full h-full text-gray-100 ${cardState % 3 !== 0 ? 'hidden' : ''}`}>
         <div className='rarelity absolute' style={{ top: '10px', left: '2px', width: '30px', height: '30px' }}>
-          <span className='text-white'>
+          <span>
             <CardRarelityIcon id={CardData.id} />
           </span>
         </div>
         <div className='cost absolute text-center' style={{ top: '48px', left: '2px', width: '30px', height: '30px' }}>
-          <span className='text-white'>
+          <span>
             {CardData.cost}
           </span>
         </div>
         <div className='name absolute text-center py-3' style={{ top: '23px', right: '4px', width: '43px', height: '132px' }}>
-          <span className='whitespace-pre text-white font-medium'>
+          <span className='whitespace-pre font-medium'>
             {CardData.name.split('').join(`\n`)}
           </span>
         </div>
@@ -55,11 +55,11 @@ export const CardFront: React.FC<Props> = ({ data }) => {
           </span>
         </div>
         <div className='id absolute' style={{ bottom: '42px', left: '20px', width: '30px', height: '20px' }}>
-          <span className='text-white text-base'>
+          <span className=' text-base'>
             {CardData.id}
           </span>
         </div>
-        <div className='params absolute text-center text-sm text-white' style={{ bottom: '31px', right: '4px', width: '57px', height: '73px' }}>
+        <div className='params absolute text-center text-sm ' style={{ bottom: '31px', right: '4px', width: '57px', height: '73px' }}>
           <div className='attack'>
             {CardData.attack}
           </div>
@@ -71,7 +71,7 @@ export const CardFront: React.FC<Props> = ({ data }) => {
           </div>
         </div>
         <div className='capacity absolute text-center text-lg' style={{ bottom: '2px', right: '8px', width: '90px', height: '30px' }}>
-          <span className='text-white text-base'>
+          <span className='text-base'>
             0 / {CardData.capacity}
           </span>
         </div>

@@ -65,8 +65,8 @@ const Component: React.FC<CardProps> = ({ cardData }) => {
 
   return (
     <Layout>
-      <div className='container mx-auto px-6 py-8'>
-        <h3 className='text-gray-700 text-3xl span-medium'>No.{CardData.id}: {CardData.name}</h3>
+      <div className='container mx-auto px-0 py-4 md:px-6 md:py-8'>
+        <h3 className='text-2xl md:text-3xl span-medium'>No.{CardData.id}: {CardData.name}</h3>
         <div className='mb-8'></div>
         <div className='flex flex-col'>
           <div className='flex flex-col sm:flex-row mb-4'>
@@ -77,10 +77,10 @@ const Component: React.FC<CardProps> = ({ cardData }) => {
               <CardBack data={CardData} />
             </div>
           </div>
-          <TableOuterLayout marginBottom={2}>
-            <table className='text-center min-w-full'>
-              <thead>
-                <tr className='divide-x divide-y divide-gray-200 bg-gray-50 text-sm leading-4 span-medium tracking-wider text-gray-500'>
+          <TableOuterLayout marginBottom={4} paddingBottom={4}>
+            <table className='text-center min-w-full border border-gray-400 dark:border-gray-50'>
+              <thead className='bg-gray-300 text-gray-800 dark:bg-gray-800 dark:text-gray-200'>
+                <tr className='divide-x divide-y border-gray-800 dark:divide-gray-50 text-sm leading-4 span-medium tracking-wider'>
                   <th className='px-4.5 py-3'scope='col'>id</th>
                   <th className='px-4.5 py-3' scope='col'>レア度</th>
                   <th className='px-4.5 py-3' scope='col'>職業</th>
@@ -89,8 +89,8 @@ const Component: React.FC<CardProps> = ({ cardData }) => {
                   <th className='px-4.5 py-3' scope='col'>名前</th>
                 </tr>
               </thead>
-              <tbody className='bg-white'>
-                <tr className='divide-x divide-y divide-gray-200 text-base leading-5 text-gray-500'>
+              <tbody className='bg-gray-50 text-gray-600 dark:bg-gray-700 dark:text-gray-300'>
+                <tr className='divide-x divide-gray-200 text-base leading-5'>
                   <td className='px-4.5 py-3.5'>{CardData.id}</td>
                   <td className='px-4.5 py-3.5'>{CardData.rarelity}</td>
                   <td className='px-4.5 py-3.5'>{CardData.jobType}</td>
@@ -101,13 +101,13 @@ const Component: React.FC<CardProps> = ({ cardData }) => {
               </tbody>
             </table> 
           </TableOuterLayout>
-          <TableOuterLayout marginBottom={2}>
+          <TableOuterLayout marginBottom={4} paddingBottom={4}>
             <ParameterChangeTable data={CardData} />
           </TableOuterLayout>
-          <TableOuterLayout marginBottom={2}>
+          <TableOuterLayout marginBottom={4} paddingBottom={4}>
             <AddSkillTable data={CardData} />
           </TableOuterLayout>
-          <div className='border border-red-700 border-solid'>4</div>
+          {/* <div className='border border-red-700 border-solid'>4</div> */}
         </div>
       </div>
     </Layout>

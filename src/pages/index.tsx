@@ -16,8 +16,8 @@ const Component: React.FC<Props> = ({ cardsData }) => {
   },[])
   return (
     <Layout>
-      <div className='container mx-auto px-6 py-8'>
-        <h3 className='text-gray-700 text-3xl font-medium'>index</h3>
+      <div className='container mx-auto px-0 py-4 md:px-6 md:py-8'>
+        <h3 className='text-2xl md:text-3xl font-medium'>index</h3>
         <div className='mt-8'></div>
         {/* <Table /> */}
         <div className='flex flex-col mt-8'>

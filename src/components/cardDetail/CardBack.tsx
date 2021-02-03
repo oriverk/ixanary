@@ -9,7 +9,7 @@ type Props = {
 export const CardBack: React.FC<Props> = ({ data }) => {
   const CardData = data
   return (
-    <div id='card_back' className='relative mx-auto' style={{ width:'224px', height: '315px'}}>
+    <div id='card_back' className='relative mx-auto text-gray-900' style={{ width:'224px', height: '315px'}}>
       <img src='/assets/card_back.jpg' className='absolute top-0 left-0' />
       <div className='absolute top-0 left-0'>
         <div className='flex flex-row'>
@@ -20,17 +20,17 @@ export const CardBack: React.FC<Props> = ({ data }) => {
             {CardData.hiragana}
           </div>
         </div>
-        <div className='skills border-2 border-black border-solid z-20 rounded-md bg-white' style={{ margin:'27px 0 0 10px', width:'205px',height:'233px'}}>
-          <div className='skill border-b border-black border-solid' style={{height:'50%'}}>
-            <p className='name border-b px-2 border-black border-solid p-0.5 text-sm' style={{backgroundColor:'#ece4aa'}}>
+        <div className='skills border-2 border-gray-900 border-solid z-20 rounded-md bg-gray-100' style={{ margin:'27px 0 0 10px', width:'205px',height:'233px'}}>
+          <div className='skill border-b border-gray-900 border-solid' style={{height:'50%'}}>
+            <p className='name border-b px-2 border-gray-900 border-solid p-0.5 text-sm bg-yellow-200'>
               {CardData.skill.name}
             </p>
             <p className='description p-2 text-xs'>
               {CardData.skill.name}
             </p>
           </div>
-          <div className='skill border-b border-black border-solid' style={{ height: '50%' }}>
-            <p className='name border-b px-2 border-black border-solid p-0.5 text-sm' style={{ backgroundColor: '#ece4aa' }}>
+          <div className='skill border-b border-gray-900 border-solid' style={{ height: '50%' }}>
+            <p className='name border-b px-2 border-gray-900 border-solid p-0.5 text-sm bg-yellow-200'>
               焔槍雷戟LV10
             </p>
             <p className='description p-2 text-xs'>
@@ -43,7 +43,7 @@ export const CardBack: React.FC<Props> = ({ data }) => {
         </div>
       </div>
       <div className='illustrator absolute bottom-0 left-10'>
-        <span className='block leading-none text-white text-sm'>
+        <span className='block leading-none text-gray-100 text-sm'>
           {CardData.illustrator}
         </span>
       </div>

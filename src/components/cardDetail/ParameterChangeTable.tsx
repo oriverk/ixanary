@@ -25,13 +25,13 @@ export const ParameterChangeTable: React.FC<Props> = ({ data }) => {
   const { rarelity, attack, defence, intelligence, attackGrowth, defenceGrowth, intGrowth } = data
   
   return (
-    <table className='min-w-full text-center'>
-      <caption>ランクアップによる武将パラメータの変化</caption>
-      <thead>
-        <tr className='divide-x divide-y divide-gray-200 bg-gray-50 text-sm leading-4 font-medium tracking-wider text-gray-500'>
+    <table className='text-center min-w-full border border-gray-400 dark:border-gray-50'>
+      <caption className='mb-2'>ランクアップによる武将パラメータの変化</caption>
+      <thead className='bg-gray-300 text-gray-800 dark:bg-gray-800 dark:text-gray-200'>
+        <tr className='divide-x divide-y border-gray-800 dark:divide-gray-50 text-sm leading-4 span-medium tracking-wider'>
           <th className='px-4.5 py-3' colSpan={11}>武将パラメータ</th>
         </tr>
-        <tr className='divide-x divide-y divide-gray-200 bg-gray-50 text-sm leading-4 font-medium tracking-wider text-gray-500'>
+        <tr className='divide-x divide-y border-gray-800 dark:divide-gray-50 text-sm leading-4 span-medium tracking-wider'>
           <td className='px-4.5 py-3'></td>
           <th className='px-4.5 py-3' scope='col'>初期値</th>
           <th className='px-4.5 py-3' scope='col'>成長値</th>
@@ -45,8 +45,8 @@ export const ParameterChangeTable: React.FC<Props> = ({ data }) => {
           <th className='px-4.5 py-3' scope='col'>極限突破</th>
         </tr>
       </thead>
-      <tbody className='bg-white'>
-        <tr className='divide-x divide-y divide-gray-200 text-base leading-5 text-gray-500'>
+      <tbody className='bg-gray-50 text-gray-600 dark:bg-gray-700 dark:text-gray-300'>
+        <tr className='divide-x divide-gray-200 text-base leading-5'>
           <th className='px-4.5 py-3.5'　scope='row'>攻撃力</th>
           <td className='px-4.5 py-3.5'>{attack}</td>
           <td className='px-4.5 py-3.5'>+ {attackGrowth}</td>
@@ -58,7 +58,7 @@ export const ParameterChangeTable: React.FC<Props> = ({ data }) => {
             )
           })}
         </tr>
-        <tr className='divide-x divide-y divide-gray-200 text-base leading-5 text-gray-500'>
+        <tr className='divide-x divide-gray-200 text-base leading-5'>
           <th className='px-4.5 py-3.5'　scope='row'>防御力</th>
           <td className='px-4.5 py-3.5'>{defence}</td>
           <td className='px-4.5 py-3.5'>+ {defenceGrowth}</td>
@@ -70,7 +70,7 @@ export const ParameterChangeTable: React.FC<Props> = ({ data }) => {
             )
           })}
         </tr>
-        <tr className='divide-x divide-y divide-gray-200 text-base leading-5 text-gray-500'>
+        <tr className='divide-x divide-gray-200 text-base leading-5'>
           <th className='px-4.5 py-3.5'　scope='row'>兵法</th>
           <td className='px-4.5 py-3.5'>{intelligence}</td>
           <td className='px-4.5 py-3.5'>+ {intGrowth.toFixed(1)}</td>

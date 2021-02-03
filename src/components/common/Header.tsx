@@ -18,7 +18,7 @@ export const Header: React.FC<Props> = ({ sidebarProps }) => {
   const { setSidebarState } = sidebarProps
 
   return (
-    <header className="flex justify-between items-center py-4 px-6 bg-white border-b-4 border-indigo-600">
+    <header className="flex justify-between items-center py-4 px-6 border-b-4 border-indigo-600">
       <div className="flex items-center">
         <button onClick={() => setSidebarState(true)} className="text-gray-500 focus:outline-none md:hidden">
         {/* <button onClick={()=>setSidebarOpen(true)} className="text-gray-500 focus:outline-none lg:hidden"> */}
@@ -26,7 +26,7 @@ export const Header: React.FC<Props> = ({ sidebarProps }) => {
             <GiHamburgerMenu/>
           </IconContext.Provider>
         </button>
-        <div className='relative mx-4 lg:mx-0 text-gray-500 hover:text-black'>
+        <div className='relative mx-4 lg:mx-0 text-gray-500 hover:text-black dark:text-gray-400 dark:hover:text-white'>
           <Link href='/search'>
             <a>
               <span className='absolute inset-y-0 left-0 pl-3 flex items-center'>
@@ -43,7 +43,7 @@ export const Header: React.FC<Props> = ({ sidebarProps }) => {
       </div>
       <div className="flex items-center">
         <div className="relative">
-          <button onClick={() => toggleTheme(theme)} className='flex mx-4 text-yellow-500 focus:outline-none'>
+          <button onClick={() => toggleTheme(theme)} className='flex mx-4 text-yellow-400 dark:text-yellow-500 focus:outline-none'>
             <IconContext.Provider value={{ className: 'h-6 w-6' }}>
               {theme === 'light' ? <FaMoon /> : <FaSun />}
             </IconContext.Provider>
