@@ -1,6 +1,6 @@
 type SkillDataType = {
   name: string,
-  rarelity?: 'sss' | 'ss' | 's' | 'a' | 'b' | 'c' | 'd' | 'e' | 'f',
+  rarity?: 'sss' | 'ss' | 's' | 'a' | 'b' | 'c' | 'd' | 'e' | 'f',
   type: "攻" | "防" | "特",
   description?: string
 }
@@ -9,7 +9,7 @@ export type CardDataType = {
   id: string, // i prefer string but this id will be used in params so...
   name: string,
   hiragana?: string,
-  rarelity: '天' | '極' | '特' | '上' | '序' | '祝' | '童' | '雅' | '化' ,
+  rarity: '天' | '極' | '特' | '上' | '序' | '祝' | '童' | '雅' | '化' ,
   jobType: '覇' | '将' | '姫' | '剣' | '文' | '童',
   illustrator?: string, // string | undefined
   description?: string,

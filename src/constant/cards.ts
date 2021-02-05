@@ -4,7 +4,7 @@ export const Cards: CardDataType[] = [
   {
     id: '1001',
     name: '織田信長',
-    rarelity: '天',
+    rarity: '天',
     jobType: '将',
     illustrator: '',
     cost: 3.5,
@@ -28,7 +28,7 @@ export const Cards: CardDataType[] = [
   {
     id: '2001',
     jobType: '将',
-    rarelity: '極',
+    rarity: '極',
     name: '本多忠勝',
     cost: 3.0,
     capacity: 2790,
@@ -51,7 +51,7 @@ export const Cards: CardDataType[] = [
   {
     id: '3001',
     jobType: '剣',
-    rarelity: '特',
+    rarity: '特',
     name: '上泉信綱',
     cost: 2.0,
     capacity: 820,
@@ -74,7 +74,7 @@ export const Cards: CardDataType[] = [
   {
     id: '4001',
     jobType: '将',
-    rarelity: '上',
+    rarity: '上',
     name: '武田晴信',
     cost: 3.0,
     capacity: 2370,

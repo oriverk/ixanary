@@ -22,7 +22,7 @@ function getParamAfterDistribution(init: number, growth: number, rank: number): 
 }
 
 export const ParameterChangeTable: React.FC<Props> = ({ data }) => {
-  const { rarelity, attack, defence, intelligence, attackGrowth, defenceGrowth, intGrowth } = data
+  const { rarity, attack, defence, intelligence, attackGrowth, defenceGrowth, intGrowth } = data
   
   return (
     <table className='text-center min-w-full'>

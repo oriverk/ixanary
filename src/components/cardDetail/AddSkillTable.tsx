@@ -6,7 +6,7 @@ type Props = {
 
 export const AddSkillTable: React.FC<Props> = ({ data }) => {
   const CardData = data
-  const caption = `${CardData.skill.type}: ${CardData.skill.name} [CardData.skill.rarelity] の合成テーブル`
+  const caption = `${CardData.skill.type}: ${CardData.skill.name} [CardData.skill.rarity] の合成テーブル`
   return (
     <table className='min-w-full text-center'>
       <caption className='mb-2 font-semibold'>{caption}</caption>

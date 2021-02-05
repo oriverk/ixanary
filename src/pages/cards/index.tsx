@@ -73,7 +73,7 @@ const Component: React.FC<Props> = ({ cardsData }) => {
                   return (
                     <tr key={card.name} className='text-base leading-5'>
                       <td className='px-4.5 py-3.5 border border-gray-500'>{card.id}</td>
-                      <td className='px-4.5 py-3.5 border border-gray-500'>{card.rarelity}</td>
+                      <td className='px-4.5 py-3.5 border border-gray-500'>{card.rarity}</td>
                       <td className='px-4.5 py-3.5 border border-gray-500'>{card.jobType}</td>
                       <td className='px-4.5 py-3.5 border border-gray-500 whitespace-nowrap'>
                         <Link href={routes.cardsDetail(card.id)}>

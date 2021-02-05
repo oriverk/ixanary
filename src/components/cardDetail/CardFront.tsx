@@ -2,7 +2,7 @@ import { useState } from 'react'
 import Image from 'next/image'
 
 import { CardDataType } from '../../types/CardDataType'
-import { CardFrontFrameImage, CardFrontBaseImage, CardRarelityIcon, CardParamIcon } from '../../libs/card'
+import { CardFrontFrameImage, CardFrontBaseImage, CardRarityIcon, CardParamIcon } from '../../libs/card'
 
 type Props = {
   data: CardDataType
@@ -33,9 +33,9 @@ export const CardFront: React.FC<Props> = ({ data }) => {
         <CardFrontBaseImage id={CardData.id} />
       </div>
       <div className={`absolute top-0 left-0 w-full h-full text-gray-100 ${cardState % 3 !== 0 ? 'hidden' : ''}`}>
-        <div className='rarelity absolute' style={{ top: '10px', left: '2px', width: '30px', height: '30px' }}>
+        <div className='rarity absolute' style={{ top: '10px', left: '2px', width: '30px', height: '30px' }}>
           <span>
-            <CardRarelityIcon id={CardData.id} />
+            <CardRarityIcon id={CardData.id} />
           </span>
         </div>
         <div className='cost absolute text-center' style={{ top: '48px', left: '2px', width: '30px', height: '30px' }}>

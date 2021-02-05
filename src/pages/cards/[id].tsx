@@ -45,7 +45,7 @@ const Component: React.FC<CardProps> = ({ cardData }) => {
     id: '1001',
     name: '織田信長',
     hiragana: 'おだのぶなが',
-    rarelity: '天',
+    rarity: '天',
     jobType: '将',
     illustrator: '',
     cost: 3.5,

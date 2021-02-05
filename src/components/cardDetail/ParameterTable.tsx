@@ -42,7 +42,7 @@ export const ParameterTable: React.FC<Props> = ({ data }) => {
       <tbody className='bg-gray-50 text-gray-600 dark:bg-gray-700 dark:text-gray-300'>
         <tr key={CardData.name} className='text-base leading-5'>
           <td className='px-4.5 py-3.5 border border-gray-500'>{CardData.id}</td>
-          <td className='px-4.5 py-3.5 border border-gray-500'>{CardData.rarelity}</td>
+          <td className='px-4.5 py-3.5 border border-gray-500'>{CardData.rarity}</td>
           <td className='px-4.5 py-3.5 border border-gray-500'>{CardData.jobType}</td>
           <td className='px-4.5 py-3.5 border border-gray-500 whitespace-nowrap'>{CardData.name}</td>
           <td className='px-4.5 py-3.5 border border-gray-500 whitespace-nowrap'>
