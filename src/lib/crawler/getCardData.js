@@ -21,7 +21,7 @@ async function getCardData(page, url, tableSelecotr) {
     const units = datum[16].split('/').map(unit => unit.replace('...', ''))
     
     data.push({
-      id: datum[0],
+      id: parseInt(datum[0],10),
       rarity: datum[1],
       jobType: datum[17],
       illustrator: '',

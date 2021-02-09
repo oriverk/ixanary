@@ -1,0 +1,5802 @@
+[
+  {
+    "id": "5001",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "鬼庭良直",
+    "cost": 2,
+    "capacity": 1670,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "C",
+    "heiki": "E",
+    "attack": 535,
+    "defence": 475,
+    "intelligence": 250,
+    "attackGrowth": 13,
+    "defenceGrowth": 13,
+    "intGrowth": 1,
+    "skill": {
+      "name": "槍隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5002",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "島津歳久",
+    "cost": 2.5,
+    "capacity": 1870,
+    "yari": "D",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "B",
+    "attack": 560,
+    "defence": 450,
+    "intelligence": 350,
+    "attackGrowth": 14,
+    "defenceGrowth": 12,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "鉄砲隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      "薩摩"
+    ]
+  },
+  {
+    "id": "5003",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "朝倉景鏡",
+    "cost": 2,
+    "capacity": 1770,
+    "yari": "E",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "E",
+    "attack": 465,
+    "defence": 445,
+    "intelligence": 330,
+    "attackGrowth": 11,
+    "defenceGrowth": 11,
+    "intGrowth": 1,
+    "skill": {
+      "name": "弓隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5004",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "海北綱親",
+    "cost": 2,
+    "capacity": 1550,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 425,
+    "defence": 480,
+    "intelligence": 380,
+    "attackGrowth": 12,
+    "defenceGrowth": 12,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      "海赤"
+    ]
+  },
+  {
+    "id": "5005",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "十河一存",
+    "cost": 2,
+    "capacity": 1540,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 500,
+    "defence": 535,
+    "intelligence": 370,
+    "attackGrowth": 13,
+    "defenceGrowth": 13,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      "戦場"
+    ]
+  },
+  {
+    "id": "5006",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "小島弥太郎",
+    "cost": 1.5,
+    "capacity": 1150,
+    "yari": "B",
+    "yumi": "F",
+    "kiba": "F",
+    "heiki": "F",
+    "attack": 580,
+    "defence": 590,
+    "intelligence": 100,
+    "attackGrowth": 14,
+    "defenceGrowth": 14,
+    "intGrowth": 1,
+    "skill": {
+      "name": "槍隊堅守",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      "戦場"
+    ]
+  },
+  {
+    "id": "5007",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "蜂須賀小六",
+    "cost": 2.5,
+    "capacity": 1940,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "C",
+    "heiki": "C",
+    "attack": 550,
+    "defence": 545,
+    "intelligence": 390,
+    "attackGrowth": 13,
+    "defenceGrowth": 13,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "鉄砲隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5008",
+    "rarity": "序",
+    "jobType": "剣",
+    "illustrator": "",
+    "description": "",
+    "name": "細川幽斎",
+    "cost": 2,
+    "capacity": 1110,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "F",
+    "attack": 550,
+    "defence": 550,
+    "intelligence": 410,
+    "attackGrowth": 25,
+    "defenceGrowth": 25,
+    "intGrowth": 2,
+    "skill": {
+      "name": "弓隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      "剣の"
+    ]
+  },
+  {
+    "id": "5009",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "原虎胤",
+    "cost": 2,
+    "capacity": 1570,
+    "yari": "B",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "F",
+    "attack": 580,
+    "defence": 450,
+    "intelligence": 220,
+    "attackGrowth": 14,
+    "defenceGrowth": 11,
+    "intGrowth": 1,
+    "skill": {
+      "name": "槍隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5010",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "飯富虎昌",
+    "cost": 2.5,
+    "capacity": 2020,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "B",
+    "heiki": "F",
+    "attack": 590,
+    "defence": 450,
+    "intelligence": 190,
+    "attackGrowth": 14,
+    "defenceGrowth": 12,
+    "intGrowth": 1,
+    "skill": {
+      "name": "騎馬隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5011",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "平手政秀",
+    "cost": 1.5,
+    "capacity": 1380,
+    "yari": "E",
+    "yumi": "E",
+    "kiba": "E",
+    "heiki": "E",
+    "attack": 275,
+    "defence": 385,
+    "intelligence": 385,
+    "attackGrowth": 6,
+    "defenceGrowth": 7,
+    "intGrowth": 2,
+    "skill": {
+      "name": "弓隊堅守",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5012",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "浅井久政",
+    "cost": 2,
+    "capacity": 2100,
+    "yari": "D",
+    "yumi": "D",
+    "kiba": "E",
+    "heiki": "F",
+    "attack": 335,
+    "defence": 460,
+    "intelligence": 270,
+    "attackGrowth": 7,
+    "defenceGrowth": 7,
+    "intGrowth": 1,
+    "skill": {
+      "name": "槍隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5013",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "角隈石宗",
+    "cost": 1.5,
+    "capacity": 1000,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "C",
+    "heiki": "C",
+    "attack": 340,
+    "defence": 310,
+    "intelligence": 400,
+    "attackGrowth": 8,
+    "defenceGrowth": 8,
+    "intGrowth": 2,
+    "skill": {
+      "name": "城破り",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5014",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "新納忠元",
+    "cost": 2,
+    "capacity": 1600,
+    "yari": "D",
+    "yumi": "E",
+    "kiba": "D",
+    "heiki": "C",
+    "attack": 495,
+    "defence": 470,
+    "intelligence": 280,
+    "attackGrowth": 13,
+    "defenceGrowth": 13,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "鉄砲隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      "戦場"
+    ]
+  },
+  {
+    "id": "5015",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "相馬盛胤",
+    "cost": 2,
+    "capacity": 1700,
+    "yari": "D",
+    "yumi": "D",
+    "kiba": "C",
+    "heiki": "F",
+    "attack": 530,
+    "defence": 445,
+    "intelligence": 230,
+    "attackGrowth": 14,
+    "defenceGrowth": 13,
+    "intGrowth": 1,
+    "skill": {
+      "name": "騎馬隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5016",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "陶晴賢",
+    "cost": 2.5,
+    "capacity": 1870,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 550,
+    "defence": 525,
+    "intelligence": 385,
+    "attackGrowth": 15,
+    "defenceGrowth": 15,
+    "intGrowth": 2,
+    "skill": {
+      "name": "防壁破り",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5017",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "斎藤利三",
+    "cost": 2.5,
+    "capacity": 1900,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "C",
+    "attack": 490,
+    "defence": 465,
+    "intelligence": 365,
+    "attackGrowth": 14,
+    "defenceGrowth": 14,
+    "intGrowth": 2,
+    "skill": {
+      "name": "鉄砲隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5018",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "上杉憲政",
+    "cost": 2,
+    "capacity": 2280,
+    "yari": "E",
+    "yumi": "E",
+    "kiba": "F",
+    "heiki": "F",
+    "attack": 300,
+    "defence": 330,
+    "intelligence": 300,
+    "attackGrowth": 8,
+    "defenceGrowth": 7,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5019",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "三好義賢",
+    "cost": 2.5,
+    "capacity": 1930,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "C",
+    "heiki": "F",
+    "attack": 470,
+    "defence": 475,
+    "intelligence": 395,
+    "attackGrowth": 14,
+    "defenceGrowth": 14,
+    "intGrowth": 2,
+    "skill": {
+      "name": "城破り",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5020",
+    "rarity": "序",
+    "jobType": "忍",
+    "illustrator": "",
+    "description": "",
+    "name": "和田惟政",
+    "cost": 2,
+    "capacity": 1760,
+    "yari": "E",
+    "yumi": "D",
+    "kiba": "E",
+    "heiki": "D",
+    "attack": 395,
+    "defence": 445,
+    "intelligence": 355,
+    "attackGrowth": 13,
+    "defenceGrowth": 13,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      "忍び"
+    ]
+  },
+  {
+    "id": "5021",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "森可成",
+    "cost": 2,
+    "capacity": 1720,
+    "yari": "C",
+    "yumi": "E",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 475,
+    "defence": 465,
+    "intelligence": 285,
+    "attackGrowth": 12,
+    "defenceGrowth": 12,
+    "intGrowth": 1,
+    "skill": {
+      "name": "槍隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      "森三"
+    ]
+  },
+  {
+    "id": "5022",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "尼子誠久",
+    "cost": 2,
+    "capacity": 1700,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "C",
+    "heiki": "F",
+    "attack": 545,
+    "defence": 375,
+    "intelligence": 150,
+    "attackGrowth": 14,
+    "defenceGrowth": 12,
+    "intGrowth": 1,
+    "skill": {
+      "name": "騎馬隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5023",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "尼子晴久",
+    "cost": 2.5,
+    "capacity": 2160,
+    "yari": "D",
+    "yumi": "D",
+    "kiba": "C",
+    "heiki": "E",
+    "attack": 420,
+    "defence": 435,
+    "intelligence": 290,
+    "attackGrowth": 11,
+    "defenceGrowth": 11,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "騎馬隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5024",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "稲葉一鉄",
+    "cost": 2.5,
+    "capacity": 2070,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "C",
+    "heiki": "E",
+    "attack": 470,
+    "defence": 450,
+    "intelligence": 290,
+    "attackGrowth": 13,
+    "defenceGrowth": 13,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "兵器進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5025",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "氏家定直",
+    "cost": 2,
+    "capacity": 1500,
+    "yari": "D",
+    "yumi": "D",
+    "kiba": "C",
+    "heiki": "F",
+    "attack": 375,
+    "defence": 425,
+    "intelligence": 360,
+    "attackGrowth": 12,
+    "defenceGrowth": 14,
+    "intGrowth": 2,
+    "skill": {
+      "name": "騎馬隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5026",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "氏家卜全",
+    "cost": 2,
+    "capacity": 1660,
+    "yari": "C",
+    "yumi": "E",
+    "kiba": "D",
+    "heiki": "F",
+    "attack": 430,
+    "defence": 440,
+    "intelligence": 310,
+    "attackGrowth": 13,
+    "defenceGrowth": 13,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5027",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "熊谷信直",
+    "cost": 2,
+    "capacity": 1730,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "F",
+    "attack": 540,
+    "defence": 360,
+    "intelligence": 135,
+    "attackGrowth": 14,
+    "defenceGrowth": 11,
+    "intGrowth": 1,
+    "skill": {
+      "name": "槍隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5028",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "吉田孝頼",
+    "cost": 2,
+    "capacity": 1530,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "E",
+    "heiki": "F",
+    "attack": 470,
+    "defence": 475,
+    "intelligence": 390,
+    "attackGrowth": 13,
+    "defenceGrowth": 13,
+    "intGrowth": 2,
+    "skill": {
+      "name": "弓隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5029",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "直江景綱",
+    "cost": 2.5,
+    "capacity": 1900,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "C",
+    "heiki": "E",
+    "attack": 525,
+    "defence": 500,
+    "intelligence": 375,
+    "attackGrowth": 14,
+    "defenceGrowth": 14,
+    "intGrowth": 2,
+    "skill": {
+      "name": "騎馬隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5030",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "小山田信茂",
+    "cost": 2,
+    "capacity": 1600,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 450,
+    "defence": 400,
+    "intelligence": 305,
+    "attackGrowth": 12,
+    "defenceGrowth": 12,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5031",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "木曽義昌",
+    "cost": 2,
+    "capacity": 1780,
+    "yari": "E",
+    "yumi": "D",
+    "kiba": "C",
+    "heiki": "E",
+    "attack": 440,
+    "defence": 405,
+    "intelligence": 230,
+    "attackGrowth": 12,
+    "defenceGrowth": 12,
+    "intGrowth": 1,
+    "skill": {
+      "name": "騎馬隊襲撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5032",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "百武賢兼",
+    "cost": 2,
+    "capacity": 1700,
+    "yari": "C",
+    "yumi": "E",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 505,
+    "defence": 385,
+    "intelligence": 190,
+    "attackGrowth": 14,
+    "defenceGrowth": 12,
+    "intGrowth": 1,
+    "skill": {
+      "name": "槍隊襲撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      "龍造"
+    ]
+  },
+  {
+    "id": "5033",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "江里口信常",
+    "cost": 2,
+    "capacity": 1740,
+    "yari": "D",
+    "yumi": "D",
+    "kiba": "C",
+    "heiki": "F",
+    "attack": 530,
+    "defence": 365,
+    "intelligence": 130,
+    "attackGrowth": 14,
+    "defenceGrowth": 13,
+    "intGrowth": 1,
+    "skill": {
+      "name": "騎馬隊襲撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      "龍造"
+    ]
+  },
+  {
+    "id": "5034",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "円城寺信胤",
+    "cost": 2,
+    "capacity": 1700,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "E",
+    "attack": 515,
+    "defence": 315,
+    "intelligence": 155,
+    "attackGrowth": 14,
+    "defenceGrowth": 11,
+    "intGrowth": 1,
+    "skill": {
+      "name": "弓隊襲撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      "龍造"
+    ]
+  },
+  {
+    "id": "5035",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "甲斐宗運",
+    "cost": 2.5,
+    "capacity": 1840,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "C",
+    "heiki": "C",
+    "attack": 505,
+    "defence": 515,
+    "intelligence": 405,
+    "attackGrowth": 14,
+    "defenceGrowth": 14,
+    "intGrowth": 2,
+    "skill": {
+      "name": "城破り",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5036",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "吉弘鑑理",
+    "cost": 2,
+    "capacity": 1710,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "E",
+    "attack": 465,
+    "defence": 400,
+    "intelligence": 160,
+    "attackGrowth": 14,
+    "defenceGrowth": 14,
+    "intGrowth": 1,
+    "skill": {
+      "name": "槍隊急襲",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5037",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "臼杵鑑速",
+    "cost": 2,
+    "capacity": 1750,
+    "yari": "D",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 440,
+    "defence": 485,
+    "intelligence": 250,
+    "attackGrowth": 12,
+    "defenceGrowth": 12,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "騎馬隊堅守",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5038",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "吉岡長増",
+    "cost": 2,
+    "capacity": 1550,
+    "yari": "E",
+    "yumi": "D",
+    "kiba": "E",
+    "heiki": "C",
+    "attack": 385,
+    "defence": 385,
+    "intelligence": 385,
+    "attackGrowth": 12,
+    "defenceGrowth": 12,
+    "intGrowth": 2,
+    "skill": {
+      "name": "弓隊堅守",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5039",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "赤尾清綱",
+    "cost": 2,
+    "capacity": 1710,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "F",
+    "attack": 520,
+    "defence": 430,
+    "intelligence": 200,
+    "attackGrowth": 14,
+    "defenceGrowth": 13,
+    "intGrowth": 1,
+    "skill": {
+      "name": "槍隊襲撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      "海赤"
+    ]
+  },
+  {
+    "id": "5040",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "安藤守就",
+    "cost": 2.5,
+    "capacity": 2030,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "C",
+    "heiki": "E",
+    "attack": 465,
+    "defence": 520,
+    "intelligence": 310,
+    "attackGrowth": 13,
+    "defenceGrowth": 14,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "騎馬隊堅守",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5041",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "朝比奈泰朝",
+    "cost": 1.5,
+    "capacity": 1400,
+    "yari": "D",
+    "yumi": "D",
+    "kiba": "E",
+    "heiki": "F",
+    "attack": 420,
+    "defence": 410,
+    "intelligence": 275,
+    "attackGrowth": 10,
+    "defenceGrowth": 10,
+    "intGrowth": 1,
+    "skill": {
+      "name": "弓隊急襲",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5042",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "朝倉景健",
+    "cost": 2,
+    "capacity": 1800,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "F",
+    "attack": 445,
+    "defence": 480,
+    "intelligence": 210,
+    "attackGrowth": 11,
+    "defenceGrowth": 11,
+    "intGrowth": 1,
+    "skill": {
+      "name": "弓隊堅守",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5043",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "荒木村重",
+    "cost": 2.5,
+    "capacity": 1890,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "E",
+    "heiki": "B",
+    "attack": 525,
+    "defence": 535,
+    "intelligence": 290,
+    "attackGrowth": 14,
+    "defenceGrowth": 14,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "鉄砲隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      "揺る"
+    ]
+  },
+  {
+    "id": "5044",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "雨森清貞",
+    "cost": 2,
+    "capacity": 1720,
+    "yari": "D",
+    "yumi": "D",
+    "kiba": "C",
+    "heiki": "F",
+    "attack": 490,
+    "defence": 470,
+    "intelligence": 300,
+    "attackGrowth": 12,
+    "defenceGrowth": 13,
+    "intGrowth": 1,
+    "skill": {
+      "name": "騎馬隊堅守",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      "海赤"
+    ]
+  },
+  {
+    "id": "5045",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "大崎義直",
+    "cost": 2,
+    "capacity": 2010,
+    "yari": "D",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "F",
+    "attack": 325,
+    "defence": 360,
+    "intelligence": 135,
+    "attackGrowth": 11,
+    "defenceGrowth": 11,
+    "intGrowth": 1,
+    "skill": {
+      "name": "槍隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5046",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "大村純忠",
+    "cost": 2,
+    "capacity": 1700,
+    "yari": "C",
+    "yumi": "F",
+    "kiba": "E",
+    "heiki": "C",
+    "attack": 410,
+    "defence": 390,
+    "intelligence": 350,
+    "attackGrowth": 12,
+    "defenceGrowth": 11,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "城破り",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      "主へ"
+    ]
+  },
+  {
+    "id": "5047",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "高山右近",
+    "cost": 2,
+    "capacity": 1810,
+    "yari": "F",
+    "yumi": "D",
+    "kiba": "E",
+    "heiki": "C",
+    "attack": 390,
+    "defence": 350,
+    "intelligence": 370,
+    "attackGrowth": 12,
+    "defenceGrowth": 12,
+    "intGrowth": 1,
+    "skill": {
+      "name": "防壁破り",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      "揺る..",
+      "主へ.."
+    ]
+  },
+  {
+    "id": "5048",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "有馬晴信",
+    "cost": 1.5,
+    "capacity": 1400,
+    "yari": "D",
+    "yumi": "E",
+    "kiba": "F",
+    "heiki": "D",
+    "attack": 400,
+    "defence": 370,
+    "intelligence": 360,
+    "attackGrowth": 11,
+    "defenceGrowth": 11,
+    "intGrowth": 1,
+    "skill": {
+      "name": "槍隊堅守",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      "主へ"
+    ]
+  },
+  {
+    "id": "5049",
+    "rarity": "序",
+    "jobType": "剣",
+    "illustrator": "",
+    "description": "",
+    "name": "可児才蔵",
+    "cost": 2,
+    "capacity": 1300,
+    "yari": "B",
+    "yumi": "F",
+    "kiba": "D",
+    "heiki": "F",
+    "attack": 530,
+    "defence": 450,
+    "intelligence": 185,
+    "attackGrowth": 25,
+    "defenceGrowth": 25,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "宝蔵院流",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5050",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "蒲生氏郷",
+    "cost": 2,
+    "capacity": 1700,
+    "yari": "F",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "C",
+    "attack": 520,
+    "defence": 550,
+    "intelligence": 340,
+    "attackGrowth": 12,
+    "defenceGrowth": 12,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "鉄砲隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      "揺る..",
+      "主へ.."
+    ]
+  },
+  {
+    "id": "5051",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "古田織部",
+    "cost": 1.5,
+    "capacity": 1330,
+    "yari": "D",
+    "yumi": "E",
+    "kiba": "D",
+    "heiki": "F",
+    "attack": 360,
+    "defence": 370,
+    "intelligence": 280,
+    "attackGrowth": 11,
+    "defenceGrowth": 11,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊急襲",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      "揺る"
+    ]
+  },
+  {
+    "id": "5052",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "糟屋武則",
+    "cost": 2,
+    "capacity": 1520,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "C",
+    "heiki": "C",
+    "attack": 560,
+    "defence": 520,
+    "intelligence": 330,
+    "attackGrowth": 14,
+    "defenceGrowth": 13,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "兵器運用術",
+      "type": "特",
+      "description": ""
+    },
+    "unitSkill": [
+      "七本"
+    ]
+  },
+  {
+    "id": "5053",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "平野長泰",
+    "cost": 1.5,
+    "capacity": 1280,
+    "yari": "F",
+    "yumi": "F",
+    "kiba": "C",
+    "heiki": "F",
+    "attack": 515,
+    "defence": 480,
+    "intelligence": 280,
+    "attackGrowth": 14,
+    "defenceGrowth": 13,
+    "intGrowth": 1,
+    "skill": {
+      "name": "騎馬隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      "七本"
+    ]
+  },
+  {
+    "id": "5054",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "白石宗実",
+    "cost": 2,
+    "capacity": 1550,
+    "yari": "F",
+    "yumi": "B",
+    "kiba": "E",
+    "heiki": "F",
+    "attack": 500,
+    "defence": 540,
+    "intelligence": 400,
+    "attackGrowth": 13,
+    "defenceGrowth": 15,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊堅陣",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5055",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "北条高広",
+    "cost": 2,
+    "capacity": 1580,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 520,
+    "defence": 550,
+    "intelligence": 320,
+    "attackGrowth": 13,
+    "defenceGrowth": 14,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5056",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "真柄直隆",
+    "cost": 2.5,
+    "capacity": 1850,
+    "yari": "B",
+    "yumi": "C",
+    "kiba": "C",
+    "heiki": "E",
+    "attack": 565,
+    "defence": 465,
+    "intelligence": 345,
+    "attackGrowth": 15,
+    "defenceGrowth": 13,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5057",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "織田有楽斎",
+    "cost": 1.5,
+    "capacity": 1320,
+    "yari": "E",
+    "yumi": "E",
+    "kiba": "E",
+    "heiki": "D",
+    "attack": 340,
+    "defence": 380,
+    "intelligence": 350,
+    "attackGrowth": 7,
+    "defenceGrowth": 8,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "鉄砲隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      "揺る..",
+      "主へ..",
+      "御仏.."
+    ]
+  },
+  {
+    "id": "5058",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "相馬義胤",
+    "cost": 2.5,
+    "capacity": 1900,
+    "yari": "C",
+    "yumi": "B",
+    "kiba": "C",
+    "heiki": "F",
+    "attack": 570,
+    "defence": 515,
+    "intelligence": 300,
+    "attackGrowth": 15,
+    "defenceGrowth": 13,
+    "intGrowth": 1,
+    "skill": {
+      "name": "弓隊襲撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5059",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "筑紫広門",
+    "cost": 2,
+    "capacity": 1630,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "F",
+    "attack": 490,
+    "defence": 500,
+    "intelligence": 300,
+    "attackGrowth": 13,
+    "defenceGrowth": 13,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊急襲",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5060",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "大友義統",
+    "cost": 1.5,
+    "capacity": 1320,
+    "yari": "E",
+    "yumi": "C",
+    "kiba": "E",
+    "heiki": "F",
+    "attack": 450,
+    "defence": 460,
+    "intelligence": 280,
+    "attackGrowth": 11,
+    "defenceGrowth": 12,
+    "intGrowth": 1,
+    "skill": {
+      "name": "弓隊守護",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5061",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "来島通康",
+    "cost": 2.5,
+    "capacity": 1920,
+    "yari": "B",
+    "yumi": "C",
+    "kiba": "E",
+    "heiki": "C",
+    "attack": 600,
+    "defence": 410,
+    "intelligence": 320,
+    "attackGrowth": 15,
+    "defenceGrowth": 11,
+    "intGrowth": 1,
+    "skill": {
+      "name": "槍隊襲撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5062",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "山名豊国",
+    "cost": 1.5,
+    "capacity": 1150,
+    "yari": "D",
+    "yumi": "D",
+    "kiba": "F",
+    "heiki": "C",
+    "attack": 400,
+    "defence": 480,
+    "intelligence": 330,
+    "attackGrowth": 10,
+    "defenceGrowth": 12,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "兵器布陣",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5063",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "大久保忠世",
+    "cost": 2,
+    "capacity": 1660,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "F",
+    "attack": 390,
+    "defence": 410,
+    "intelligence": 350,
+    "attackGrowth": 13,
+    "defenceGrowth": 13,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊守備",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5064",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "渡辺勘兵衛",
+    "cost": 2.5,
+    "capacity": 1930,
+    "yari": "B",
+    "yumi": "D",
+    "kiba": "C",
+    "heiki": "E",
+    "attack": 550,
+    "defence": 400,
+    "intelligence": 300,
+    "attackGrowth": 14,
+    "defenceGrowth": 10,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊急襲",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5065",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "成田長親",
+    "cost": 2,
+    "capacity": 1700,
+    "yari": "E",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "E",
+    "attack": 420,
+    "defence": 410,
+    "intelligence": 345,
+    "attackGrowth": 11,
+    "defenceGrowth": 12,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊守備",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5066",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "明石全登",
+    "cost": 1.5,
+    "capacity": 1250,
+    "yari": "C",
+    "yumi": "E",
+    "kiba": "F",
+    "heiki": "E",
+    "attack": 410,
+    "defence": 440,
+    "intelligence": 290,
+    "attackGrowth": 10,
+    "defenceGrowth": 13,
+    "intGrowth": 1,
+    "skill": {
+      "name": "槍隊堅守",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      "主へ"
+    ]
+  },
+  {
+    "id": "5067",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "竹中重門",
+    "cost": 2,
+    "capacity": 1660,
+    "yari": "C",
+    "yumi": "E",
+    "kiba": "D",
+    "heiki": "C",
+    "attack": 440,
+    "defence": 410,
+    "intelligence": 320,
+    "attackGrowth": 12,
+    "defenceGrowth": 12,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "鉄砲隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5068",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "穴山梅雪",
+    "cost": 2.5,
+    "capacity": 2050,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "C",
+    "heiki": "E",
+    "attack": 530,
+    "defence": 500,
+    "intelligence": 330,
+    "attackGrowth": 15,
+    "defenceGrowth": 13,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "騎馬隊急襲",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5069",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "寺沢広高",
+    "cost": 2.5,
+    "capacity": 1890,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "C",
+    "heiki": "C",
+    "attack": 500,
+    "defence": 570,
+    "intelligence": 380,
+    "attackGrowth": 13,
+    "defenceGrowth": 14,
+    "intGrowth": 2,
+    "skill": {
+      "name": "騎馬隊堅守",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5070",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "小川祐忠",
+    "cost": 2,
+    "capacity": 1770,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "F",
+    "heiki": "E",
+    "attack": 510,
+    "defence": 460,
+    "intelligence": 360,
+    "attackGrowth": 13,
+    "defenceGrowth": 12,
+    "intGrowth": 1,
+    "skill": {
+      "name": "槍隊襲撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5071",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "稲富一夢",
+    "cost": 2,
+    "capacity": 1740,
+    "yari": "D",
+    "yumi": "E",
+    "kiba": "D",
+    "heiki": "C",
+    "attack": 460,
+    "defence": 520,
+    "intelligence": 330,
+    "attackGrowth": 13,
+    "defenceGrowth": 13,
+    "intGrowth": 1,
+    "skill": {
+      "name": "鉄砲隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      "火龍"
+    ]
+  },
+  {
+    "id": "5072",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "跡部勝資",
+    "cost": 2,
+    "capacity": 1640,
+    "yari": "D",
+    "yumi": "E",
+    "kiba": "C",
+    "heiki": "E",
+    "attack": 540,
+    "defence": 440,
+    "intelligence": 350,
+    "attackGrowth": 14,
+    "defenceGrowth": 11,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "騎馬隊急襲",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5073",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "大久保忠教",
+    "cost": 2,
+    "capacity": 1720,
+    "yari": "C",
+    "yumi": "E",
+    "kiba": "F",
+    "heiki": "D",
+    "attack": 590,
+    "defence": 520,
+    "intelligence": 370,
+    "attackGrowth": 12,
+    "defenceGrowth": 12,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊襲撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5074",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "生駒一正",
+    "cost": 2,
+    "capacity": 1600,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "C",
+    "heiki": "F",
+    "attack": 530,
+    "defence": 560,
+    "intelligence": 345,
+    "attackGrowth": 12,
+    "defenceGrowth": 13,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "騎馬隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5075",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "赤座直保",
+    "cost": 2,
+    "capacity": 1750,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "E",
+    "attack": 495,
+    "defence": 510,
+    "intelligence": 335,
+    "attackGrowth": 13,
+    "defenceGrowth": 13,
+    "intGrowth": 1,
+    "skill": {
+      "name": "弓隊守備",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5076",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "戸田勝成",
+    "cost": 2,
+    "capacity": 1660,
+    "yari": "C",
+    "yumi": "E",
+    "kiba": "C",
+    "heiki": "F",
+    "attack": 560,
+    "defence": 530,
+    "intelligence": 345,
+    "attackGrowth": 13,
+    "defenceGrowth": 12,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊襲撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5077",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "岩成友通",
+    "cost": 2,
+    "capacity": 1780,
+    "yari": "C",
+    "yumi": "F",
+    "kiba": "C",
+    "heiki": "F",
+    "attack": 600,
+    "defence": 580,
+    "intelligence": 330,
+    "attackGrowth": 14,
+    "defenceGrowth": 12,
+    "intGrowth": 1,
+    "skill": {
+      "name": "槍隊急襲",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5078",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "朽木元綱",
+    "cost": 2,
+    "capacity": 1690,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "E",
+    "heiki": "F",
+    "attack": 430,
+    "defence": 490,
+    "intelligence": 345,
+    "attackGrowth": 12,
+    "defenceGrowth": 13,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5079",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "笠原康勝",
+    "cost": 2,
+    "capacity": 1715,
+    "yari": "C",
+    "yumi": "F",
+    "kiba": "E",
+    "heiki": "C",
+    "attack": 420,
+    "defence": 420,
+    "intelligence": 320,
+    "attackGrowth": 11,
+    "defenceGrowth": 12,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      "五色"
+    ]
+  },
+  {
+    "id": "5080",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "富士信忠",
+    "cost": 2,
+    "capacity": 1650,
+    "yari": "E",
+    "yumi": "C",
+    "kiba": "C",
+    "heiki": "F",
+    "attack": 410,
+    "defence": 600,
+    "intelligence": 380,
+    "attackGrowth": 12,
+    "defenceGrowth": 14,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊守備",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5081",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "朝倉景紀",
+    "cost": 2,
+    "capacity": 1740,
+    "yari": "C",
+    "yumi": "F",
+    "kiba": "C",
+    "heiki": "C",
+    "attack": 580,
+    "defence": 460,
+    "intelligence": 350,
+    "attackGrowth": 12,
+    "defenceGrowth": 11,
+    "intGrowth": 1,
+    "skill": {
+      "name": "騎馬隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5082",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "小国頼久",
+    "cost": 2.5,
+    "capacity": 2010,
+    "yari": "B",
+    "yumi": "E",
+    "kiba": "C",
+    "heiki": "F",
+    "attack": 550,
+    "defence": 550,
+    "intelligence": 340,
+    "attackGrowth": 13,
+    "defenceGrowth": 12,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5083",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "内藤昌豊",
+    "cost": 2.5,
+    "capacity": 1980,
+    "yari": "D",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "B",
+    "attack": 550,
+    "defence": 550,
+    "intelligence": 250,
+    "attackGrowth": 13,
+    "defenceGrowth": 13,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "金爆 砲撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      "四天"
+    ]
+  },
+  {
+    "id": "5084",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "高坂昌信",
+    "cost": 2.5,
+    "capacity": 1980,
+    "yari": "B",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 550,
+    "defence": 550,
+    "intelligence": 250,
+    "attackGrowth": 13,
+    "defenceGrowth": 13,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "金爆 槍撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      "四天"
+    ]
+  },
+  {
+    "id": "5085",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "馬場信房",
+    "cost": 2.5,
+    "capacity": 1980,
+    "yari": "D",
+    "yumi": "B",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 550,
+    "defence": 550,
+    "intelligence": 250,
+    "attackGrowth": 13,
+    "defenceGrowth": 13,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "金爆 弓撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      "四天"
+    ]
+  },
+  {
+    "id": "5086",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "山県昌景",
+    "cost": 2.5,
+    "capacity": 1980,
+    "yari": "D",
+    "yumi": "D",
+    "kiba": "B",
+    "heiki": "D",
+    "attack": 550,
+    "defence": 550,
+    "intelligence": 250,
+    "attackGrowth": 13,
+    "defenceGrowth": 13,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "金爆 騎突",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      "四天"
+    ]
+  },
+  {
+    "id": "5087",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "古田重勝",
+    "cost": 2,
+    "capacity": 1850,
+    "yari": "D",
+    "yumi": "E",
+    "kiba": "D",
+    "heiki": "E",
+    "attack": 410,
+    "defence": 410,
+    "intelligence": 330,
+    "attackGrowth": 12,
+    "defenceGrowth": 12,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "騎馬隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5088",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "上杉景信",
+    "cost": 2,
+    "capacity": 1650,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "C",
+    "heiki": "C",
+    "attack": 500,
+    "defence": 540,
+    "intelligence": 350,
+    "attackGrowth": 12,
+    "defenceGrowth": 13,
+    "intGrowth": 1,
+    "skill": {
+      "name": "騎馬隊堅守",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5089",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "大熊朝秀",
+    "cost": 2,
+    "capacity": 1650,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "C",
+    "heiki": "E",
+    "attack": 440,
+    "defence": 530,
+    "intelligence": 300,
+    "attackGrowth": 12,
+    "defenceGrowth": 12,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊守備",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5090",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "一柳直盛",
+    "cost": 1.5,
+    "capacity": 1280,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "F",
+    "attack": 510,
+    "defence": 470,
+    "intelligence": 270,
+    "attackGrowth": 11,
+    "defenceGrowth": 10,
+    "intGrowth": 1,
+    "skill": {
+      "name": "弓隊急襲",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5091",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "太田一吉",
+    "cost": 2,
+    "capacity": 1730,
+    "yari": "D",
+    "yumi": "D",
+    "kiba": "C",
+    "heiki": "D",
+    "attack": 380,
+    "defence": 400,
+    "intelligence": 330,
+    "attackGrowth": 11,
+    "defenceGrowth": 12,
+    "intGrowth": 1,
+    "skill": {
+      "name": "騎馬隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5092",
+    "rarity": "序",
+    "jobType": "姫",
+    "illustrator": "",
+    "description": "",
+    "name": "椿姫",
+    "cost": 1.5,
+    "capacity": 1280,
+    "yari": "F",
+    "yumi": "D",
+    "kiba": "E",
+    "heiki": "E",
+    "attack": 340,
+    "defence": 330,
+    "intelligence": 350,
+    "attackGrowth": 12,
+    "defenceGrowth": 11,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊襲撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      "戦姫"
+    ]
+  },
+  {
+    "id": "5093",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "蠣崎季広",
+    "cost": 2,
+    "capacity": 1570,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "C",
+    "heiki": "C",
+    "attack": 530,
+    "defence": 480,
+    "intelligence": 330,
+    "attackGrowth": 12,
+    "defenceGrowth": 11,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "騎馬隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5094",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "中川秀成",
+    "cost": 2,
+    "capacity": 1740,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "C",
+    "heiki": "E",
+    "attack": 430,
+    "defence": 450,
+    "intelligence": 320,
+    "attackGrowth": 11,
+    "defenceGrowth": 12,
+    "intGrowth": 1,
+    "skill": {
+      "name": "槍隊守備",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5095",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "米谷常秀",
+    "cost": 2.5,
+    "capacity": 2030,
+    "yari": "C",
+    "yumi": "B",
+    "kiba": "E",
+    "heiki": "D",
+    "attack": 500,
+    "defence": 480,
+    "intelligence": 360,
+    "attackGrowth": 13,
+    "defenceGrowth": 11,
+    "intGrowth": 1,
+    "skill": {
+      "name": "弓隊急襲",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5096",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "黒岩種直",
+    "cost": 2,
+    "capacity": 1710,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 500,
+    "defence": 430,
+    "intelligence": 320,
+    "attackGrowth": 13,
+    "defenceGrowth": 11,
+    "intGrowth": 1,
+    "skill": {
+      "name": "槍隊急襲",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5097",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "酒井家次",
+    "cost": 2,
+    "capacity": 1610,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "C",
+    "heiki": "D",
+    "attack": 420,
+    "defence": 460,
+    "intelligence": 360,
+    "attackGrowth": 11,
+    "defenceGrowth": 12,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "騎馬隊堅守",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5098",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "森好之",
+    "cost": 1.5,
+    "capacity": 1180,
+    "yari": "C",
+    "yumi": "E",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 420,
+    "defence": 390,
+    "intelligence": 330,
+    "attackGrowth": 13,
+    "defenceGrowth": 12,
+    "intGrowth": 1,
+    "skill": {
+      "name": "槍隊堅守",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5099",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "北条氏房",
+    "cost": 2,
+    "capacity": 1600,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "E",
+    "heiki": "D",
+    "attack": 480,
+    "defence": 500,
+    "intelligence": 370,
+    "attackGrowth": 11,
+    "defenceGrowth": 13,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊守備",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5100",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "堀秀治",
+    "cost": 2.5,
+    "capacity": 1980,
+    "yari": "B",
+    "yumi": "C",
+    "kiba": "C",
+    "heiki": "D",
+    "attack": 490,
+    "defence": 450,
+    "intelligence": 350,
+    "attackGrowth": 13,
+    "defenceGrowth": 12,
+    "intGrowth": 1,
+    "skill": {
+      "name": "槍隊急襲",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5101",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "宮部長房",
+    "cost": 2,
+    "capacity": 1800,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "E",
+    "heiki": "E",
+    "attack": 380,
+    "defence": 400,
+    "intelligence": 330,
+    "attackGrowth": 11,
+    "defenceGrowth": 12,
+    "intGrowth": 1,
+    "skill": {
+      "name": "弓隊堅守",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5102",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "谷衛友",
+    "cost": 2,
+    "capacity": 1540,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "B",
+    "attack": 430,
+    "defence": 480,
+    "intelligence": 340,
+    "attackGrowth": 10,
+    "defenceGrowth": 13,
+    "intGrowth": 1,
+    "skill": {
+      "name": "鉄砲隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5103",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "鳥屋尾満栄",
+    "cost": 2.5,
+    "capacity": 2010,
+    "yari": "F",
+    "yumi": "B",
+    "kiba": "F",
+    "heiki": "C",
+    "attack": 600,
+    "defence": 590,
+    "intelligence": 410,
+    "attackGrowth": 14,
+    "defenceGrowth": 14,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "四風賢鳳",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5104",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "蒲生賢秀",
+    "cost": 2.5,
+    "capacity": 2000,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "C",
+    "heiki": "C",
+    "attack": 480,
+    "defence": 520,
+    "intelligence": 380,
+    "attackGrowth": 12,
+    "defenceGrowth": 13,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊守備",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5105",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "安宅冬康",
+    "cost": 2,
+    "capacity": 1630,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "F",
+    "heiki": "D",
+    "attack": 550,
+    "defence": 520,
+    "intelligence": 350,
+    "attackGrowth": 14,
+    "defenceGrowth": 12,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5106",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "大関高増",
+    "cost": 2,
+    "capacity": 1700,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "C",
+    "heiki": "F",
+    "attack": 530,
+    "defence": 560,
+    "intelligence": 360,
+    "attackGrowth": 13,
+    "defenceGrowth": 14,
+    "intGrowth": 1,
+    "skill": {
+      "name": "弓隊守備",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5107",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "福留親政",
+    "cost": 2.5,
+    "capacity": 1800,
+    "yari": "B",
+    "yumi": "D",
+    "kiba": "C",
+    "heiki": "C",
+    "attack": 550,
+    "defence": 520,
+    "intelligence": 400,
+    "attackGrowth": 14,
+    "defenceGrowth": 14,
+    "intGrowth": 2,
+    "skill": {
+      "name": "荒切武者",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5108",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "七条兼仲",
+    "cost": 2.5,
+    "capacity": 2000,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "C",
+    "heiki": "D",
+    "attack": 480,
+    "defence": 520,
+    "intelligence": 380,
+    "attackGrowth": 12,
+    "defenceGrowth": 14,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "騎馬隊堅陣",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5109",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "中村一氏",
+    "cost": 2.5,
+    "capacity": 1860,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "C",
+    "heiki": "B",
+    "attack": 560,
+    "defence": 520,
+    "intelligence": 320,
+    "attackGrowth": 15,
+    "defenceGrowth": 13,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "鉄砲隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5110",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "柴田勝豊",
+    "cost": 1.5,
+    "capacity": 1220,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "C",
+    "attack": 390,
+    "defence": 410,
+    "intelligence": 290,
+    "attackGrowth": 10,
+    "defenceGrowth": 12,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "兵器布陣",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5111",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "平岡頼勝",
+    "cost": 2.5,
+    "capacity": 2050,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "C",
+    "heiki": "D",
+    "attack": 550,
+    "defence": 520,
+    "intelligence": 320,
+    "attackGrowth": 14,
+    "defenceGrowth": 13,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "迅速行軍",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5112",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "福原直高",
+    "cost": 2,
+    "capacity": 1480,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "C",
+    "attack": 480,
+    "defence": 560,
+    "intelligence": 350,
+    "attackGrowth": 13,
+    "defenceGrowth": 14,
+    "intGrowth": 2,
+    "skill": {
+      "name": "鉄砲隊守護",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5113",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "鳥居忠吉",
+    "cost": 2.5,
+    "capacity": 1970,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "C",
+    "heiki": "E",
+    "attack": 490,
+    "defence": 530,
+    "intelligence": 350,
+    "attackGrowth": 12,
+    "defenceGrowth": 14,
+    "intGrowth": 2,
+    "skill": {
+      "name": "弓隊守備",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5114",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "西園寺実充",
+    "cost": 2.5,
+    "capacity": 2070,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "C",
+    "heiki": "D",
+    "attack": 540,
+    "defence": 520,
+    "intelligence": 330,
+    "attackGrowth": 13,
+    "defenceGrowth": 13,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "迅速行軍",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5115",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "太田左近",
+    "cost": 2,
+    "capacity": 1480,
+    "yari": "B",
+    "yumi": "E",
+    "kiba": "E",
+    "heiki": "B",
+    "attack": 440,
+    "defence": 570,
+    "intelligence": 330,
+    "attackGrowth": 12,
+    "defenceGrowth": 15,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "船穿応射",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5116",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "中川清秀",
+    "cost": 2,
+    "capacity": 1520,
+    "yari": "E",
+    "yumi": "D",
+    "kiba": "B",
+    "heiki": "C",
+    "attack": 460,
+    "defence": 480,
+    "intelligence": 340,
+    "attackGrowth": 15,
+    "defenceGrowth": 18,
+    "intGrowth": 2,
+    "skill": {
+      "name": "騎馬隊守護",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5117",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "斎藤龍興",
+    "cost": 1.5,
+    "capacity": 1300,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "E",
+    "heiki": "B",
+    "attack": 390,
+    "defence": 520,
+    "intelligence": 380,
+    "attackGrowth": 14,
+    "defenceGrowth": 15,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "龍哭の酒",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5118",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "伊東マンショ",
+    "cost": 1.5,
+    "capacity": 1020,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "B",
+    "attack": 380,
+    "defence": 410,
+    "intelligence": 420,
+    "attackGrowth": 14,
+    "defenceGrowth": 16,
+    "intGrowth": 2,
+    "skill": {
+      "name": "兵器布陣",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5119",
+    "rarity": "序",
+    "jobType": "姫",
+    "illustrator": "",
+    "description": "",
+    "name": "宇喜多モニカ",
+    "cost": 2,
+    "capacity": 1480,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "B",
+    "heiki": "D",
+    "attack": 580,
+    "defence": 560,
+    "intelligence": 380,
+    "attackGrowth": 16,
+    "defenceGrowth": 15,
+    "intGrowth": 2,
+    "skill": {
+      "name": "紫電一閃",
+      "type": "特",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5120",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "浅井政元",
+    "cost": 1.5,
+    "capacity": 1120,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "C",
+    "heiki": "D",
+    "attack": 440,
+    "defence": 480,
+    "intelligence": 380,
+    "attackGrowth": 14,
+    "defenceGrowth": 17,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "玄武の陣",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5121",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "原田直政",
+    "cost": 2,
+    "capacity": 1560,
+    "yari": "C",
+    "yumi": "E",
+    "kiba": "C",
+    "heiki": "C",
+    "attack": 540,
+    "defence": 520,
+    "intelligence": 340,
+    "attackGrowth": 15,
+    "defenceGrowth": 14,
+    "intGrowth": 2,
+    "skill": {
+      "name": "馬廻御奉行",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5122",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "薄田兼相",
+    "cost": 2,
+    "capacity": 1560,
+    "yari": "B",
+    "yumi": "E",
+    "kiba": "C",
+    "heiki": "C",
+    "attack": 480,
+    "defence": 470,
+    "intelligence": 360,
+    "attackGrowth": 16,
+    "defenceGrowth": 15,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "橙武者",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5123",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "淡輪重政",
+    "cost": 1.5,
+    "capacity": 1220,
+    "yari": "B",
+    "yumi": "D",
+    "kiba": "E",
+    "heiki": "D",
+    "attack": 440,
+    "defence": 480,
+    "intelligence": 320,
+    "attackGrowth": 14,
+    "defenceGrowth": 16,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊守護",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5124",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "内ヶ島氏理",
+    "cost": 2.5,
+    "capacity": 1900,
+    "yari": "D",
+    "yumi": "E",
+    "kiba": "D",
+    "heiki": "A",
+    "attack": 600,
+    "defence": 380,
+    "intelligence": 380,
+    "attackGrowth": 17,
+    "defenceGrowth": 14,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "夜叉熊",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5125",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "扇谷定正",
+    "cost": 2,
+    "capacity": 1710,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "C",
+    "heiki": "F",
+    "attack": 490,
+    "defence": 550,
+    "intelligence": 340,
+    "attackGrowth": 11,
+    "defenceGrowth": 12,
+    "intGrowth": 1,
+    "skill": {
+      "name": "荒切武者",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5126",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "一条信龍",
+    "cost": 2,
+    "capacity": 1680,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "F",
+    "attack": 560,
+    "defence": 390,
+    "intelligence": 230,
+    "attackGrowth": 14,
+    "defenceGrowth": 13,
+    "intGrowth": 1,
+    "skill": {
+      "name": "槍隊襲撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5127",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "朝比奈信置",
+    "cost": 2,
+    "capacity": 1720,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "F",
+    "heiki": "E",
+    "attack": 400,
+    "defence": 540,
+    "intelligence": 360,
+    "attackGrowth": 14,
+    "defenceGrowth": 14,
+    "intGrowth": 1,
+    "skill": {
+      "name": "槍隊堅守",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5128",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "土橋平次",
+    "cost": 2,
+    "capacity": 1570,
+    "yari": "D",
+    "yumi": "E",
+    "kiba": "D",
+    "heiki": "C",
+    "attack": 470,
+    "defence": 510,
+    "intelligence": 340,
+    "attackGrowth": 13,
+    "defenceGrowth": 13,
+    "intGrowth": 1,
+    "skill": {
+      "name": "鉄砲隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5129",
+    "rarity": "序",
+    "jobType": "姫",
+    "illustrator": "",
+    "description": "",
+    "name": "絶姫",
+    "cost": 1.5,
+    "capacity": 1380,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "E",
+    "heiki": "D",
+    "attack": 360,
+    "defence": 330,
+    "intelligence": 370,
+    "attackGrowth": 13,
+    "defenceGrowth": 12,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊襲撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5130",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "清水康英",
+    "cost": 2,
+    "capacity": 1550,
+    "yari": "E",
+    "yumi": "D",
+    "kiba": "B",
+    "heiki": "C",
+    "attack": 470,
+    "defence": 490,
+    "intelligence": 360,
+    "attackGrowth": 15,
+    "defenceGrowth": 18,
+    "intGrowth": 2,
+    "skill": {
+      "name": "騎馬隊守護",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5131",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "温井景隆",
+    "cost": 1.5,
+    "capacity": 1320,
+    "yari": "B",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "E",
+    "attack": 540,
+    "defence": 520,
+    "intelligence": 360,
+    "attackGrowth": 15,
+    "defenceGrowth": 14,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊急襲",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5132",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "松平広忠",
+    "cost": 1.5,
+    "capacity": 1290,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "E",
+    "attack": 590,
+    "defence": 520,
+    "intelligence": 390,
+    "attackGrowth": 13,
+    "defenceGrowth": 11,
+    "intGrowth": 2.5,
+    "skill": {
+      "name": "弓隊挟撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5133",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "小田氏治",
+    "cost": 2.5,
+    "capacity": 1900,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 560,
+    "defence": 510,
+    "intelligence": 390,
+    "attackGrowth": 15,
+    "defenceGrowth": 15,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "防壁破り",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5134",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "猪苗代盛国",
+    "cost": 2.5,
+    "capacity": 2100,
+    "yari": "B",
+    "yumi": "C",
+    "kiba": "C",
+    "heiki": "C",
+    "attack": 620,
+    "defence": 640,
+    "intelligence": 390,
+    "attackGrowth": 15,
+    "defenceGrowth": 16,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5135",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "田尻鑑種",
+    "cost": 1.5,
+    "capacity": 1380,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "E",
+    "attack": 275,
+    "defence": 385,
+    "intelligence": 385,
+    "attackGrowth": 6,
+    "defenceGrowth": 7,
+    "intGrowth": 2,
+    "skill": {
+      "name": "弓隊堅守",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5136",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "山崎片家",
+    "cost": 2,
+    "capacity": 1620,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "E",
+    "heiki": "D",
+    "attack": 540,
+    "defence": 530,
+    "intelligence": 340,
+    "attackGrowth": 14,
+    "defenceGrowth": 12,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊挟撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5137",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "鈴木重則",
+    "cost": 2,
+    "capacity": 1520,
+    "yari": "E",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 410,
+    "defence": 455,
+    "intelligence": 370,
+    "attackGrowth": 13,
+    "defenceGrowth": 13,
+    "intGrowth": 2,
+    "skill": {
+      "name": "弓隊堅守",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5138",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "坂井久蔵",
+    "cost": 2.5,
+    "capacity": 1880,
+    "yari": "B",
+    "yumi": "D",
+    "kiba": "C",
+    "heiki": "C",
+    "attack": 550,
+    "defence": 530,
+    "intelligence": 350,
+    "attackGrowth": 15,
+    "defenceGrowth": 13,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊急襲",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5139",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "足利義栄",
+    "cost": 1.5,
+    "capacity": 1180,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 420,
+    "defence": 390,
+    "intelligence": 330,
+    "attackGrowth": 13,
+    "defenceGrowth": 12,
+    "intGrowth": 1,
+    "skill": {
+      "name": "槍隊堅守",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5140",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "森下通与",
+    "cost": 2.5,
+    "capacity": 1950,
+    "yari": "B",
+    "yumi": "C",
+    "kiba": "C",
+    "heiki": "E",
+    "attack": 620,
+    "defence": 450,
+    "intelligence": 350,
+    "attackGrowth": 15,
+    "defenceGrowth": 11,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊襲撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5141",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "益田元祥",
+    "cost": 1.5,
+    "capacity": 1200,
+    "yari": "D",
+    "yumi": "D",
+    "kiba": "B",
+    "heiki": "E",
+    "attack": 440,
+    "defence": 470,
+    "intelligence": 340,
+    "attackGrowth": 13,
+    "defenceGrowth": 17,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "騎馬隊守護",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5142",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "三好康長",
+    "cost": 2.5,
+    "capacity": 1980,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "B",
+    "heiki": "D",
+    "attack": 500,
+    "defence": 440,
+    "intelligence": 385,
+    "attackGrowth": 12,
+    "defenceGrowth": 14,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "騎馬隊堅陣",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5143",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "興津清房",
+    "cost": 2.5,
+    "capacity": 1920,
+    "yari": "B",
+    "yumi": "D",
+    "kiba": "C",
+    "heiki": "C",
+    "attack": 470,
+    "defence": 560,
+    "intelligence": 385,
+    "attackGrowth": 15,
+    "defenceGrowth": 16,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊守護",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5144",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "伊丹康直",
+    "cost": 2.5,
+    "capacity": 2050,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 480,
+    "defence": 560,
+    "intelligence": 390,
+    "attackGrowth": 14,
+    "defenceGrowth": 15,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊堅守",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5145",
+    "rarity": "序",
+    "jobType": "姫",
+    "illustrator": "",
+    "description": "",
+    "name": "おたあ",
+    "cost": 2,
+    "capacity": 1750,
+    "yari": "D",
+    "yumi": "D",
+    "kiba": "E",
+    "heiki": "F",
+    "attack": 400,
+    "defence": 460,
+    "intelligence": 380,
+    "attackGrowth": 13,
+    "defenceGrowth": 14,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5146",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "本城常光",
+    "cost": 2.5,
+    "capacity": 1950,
+    "yari": "B",
+    "yumi": "C",
+    "kiba": "B",
+    "heiki": "D",
+    "attack": 590,
+    "defence": 550,
+    "intelligence": 390,
+    "attackGrowth": 16,
+    "defenceGrowth": 15,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊挟撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5147",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "島津久保",
+    "cost": 1.5,
+    "capacity": 1230,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "E",
+    "attack": 470,
+    "defence": 450,
+    "intelligence": 375,
+    "attackGrowth": 17,
+    "defenceGrowth": 16,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊挟撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5148",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "毛利秀包",
+    "cost": 2,
+    "capacity": 1550,
+    "yari": "D",
+    "yumi": "B",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 465,
+    "defence": 490,
+    "intelligence": 390,
+    "attackGrowth": 15,
+    "defenceGrowth": 17,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5149",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "来島通康",
+    "cost": 2,
+    "capacity": 1520,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 460,
+    "defence": 420,
+    "intelligence": 320,
+    "attackGrowth": 17,
+    "defenceGrowth": 14,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊襲撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5150",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "堀内氏善",
+    "cost": 2,
+    "capacity": 1530,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "E",
+    "heiki": "B",
+    "attack": 470,
+    "defence": 570,
+    "intelligence": 410,
+    "attackGrowth": 13,
+    "defenceGrowth": 16,
+    "intGrowth": 2,
+    "skill": {
+      "name": "鉄砲隊守護",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5151",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "木下家定",
+    "cost": 2.5,
+    "capacity": 1940,
+    "yari": "C",
+    "yumi": "B",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 550,
+    "defence": 570,
+    "intelligence": 390,
+    "attackGrowth": 15,
+    "defenceGrowth": 16,
+    "intGrowth": 2,
+    "skill": {
+      "name": "弓隊布陣",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5152",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "奥平貞治",
+    "cost": 3,
+    "capacity": 2380,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "B",
+    "heiki": "E",
+    "attack": 610,
+    "defence": 580,
+    "intelligence": 385,
+    "attackGrowth": 16,
+    "defenceGrowth": 15,
+    "intGrowth": 2,
+    "skill": {
+      "name": "騎馬隊布陣",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5153",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "五島玄雅",
+    "cost": 2,
+    "capacity": 1670,
+    "yari": "D",
+    "yumi": "E",
+    "kiba": "D",
+    "heiki": "C",
+    "attack": 470,
+    "defence": 510,
+    "intelligence": 175,
+    "attackGrowth": 16,
+    "defenceGrowth": 17,
+    "intGrowth": 2,
+    "skill": {
+      "name": "鉄砲隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5154",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "水野信元",
+    "cost": 2,
+    "capacity": 1540,
+    "yari": "C",
+    "yumi": "B",
+    "kiba": "C",
+    "heiki": "E",
+    "attack": 490,
+    "defence": 440,
+    "intelligence": 330,
+    "attackGrowth": 17,
+    "defenceGrowth": 15,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5155",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "羽柴秀勝",
+    "cost": 2.5,
+    "capacity": 1950,
+    "yari": "C",
+    "yumi": "E",
+    "kiba": "B",
+    "heiki": "D",
+    "attack": 480,
+    "defence": 460,
+    "intelligence": 350,
+    "attackGrowth": 17,
+    "defenceGrowth": 15,
+    "intGrowth": 2,
+    "skill": {
+      "name": "騎馬隊奇襲",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5156",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "小野道好",
+    "cost": 1.5,
+    "capacity": 1280,
+    "yari": "B",
+    "yumi": "D",
+    "kiba": "C",
+    "heiki": "E",
+    "attack": 470,
+    "defence": 450,
+    "intelligence": 350,
+    "attackGrowth": 17,
+    "defenceGrowth": 15,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5157",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "長谷川守知",
+    "cost": 2,
+    "capacity": 1660,
+    "yari": "C",
+    "yumi": "B",
+    "kiba": "E",
+    "heiki": "D",
+    "attack": 480,
+    "defence": 490,
+    "intelligence": 340,
+    "attackGrowth": 16,
+    "defenceGrowth": 17,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊堅陣",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5158",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "山川朝信",
+    "cost": 2,
+    "capacity": 1600,
+    "yari": "B",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "E",
+    "attack": 470,
+    "defence": 430,
+    "intelligence": 370,
+    "attackGrowth": 17,
+    "defenceGrowth": 14,
+    "intGrowth": 2,
+    "skill": {
+      "name": "槍隊襲撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5159",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "冷泉隆豊",
+    "cost": 1.5,
+    "capacity": 1320,
+    "yari": "B",
+    "yumi": "D",
+    "kiba": "C",
+    "heiki": "C",
+    "attack": 490,
+    "defence": 440,
+    "intelligence": 365,
+    "attackGrowth": 17,
+    "defenceGrowth": 14,
+    "intGrowth": 2,
+    "skill": {
+      "name": "槍隊急襲",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5160",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "由良成繁",
+    "cost": 1.5,
+    "capacity": 1300,
+    "yari": "D",
+    "yumi": "B",
+    "kiba": "D",
+    "heiki": "C",
+    "attack": 430,
+    "defence": 480,
+    "intelligence": 360,
+    "attackGrowth": 16,
+    "defenceGrowth": 17,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊堅守",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5161",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "白井浄三",
+    "cost": 1.5,
+    "capacity": 1380,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "E",
+    "attack": 480,
+    "defence": 450,
+    "intelligence": 420,
+    "attackGrowth": 17,
+    "defenceGrowth": 16,
+    "intGrowth": 2.5,
+    "skill": {
+      "name": "槍隊挟撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5162",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "小出吉親",
+    "cost": 2,
+    "capacity": 1650,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "B",
+    "heiki": "D",
+    "attack": 470,
+    "defence": 460,
+    "intelligence": 400,
+    "attackGrowth": 18,
+    "defenceGrowth": 15,
+    "intGrowth": 2,
+    "skill": {
+      "name": "勝男武士",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5163",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "堀尾茂助",
+    "cost": 2,
+    "capacity": 1700,
+    "yari": "E",
+    "yumi": "D",
+    "kiba": "C",
+    "heiki": "C",
+    "attack": 450,
+    "defence": 480,
+    "intelligence": 410,
+    "attackGrowth": 16,
+    "defenceGrowth": 17,
+    "intGrowth": 2,
+    "skill": {
+      "name": "騎馬隊守備",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5164",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "田丸直昌",
+    "cost": 2,
+    "capacity": 1720,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "E",
+    "heiki": "D",
+    "attack": 440,
+    "defence": 480,
+    "intelligence": 400,
+    "attackGrowth": 15,
+    "defenceGrowth": 17,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊守備",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5165",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "向井正綱",
+    "cost": 2,
+    "capacity": 1730,
+    "yari": "C",
+    "yumi": "E",
+    "kiba": "D",
+    "heiki": "C",
+    "attack": 470,
+    "defence": 460,
+    "intelligence": 410,
+    "attackGrowth": 17,
+    "defenceGrowth": 15,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊急襲",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5166",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "樂巌寺雅方",
+    "cost": 2,
+    "capacity": 1740,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 460,
+    "defence": 480,
+    "intelligence": 420,
+    "attackGrowth": 15,
+    "defenceGrowth": 17,
+    "intGrowth": 2,
+    "skill": {
+      "name": "弓隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5167",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "肝付兼続",
+    "cost": 1.5,
+    "capacity": 1340,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 450,
+    "defence": 480,
+    "intelligence": 410,
+    "attackGrowth": 15,
+    "defenceGrowth": 17,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5168",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "松永長頼",
+    "cost": 2,
+    "capacity": 1750,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 480,
+    "defence": 460,
+    "intelligence": 400,
+    "attackGrowth": 17,
+    "defenceGrowth": 16,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊襲撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5169",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "原田直政",
+    "cost": 1.5,
+    "capacity": 1350,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 460,
+    "defence": 470,
+    "intelligence": 400,
+    "attackGrowth": 16,
+    "defenceGrowth": 17,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "騎馬隊守備",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5170",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "米良重方",
+    "cost": 2,
+    "capacity": 1750,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 460,
+    "defence": 470,
+    "intelligence": 400,
+    "attackGrowth": 16,
+    "defenceGrowth": 17,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5171",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "コックス",
+    "cost": 1.5,
+    "capacity": 1320,
+    "yari": "B",
+    "yumi": "D",
+    "kiba": "C",
+    "heiki": "C",
+    "attack": 490,
+    "defence": 440,
+    "intelligence": 420,
+    "attackGrowth": 17,
+    "defenceGrowth": 14,
+    "intGrowth": 2,
+    "skill": {
+      "name": "槍隊急襲",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5172",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "猪俣邦憲",
+    "cost": 2,
+    "capacity": 1740,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 470,
+    "defence": 460,
+    "intelligence": 410,
+    "attackGrowth": 17,
+    "defenceGrowth": 16,
+    "intGrowth": 2,
+    "skill": {
+      "name": "槍隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5173",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "肝付兼続",
+    "cost": 1.5,
+    "capacity": 1330,
+    "yari": "C",
+    "yumi": "B",
+    "kiba": "E",
+    "heiki": "D",
+    "attack": 470,
+    "defence": 490,
+    "intelligence": 370,
+    "attackGrowth": 15,
+    "defenceGrowth": 17,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊堅陣",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5174",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "大藤信基",
+    "cost": 2,
+    "capacity": 1750,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "E",
+    "heiki": "B",
+    "attack": 470,
+    "defence": 480,
+    "intelligence": 400,
+    "attackGrowth": 15,
+    "defenceGrowth": 16,
+    "intGrowth": 2,
+    "skill": {
+      "name": "鉄砲隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5175",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "金森長近",
+    "cost": 2,
+    "capacity": 1760,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 470,
+    "defence": 490,
+    "intelligence": 370,
+    "attackGrowth": 15,
+    "defenceGrowth": 17,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5176",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "黒田長政",
+    "cost": 1.5,
+    "capacity": 1340,
+    "yari": "C",
+    "yumi": "E",
+    "kiba": "B",
+    "heiki": "D",
+    "attack": 480,
+    "defence": 490,
+    "intelligence": 380,
+    "attackGrowth": 16,
+    "defenceGrowth": 18,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊堅陣",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5177",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "南条広継",
+    "cost": 2,
+    "capacity": 1750,
+    "yari": "C",
+    "yumi": "B",
+    "kiba": "C",
+    "heiki": "E",
+    "attack": 490,
+    "defence": 480,
+    "intelligence": 390,
+    "attackGrowth": 18,
+    "defenceGrowth": 16,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5178",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "冨田氏実",
+    "cost": 2,
+    "capacity": 1740,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "E",
+    "heiki": "D",
+    "attack": 440,
+    "defence": 480,
+    "intelligence": 400,
+    "attackGrowth": 15,
+    "defenceGrowth": 17,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊守備",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5179",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "織田信廣",
+    "cost": 1.5,
+    "capacity": 1750,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 480,
+    "defence": 460,
+    "intelligence": 400,
+    "attackGrowth": 18,
+    "defenceGrowth": 16,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊襲撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5180",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "蘆名盛隆",
+    "cost": 2,
+    "capacity": 1750,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 460,
+    "defence": 480,
+    "intelligence": 420,
+    "attackGrowth": 15,
+    "defenceGrowth": 18,
+    "intGrowth": 2,
+    "skill": {
+      "name": "槍隊堅守",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5181",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "今川氏豊",
+    "cost": 2,
+    "capacity": 1760,
+    "yari": "C",
+    "yumi": "B",
+    "kiba": "C",
+    "heiki": "E",
+    "attack": 490,
+    "defence": 450,
+    "intelligence": 390,
+    "attackGrowth": 18,
+    "defenceGrowth": 17,
+    "intGrowth": 2,
+    "skill": {
+      "name": "弓隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5182",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "滝川益氏",
+    "cost": 1.5,
+    "capacity": 1750,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 450,
+    "defence": 480,
+    "intelligence": 380,
+    "attackGrowth": 16,
+    "defenceGrowth": 18,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5183",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "明智光綱",
+    "cost": 2,
+    "capacity": 1760,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "E",
+    "heiki": "D",
+    "attack": 440,
+    "defence": 480,
+    "intelligence": 400,
+    "attackGrowth": 15,
+    "defenceGrowth": 17,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5184",
+    "rarity": "序",
+    "jobType": "姫",
+    "illustrator": "",
+    "description": "",
+    "name": "笑窪御前",
+    "cost": 1,
+    "capacity": 1240,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 470,
+    "defence": 490,
+    "intelligence": 390,
+    "attackGrowth": 15,
+    "defenceGrowth": 17,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      "戦姫"
+    ]
+  },
+  {
+    "id": "5185",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "三淵藤英",
+    "cost": 2,
+    "capacity": 1760,
+    "yari": "C",
+    "yumi": "B",
+    "kiba": "C",
+    "heiki": "E",
+    "attack": 480,
+    "defence": 450,
+    "intelligence": 390,
+    "attackGrowth": 18,
+    "defenceGrowth": 17,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5186",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "汐崎重盛",
+    "cost": 1.5,
+    "capacity": 1360,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 480,
+    "defence": 460,
+    "intelligence": 380,
+    "attackGrowth": 18,
+    "defenceGrowth": 17,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊襲撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5187",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "一色義道",
+    "cost": 1.5,
+    "capacity": 1360,
+    "yari": "C",
+    "yumi": "B",
+    "kiba": "C",
+    "heiki": "E",
+    "attack": 490,
+    "defence": 480,
+    "intelligence": 400,
+    "attackGrowth": 17,
+    "defenceGrowth": 16,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5188",
+    "rarity": "序",
+    "jobType": "姫",
+    "illustrator": "",
+    "description": "",
+    "name": "おゑん",
+    "cost": 2,
+    "capacity": 1700,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 450,
+    "defence": 490,
+    "intelligence": 400,
+    "attackGrowth": 14,
+    "defenceGrowth": 18,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5189",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "西郷純堯",
+    "cost": 1.5,
+    "capacity": 1350,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 500,
+    "defence": 430,
+    "intelligence": 380,
+    "attackGrowth": 16,
+    "defenceGrowth": 11,
+    "intGrowth": 1,
+    "skill": {
+      "name": "槍隊急襲",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5190",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "大崎義隆",
+    "cost": 2,
+    "capacity": 1770,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 430,
+    "defence": 510,
+    "intelligence": 400,
+    "attackGrowth": 14,
+    "defenceGrowth": 16,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊堅守",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5191",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "服部康成",
+    "cost": 2,
+    "capacity": 1760,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 440,
+    "defence": 500,
+    "intelligence": 410,
+    "attackGrowth": 13,
+    "defenceGrowth": 16,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5192",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "木幡高清",
+    "cost": 1.5,
+    "capacity": 1360,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "E",
+    "heiki": "D",
+    "attack": 480,
+    "defence": 490,
+    "intelligence": 400,
+    "attackGrowth": 16,
+    "defenceGrowth": 18,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊堅陣",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5193",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "三村家親",
+    "cost": 2,
+    "capacity": 1770,
+    "yari": "C",
+    "yumi": "E",
+    "kiba": "D",
+    "heiki": "C",
+    "attack": 480,
+    "defence": 460,
+    "intelligence": 410,
+    "attackGrowth": 18,
+    "defenceGrowth": 15,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "槍隊急襲",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5194",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "室賀正武",
+    "cost": 1.5,
+    "capacity": 1360,
+    "yari": "C",
+    "yumi": "B",
+    "kiba": "E",
+    "heiki": "D",
+    "attack": 470,
+    "defence": 480,
+    "intelligence": 420,
+    "attackGrowth": 17,
+    "defenceGrowth": 18,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊堅陣",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5195",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "五味貞氏",
+    "cost": 2,
+    "capacity": 1780,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "B",
+    "attack": 400,
+    "defence": 490,
+    "intelligence": 420,
+    "attackGrowth": 14,
+    "defenceGrowth": 19,
+    "intGrowth": 2,
+    "skill": {
+      "name": "旗鼓堂々",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5196",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "秋元義久",
+    "cost": 2,
+    "capacity": 1790,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 460,
+    "defence": 490,
+    "intelligence": 420,
+    "attackGrowth": 15,
+    "defenceGrowth": 18,
+    "intGrowth": 2,
+    "skill": {
+      "name": "槍隊堅守",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5197",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "天徳寺宝衍",
+    "cost": 2,
+    "capacity": 1770,
+    "yari": "C",
+    "yumi": "B",
+    "kiba": "C",
+    "heiki": "E",
+    "attack": 490,
+    "defence": 450,
+    "intelligence": 390,
+    "attackGrowth": 18,
+    "defenceGrowth": 17,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5198",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "伊勢貞興",
+    "cost": 1.5,
+    "capacity": 1370,
+    "yari": "C",
+    "yumi": "B",
+    "kiba": "E",
+    "heiki": "D",
+    "attack": 470,
+    "defence": 480,
+    "intelligence": 410,
+    "attackGrowth": 17,
+    "defenceGrowth": 18,
+    "intGrowth": 2,
+    "skill": {
+      "name": "弓隊堅陣",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5199",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "木戸孝範",
+    "cost": 1.5,
+    "capacity": 1380,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 490,
+    "defence": 460,
+    "intelligence": 400,
+    "attackGrowth": null,
+    "defenceGrowth": null,
+    "intGrowth": null,
+    "skill": {
+      "name": "槍隊襲撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5200",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "山本勘蔵",
+    "cost": 2,
+    "capacity": 1750,
+    "yari": "C",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 480,
+    "defence": 460,
+    "intelligence": 400,
+    "attackGrowth": null,
+    "defenceGrowth": null,
+    "intGrowth": null,
+    "skill": {
+      "name": "槍隊襲撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5201",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "福原貞俊",
+    "cost": 1.5,
+    "capacity": 1390,
+    "yari": "D",
+    "yumi": "D",
+    "kiba": "D",
+    "heiki": "C",
+    "attack": 470,
+    "defence": 490,
+    "intelligence": 400,
+    "attackGrowth": null,
+    "defenceGrowth": null,
+    "intGrowth": null,
+    "skill": {
+      "name": "鉄砲隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5202",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "梅津政景",
+    "cost": 1.5,
+    "capacity": 1390,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 480,
+    "defence": 490,
+    "intelligence": 400,
+    "attackGrowth": null,
+    "defenceGrowth": null,
+    "intGrowth": null,
+    "skill": {
+      "name": "弓隊備え",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5203",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "千々石ミゲル",
+    "cost": 2,
+    "capacity": 1780,
+    "yari": "C",
+    "yumi": "B",
+    "kiba": "C",
+    "heiki": "E",
+    "attack": 490,
+    "defence": 450,
+    "intelligence": 390,
+    "attackGrowth": null,
+    "defenceGrowth": null,
+    "intGrowth": null,
+    "skill": {
+      "name": "弓隊進撃",
+      "type": "攻",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5701",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "平手政秀",
+    "cost": 4,
+    "capacity": 1930,
+    "yari": "E",
+    "yumi": "E",
+    "kiba": "E",
+    "heiki": "E",
+    "attack": 193,
+    "defence": 193,
+    "intelligence": 193,
+    "attackGrowth": 19,
+    "defenceGrowth": 19,
+    "intGrowth": 1.5,
+    "skill": {
+      "name": "弓隊堅守",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5702",
+    "rarity": "序",
+    "jobType": "姫",
+    "illustrator": "",
+    "description": "",
+    "name": "宇喜多モニカ",
+    "cost": 2,
+    "capacity": 1930,
+    "yari": "C",
+    "yumi": "C",
+    "kiba": "B",
+    "heiki": "D",
+    "attack": 580,
+    "defence": 560,
+    "intelligence": 380,
+    "attackGrowth": 16,
+    "defenceGrowth": 15,
+    "intGrowth": 2,
+    "skill": {
+      "name": "紫電一閃",
+      "type": "特",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5703",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "小姓の感謝",
+    "cost": 4,
+    "capacity": 1930,
+    "yari": "S",
+    "yumi": "S",
+    "kiba": "S",
+    "heiki": "S",
+    "attack": 193,
+    "defence": 193,
+    "intelligence": 193,
+    "attackGrowth": 19,
+    "defenceGrowth": 19,
+    "intGrowth": 1,
+    "skill": {
+      "name": "小姓の感謝",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  },
+  {
+    "id": "5704",
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "高橋P",
+    "cost": 4,
+    "capacity": 1930,
+    "yari": "A",
+    "yumi": "A",
+    "kiba": "A",
+    "heiki": "A",
+    "attack": 193,
+    "defence": 193,
+    "intelligence": 193,
+    "attackGrowth": 19,
+    "defenceGrowth": 19,
+    "intGrowth": 1,
+    "skill": {
+      "name": "不腆之意",
+      "type": "防",
+      "description": ""
+    },
+    "unitSkill": [
+      ""
+    ]
+  }
+]
