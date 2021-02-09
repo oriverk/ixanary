@@ -2,7 +2,7 @@ import { useState } from 'react'
 import Image from 'next/image'
 
 import { CardDataType } from '../../types/CardDataType'
-import { CardFrontFrameImage, CardFrontBaseImage, CardRarityIcon, CardParamIcon } from '../../libs/card'
+import { CardFrontFrameImage, CardFrontBaseImage, CardRarityIcon, CardParamIcon } from '../cardImageIcon'
 
 type Props = {
   data: CardDataType

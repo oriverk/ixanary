@@ -37,4 +37,4 @@ yarn-error.log*
 src/style/bundle.css
 
 # puppeteer
-crawler/assets/*.json
+src/libs/crawler/assets/*.json

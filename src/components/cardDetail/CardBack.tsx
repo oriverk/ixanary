@@ -1,7 +1,7 @@
 import Image from 'next/image'
 
 import { CardDataType } from '../../types/CardDataType'
-import { CardJobTypeIcon } from '../../libs/card'
+import { CardJobTypeIcon } from '../cardImageIcon'
 
 type Props = {
   data: CardDataType

@@ -1,7 +1,7 @@
 const path = require('path')
 const fs = require('fs')
 const target = require(
-  `${path.join(process.cwd(), 'lib/index.js')}`
+  `${path.join(process.cwd(), 'assets/index.js')}`
 )
 const puppeteer = require('puppeteer')
 
