@@ -53,7 +53,7 @@ async function getCardData(page, url, tableSelecotr) {
 (async () => {
   const browser = await puppeteer.launch()
   const page = await browser.newPage()
-  
+
   for (const url in target.url.project) {
     data = await getCardData(page, target.url.project[url], target.tableSelector[url])
     try {
@@ -62,10 +62,11 @@ async function getCardData(page, url, tableSelecotr) {
         JSON.stringify(data, undefined, 2),
         'utf-8'
       )
+      console.log(`CardData for ${url} was successfully generated.`)
     } catch (error) {
+      console.log('Error occurred...')
       console.log(error.message)
     }
   }
-
   await browser.close()
 })()
