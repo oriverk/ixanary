@@ -35,3 +35,6 @@ yarn-error.log*
 
 # output style
 src/style/bundle.css
+
+# puppeteer
+puppeteer
