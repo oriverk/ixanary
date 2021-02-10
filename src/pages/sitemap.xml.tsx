@@ -1,6 +1,6 @@
 import { GetServerSidePropsContext } from 'next'
 
-import { generateSitemapXml } from '../libs/genSitemap'
+import { generateSitemapXml } from '../lib/genSitemap'
 
 // reference: https://zenn.dev/catnose99/articles/c441954a987c24
 
