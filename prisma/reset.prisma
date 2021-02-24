@@ -1,0 +1,13 @@
+// https://zenn.dev/terrierscript/articles/2020-12-02-prisma-js-db-reset
+// prisma/reset.prisma
+datasource db {
+  provider = "postgres"
+  url      = env("DATABASE_URL")
+}
+generator client {
+  provider = "prisma-client-js"
+}
+
+model Reset {
+  id Int @id @default(autoincrement())
+}

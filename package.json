@@ -5,7 +5,8 @@
   "author": "oriverk <oriveryk@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "npx ts-node src/index.ts"
+    "build": "npx ts-node src/index.ts",
+    "db:reset": "npx prisma db push --preview-feature --accept-data-loss --schema=./prisma/reset.prisma; prisma db push --preview-feature --accept-data-loss"
   },
   "devDependencies": {
     "@types/node": "^14.14.31",
