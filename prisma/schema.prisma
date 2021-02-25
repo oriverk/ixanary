@@ -39,7 +39,7 @@ model Card {
 
 model Skill {
   id          Int     @id @default(autoincrement())
-  name        String  @db.VarChar(10)
+  name        String  @db.VarChar(10) @unique
   rarity      String? @db.Char(1)
   type        String? @db.Char(1)
   description String? @db.VarChar(50)
@@ -49,7 +49,9 @@ model Skill {
 model UnitSkill{
   id          Int     @id @default(autoincrement())
   name        String  @db.VarChar(10)
-  type        String? @db.Char(1)
+  type        String @db.Char(1)
   description String? @db.VarChar(50)
   cards Card[]
+
+  @@unique(fields:[name, type], name: "unitSkillNameWithType")
 }
