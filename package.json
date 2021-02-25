@@ -5,8 +5,7 @@
   "author": "oriverk <oriveryk@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "npx ts-node src/index.ts",
-    "db:reset": "npx prisma db push --preview-feature --accept-data-loss --schema=./prisma/reset.prisma; prisma db push --preview-feature --accept-data-loss"
+    "build": "npx ts-node src/index.ts"
   },
   "devDependencies": {
     "@types/node": "^14.14.31",
@@ -18,6 +17,7 @@
     "@prisma/client": "^2.17.0",
     "fastify": "^3.12.0",
     "fastify-cli": "^2.8.0",
-    "fastify-formbody": "^5.0.0"
+    "fastify-formbody": "^5.0.0",
+    "fastify-plugin": "^3.0.0"
   }
 }

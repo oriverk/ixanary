@@ -10,26 +10,46 @@ generator client {
   provider = "prisma-client-js"
 }
 
-model Post {
-  id        Int      @default(autoincrement()) @id
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
-  title     String   @db.VarChar(255)
-  content   String?
-  published Boolean  @default(false)
-  author    User     @relation(fields: [authorId], references: [id])
-  authorId  Int
+model Card {
+  id            Int     @id
+  name          String? @db.VarChar(10)
+  hiragana      String? @db.VarChar(20)
+  rarity        String? @db.Char(1)
+  jobType       String? @db.Char(1)
+  illustrator   String? @db.VarChar(10)
+  description   String? @db.VarChar(50)
+  cost          Float?   @db.Real
+  capacity      Int?     @db.SmallInt
+  yari          String?  @db.Char(1)
+  yumi          String?  @db.Char(1)
+  kiba          String?  @db.Char(1)
+  heiki         String?  @db.Char(1)
+  attack        Int?     @db.SmallInt
+  defence       Int?     @db.SmallInt
+  intelligence  Int?     @db.SmallInt
+  attackGrowth  Int?     @db.SmallInt
+  defenceGrowth Int?     @db.SmallInt
+  intGrowth     Float?   @db.Real
+  skill Skill? @relation(fields: [skillId], references:[id]) // many cards has one skill
+  skillId       Int?
+  unitSkill UnitSkill[] // many to many
+  createdAt     DateTime @default(now())
+  updatedAt     DateTime @updatedAt
 }
-model Profile {
-  id     Int     @default(autoincrement()) @id
-  bio    String?
-  user   User    @relation(fields: [userId], references: [id])
-  userId Int     @unique
+
+model Skill {
+  id          Int     @id @default(autoincrement())
+  name        String  @db.VarChar(10)
+  rarity      String? @db.Char(1)
+  type        String? @db.Char(1)
+  description String? @db.VarChar(50)
+  cards Card[]
 }
-model User {
-  id      Int      @default(autoincrement()) @id
-  email   String   @unique
-  name    String?
-  posts   Post[]
-  profile Profile?
+
+model UnitSkill{
+  id          Int     @id @default(autoincrement())
+  name        String  @db.VarChar(10)
+  type        String? @db.Char(1)
+  description String? @db.VarChar(50)
+  cards Card[]
 }
