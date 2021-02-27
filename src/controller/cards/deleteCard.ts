@@ -5,12 +5,8 @@ import { Card } from '../../types/prisma'
 
 const prisma = new PrismaClient()
 
-interface DeleteCardParams {
-  id: Pick<Card, 'id'>
-}
-
 // DELETE:/cards/:id
-export const deleteCard = async (req: FastifyRequest<{ Params: DeleteCardParams }>, res: FastifyReply) => {
+export const deleteCard = async (req: FastifyRequest<{ Params: Pick<Card, 'id'> }>, res: FastifyReply) => {
   const { id } = req.params
 
   if (typeof Number(id) !== 'number') {
