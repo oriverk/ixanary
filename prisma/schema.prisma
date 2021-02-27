@@ -12,11 +12,11 @@ generator client {
 
 model Card {
   id            Int     @id
-  name          String? @db.VarChar(10)
+  name          String? @db.VarChar(15)
   hiragana      String? @db.VarChar(20)
   rarity        String? @db.Char(1)
   jobType       String? @db.Char(1)
-  illustrator   String? @db.VarChar(10)
+  illustrator   String? @db.VarChar(15)
   description   String? @db.VarChar(50)
   cost          Float?   @db.Real
   capacity      Int?     @db.SmallInt
@@ -39,7 +39,7 @@ model Card {
 
 model Skill {
   id          Int     @id @default(autoincrement())
-  name        String  @db.VarChar(10) @unique
+  name        String  @db.VarChar(15) @unique
   rarity      String? @db.Char(1)
   type        String? @db.Char(1)
   description String? @db.VarChar(50)
@@ -48,10 +48,8 @@ model Skill {
 
 model UnitSkill{
   id          Int     @id @default(autoincrement())
-  name        String  @db.VarChar(10)
-  type        String @db.Char(1)
+  name        String  @db.VarChar(15) @unique
+  type        String? @db.Char(1)
   description String? @db.VarChar(50)
   cards Card[]
-
-  @@unique(fields:[name, type], name: "unitSkillNameWithType")
 }
