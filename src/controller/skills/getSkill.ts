@@ -17,6 +17,14 @@ export const getSkill = async (req: FastifyRequest<{ Params: Pick<Skill, 'name'>
     where: {
       name: decodeURI(name)
     },
+    include: {
+      cards: {
+        select: {
+          id: true,
+          name: true
+        }
+      }
+    }
   })
   res.send(skill)
 }

@@ -8,6 +8,14 @@ export const getAllUnitSkills = async (_req: FastifyRequest, res: FastifyReply) 
   const skills = await prisma.unitSkill.findMany({
     orderBy: {
       id: "asc"
+    },
+    include: {
+      cards: {
+        select: {
+          id: true,
+          name: true
+        }
+      }
     }
   })
   res.send(skills)
