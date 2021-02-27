@@ -5,7 +5,7 @@ import { Skill } from '../../types/prisma'
 
 const prisma = new PrismaClient()
 
-// PUT:/skills
+// PUT:/skills/:name
 export const updateSkill = async (req: FastifyRequest<{ Params: Pick<Skill, 'name'>, Body: Omit<Skill, 'id'> }>, res: FastifyReply) => {
   const { name } = req.params
   if (!name) {
@@ -15,11 +15,8 @@ export const updateSkill = async (req: FastifyRequest<{ Params: Pick<Skill, 'nam
   const { type, rarity, description } = req.body
   const newName = req.body.name
 
-  console.log('undecoded is ', name)
-  console.log('decoded is', decodeURI(name))
-
   const skill = await prisma.skill.update({
-    where: { name: decodeURIComponent(name) },
+    where: { name: decodeURI(name) },
     data: {
       name: newName !== null ? newName : undefined,
       type: type !== null ? type : undefined,
@@ -28,5 +25,4 @@ export const updateSkill = async (req: FastifyRequest<{ Params: Pick<Skill, 'nam
     }
   })
   res.send(skill)
-  return { hello: 'world' }
 }
