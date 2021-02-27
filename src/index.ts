@@ -2,6 +2,7 @@ import * as fastify from 'fastify'
 
 import { getAllCards, getCard, createCard, updateCard, deleteCard } from "./controller/cards"
 import { getAllSkills, getSkill, createSkill, updateSkill, deleteSkill } from './controller/skills'
+import { getAllUnitSkills, getUnitSkill, createUnitSkill, updateUnitSkill, deleteUnitSkill } from './controller/unitSkills'
 
 const app: fastify.FastifyInstance = fastify.fastify({
   logger: true,
@@ -29,6 +30,14 @@ app.get(`${skills}/:name`, getSkill)
 app.post(skills, createSkill)
 app.put(`${skills}/:name`, updateSkill)
 app.delete(`${skills}/:name`, deleteSkill)
+
+const unitSkill = '/unit-skills'
+// unitSkill
+app.get(unitSkill, getAllSkills)
+app.get(`${unitSkill}/:name`, getSkill)
+app.post(unitSkill, createSkill)
+app.put(`${unitSkill}/:name`, updateSkill)
+app.delete(`${unitSkill}/:name`, deleteSkill)
 
 
 const start = async () => {
