@@ -68,12 +68,7 @@ export const createCard = async (req: FastifyRequest<{ Body: CreateCardBody }>, 
       data: {
         unitSkill: {
           connectOrCreate: {
-            where: {
-              unitSkillNameWithType: {
-                name: unitSkillName,
-                type: unitSkillType
-              }
-            },
+            where: { name: unitSkillName, },
             create: {
               name: unitSkillName,
               type: unitSkillType,
