@@ -17,6 +17,7 @@
     "schema": "src/prisma/schema.prisma"
   },
   "dependencies": {
+    "server": "1.0.0",
     "@prisma/client": "2",
     "next": "^10.0.6-canary.7",
     "react": "^17.0.1",

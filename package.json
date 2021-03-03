@@ -1,0 +1,13 @@
+{
+  "name": "ixanary",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/oriverk/ixanary.git",
+  "author": "oriverk <oriveryk@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces":[
+    "server",
+    "client"
+  ]
+}
