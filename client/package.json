@@ -9,20 +9,17 @@
     "build": "run-s build:*",
     "build:css": "NODE_ENV=production postcss src/style/tailwind.css -o src/style/bundle.css",
     "build:next": "next build",
-    "start": "next start",
-    "prisma:db push": "npx prisma db push --preview-feature",
-    "prisma:studio": "npx prisma studio"
+    "start": "next start"
   },
-  "prisma":{
+  "prisma": {
     "schema": "src/prisma/schema.prisma"
   },
   "dependencies": {
-    "server": "1.0.0",
-    "@prisma/client": "2",
     "next": "^10.0.6-canary.7",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-icons": "^4.1.0"
+    "react-icons": "^4.1.0",
+    "server": "1.0.0"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^4.0.0",
@@ -36,7 +33,6 @@
     "postcss-cli": "^8.3.1",
     "postcss-custom-properties": "^11.0.0",
     "postcss-preset-env": "^6.7.0",
-    "prisma": "^2.16.1",
     "puppeteer": "^7.0.1",
     "raw-loader": "^4.0.2",
     "tailwindcss": "^2.0.2",
