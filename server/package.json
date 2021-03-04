@@ -3,14 +3,22 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "oriverk <oriveryk@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oriverk/ixanary.git"
+  },
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oriverk/ixanary/issues"
+  },
+  "keywords": ["prisma", "postgresql", "fastify"],
   "scripts": {
-    "db:save": " nx prisma migrate dev --create-only --preview-feature",
+    "db:save": " nxx prisma migrate dev --create-only --preview-feature",
     "db:migrate": "npx prisma migrate dev --preview-feature",
     "db:migrate:prod": "npx prisma migrate deploy --preview-feature && yarn build",
     "db:seed": "npx prisma db seed --preview-feature",
     "dev": "nodemon src/index.ts",
-    "build": "tsc",
+    "build": "tsc src/index.ts --outDir build",
     "start": "node build/index.js"
   },
   "dependencies": {
