@@ -5,10 +5,10 @@
   "author": "oriverk <oriveryk@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "db:save": "prisma migrate dev --create-only --preview-feature",
-    "db:migrate": "prisma migrate dev --preview-feature",
-    "db:migrate:prod": "prisma migrate deploy --preview-feature",
-    "db:seed": "prisma db seed --preview-feature",
+    "db:save": " nx prisma migrate dev --create-only --preview-feature",
+    "db:migrate": "npx prisma migrate dev --preview-feature",
+    "db:migrate:prod": "npx prisma migrate deploy --preview-feature && yarn build",
+    "db:seed": "npx prisma db seed --preview-feature",
     "dev": "nodemon src/index.ts",
     "build": "tsc",
     "start": "node build/index.js"
