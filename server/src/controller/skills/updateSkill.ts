@@ -12,16 +12,22 @@ export const updateSkill = async (req: FastifyRequest<{ Params: Pick<Skill, 'nam
     throw new Error('The key "name" is required but missing.')
   }
 
-  const { type, rarity, description } = req.body
+  const { rarity, type, target, content, content10, extra, first, second, third } = req.body
   const newName = req.body.name
 
   const skill = await prisma.skill.update({
     where: { name: decodeURI(name) },
     data: {
       name: newName !== null ? newName : undefined,
-      type: type !== null ? type : undefined,
       rarity: rarity !== null ? rarity : undefined,
-      description: description !== null ? description : undefined
+      type: type !== null ? type : undefined,
+      target: target !== null ? target : undefined,
+      content: content !== null ? content : undefined,
+      content10: content10 !== null ? content10 : undefined,
+      extra: extra !== null ? extra : undefined,
+      first: first !== null ? first : undefined,
+      second: second !== null ? second : undefined,
+      third: third !== null ? third : undefined,
     }
   })
   res.send(skill)

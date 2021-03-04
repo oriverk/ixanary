@@ -7,7 +7,7 @@ const prisma = new PrismaClient()
 
 // POST:/unitSkills
 export const createUnitSkill = async (req: FastifyRequest<{ Body: Omit<UnitSkill, 'id'> }>, res: FastifyReply) => {
-  const { name, type, description } = req.body
+  const { name } = req.body
 
   if (!name) {
     throw new Error('The key "name" is required but missing.')
@@ -15,7 +15,7 @@ export const createUnitSkill = async (req: FastifyRequest<{ Body: Omit<UnitSkill
 
   const unitSkill = await prisma.unitSkill.create({
     data: {
-      name, type, description
+      ...req.body
     }
   })
 

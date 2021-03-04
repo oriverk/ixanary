@@ -41,15 +41,22 @@ model Skill {
   id          Int     @id @default(autoincrement())
   name        String  @db.VarChar(15) @unique
   rarity      String? @db.Char(1)
-  type        String? @db.Char(1)
-  description String? @db.VarChar(50)
+  type        String?  @db.Char(1) // 全｜攻｜防
+  target      String?  @db.VarChar(10) // 槍弓馬｜自身｜織田信長｜部隊長・・・
+  content     String[] // [[rate, effect]]
+  content10   String[] // [[rate, effect]]
+  extra       String?  @db.VarChar(20) // 模倣不可｜3合流｜・・・
+  first       String[] // array(5) = [s, b, c, s1, s2] = [skillName, skillName, skillName, null, skillName]
+  second      String[] // ..
+  third       String[] // ..
   cards Card[]
 }
 
 model UnitSkill{
-  id          Int     @id @default(autoincrement())
-  name        String  @db.VarChar(15) @unique
-  type        String? @db.Char(1)
-  description String? @db.VarChar(50)
+  id            Int       @id @default(autoincrement())
+  name          String    @db.VarChar(15) @unique
+  target        String?    @db.VarChar(10)
+  content       String[]
+  content10     String[]
   cards Card[]
 }
