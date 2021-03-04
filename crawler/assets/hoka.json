@@ -1,6 +1,6 @@
 [
   {
-    "id": "1701",
+    "id": 1701,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -20,15 +20,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "いくさの贈物",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1702",
+    "id": 1702,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -48,15 +49,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "戦国将星の乱",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1703",
+    "id": 1703,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -76,15 +78,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "戦国ノ麒麟",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1705",
+    "id": 1705,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -104,15 +107,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "拾年ノ大御礼",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1707",
+    "id": 1707,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -132,15 +136,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "驚天宿星",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1801",
+    "id": 1801,
     "rarity": "童",
     "jobType": "童",
     "illustrator": "",
@@ -160,15 +165,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "華の童子",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1802",
+    "id": 1802,
     "rarity": "童",
     "jobType": "童",
     "illustrator": "",
@@ -188,15 +194,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "傾奇爛漫",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1803",
+    "id": 1803,
     "rarity": "童",
     "jobType": "童",
     "illustrator": "",
@@ -213,18 +220,19 @@
     "intelligence": 480,
     "attackGrowth": 19,
     "defenceGrowth": 19,
-    "intGrowth": 2.5,
+    "intGrowth": 2,
     "skill": {
       "name": "日輪の子",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1804",
+    "id": 1804,
     "rarity": "童",
     "jobType": "童",
     "illustrator": "",
@@ -244,15 +252,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "うつけ者",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1805",
+    "id": 1805,
     "rarity": "童",
     "jobType": "童",
     "illustrator": "",
@@ -269,18 +278,19 @@
     "intelligence": 440,
     "attackGrowth": 17,
     "defenceGrowth": 16,
-    "intGrowth": 2.5,
+    "intGrowth": 2,
     "skill": {
       "name": "いろは歌",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1806",
+    "id": 1806,
     "rarity": "童",
     "jobType": "童",
     "illustrator": "",
@@ -297,18 +307,19 @@
     "intelligence": 435,
     "attackGrowth": 19,
     "defenceGrowth": 17,
-    "intGrowth": 2.5,
+    "intGrowth": 2,
     "skill": {
       "name": "江竜の志",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1807",
+    "id": 1807,
     "rarity": "童",
     "jobType": "童",
     "illustrator": "",
@@ -328,15 +339,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "勝軍地蔵",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1808",
+    "id": 1808,
     "rarity": "童",
     "jobType": "童",
     "illustrator": "",
@@ -356,15 +368,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "絆の力",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1809",
+    "id": 1809,
     "rarity": "童",
     "jobType": "童",
     "illustrator": "",
@@ -384,15 +397,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "鄙の華人",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1810",
+    "id": 1810,
     "rarity": "童",
     "jobType": "童",
     "illustrator": "",
@@ -412,15 +426,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "戦の華",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1811",
+    "id": 1811,
     "rarity": "童",
     "jobType": "童",
     "illustrator": "",
@@ -437,18 +452,19 @@
     "intelligence": 460,
     "attackGrowth": 17,
     "defenceGrowth": 17,
-    "intGrowth": 2.5,
+    "intGrowth": 2,
     "skill": {
       "name": "虎魂",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1812",
+    "id": 1812,
     "rarity": "童",
     "jobType": "童",
     "illustrator": "",
@@ -465,17 +481,18 @@
     "intelligence": 480,
     "attackGrowth": 17,
     "defenceGrowth": 18,
-    "intGrowth": 2.5,
+    "intGrowth": 2,
     "skill": {
-      "type": "[[]]",
-      "description": ""
+      "type": "[[]]"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1813",
+    "id": 1813,
     "rarity": "童",
     "jobType": "童",
     "illustrator": "",
@@ -494,15 +511,16 @@
     "defenceGrowth": null,
     "intGrowth": null,
     "skill": {
-      "type": "[[]]",
-      "description": ""
+      "type": "[[]]"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1814",
+    "id": 1814,
     "rarity": "童",
     "jobType": "童",
     "illustrator": "",
@@ -519,18 +537,19 @@
     "intelligence": 470,
     "attackGrowth": 19,
     "defenceGrowth": 18,
-    "intGrowth": 2.5,
+    "intGrowth": 2,
     "skill": {
       "name": "姫若子",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1851",
+    "id": 1851,
     "rarity": "童",
     "jobType": "童",
     "illustrator": "",
@@ -550,15 +569,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "戦の華",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1852",
+    "id": 1852,
     "rarity": "童",
     "jobType": "童",
     "illustrator": "",
@@ -575,18 +595,19 @@
     "intelligence": 370,
     "attackGrowth": 15,
     "defenceGrowth": 13,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "大うつけ",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1853",
+    "id": 1853,
     "rarity": "童",
     "jobType": "童",
     "illustrator": "",
@@ -606,15 +627,16 @@
     "intGrowth": null,
     "skill": {
       "name": "かぶき者",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1930",
+    "id": 1930,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -634,15 +656,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "感謝の饗宴",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1931",
+    "id": 1931,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -662,15 +685,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "感謝の饗宴",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1932",
+    "id": 1932,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -690,15 +714,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "多謝の饗宴",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1933",
+    "id": 1933,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -718,15 +743,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "感謝の饗宴",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1934",
+    "id": 1934,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -746,15 +772,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "多謝の饗宴",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1935",
+    "id": 1935,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -774,15 +801,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "多謝の饗宴",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1936",
+    "id": 1936,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -802,15 +830,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "声誉の御礼",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1937",
+    "id": 1937,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -830,15 +859,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "奉謝の饗宴",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1938",
+    "id": 1938,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -858,15 +888,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "盛名の御礼",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1939",
+    "id": 1939,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -886,15 +917,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "真田の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1940",
+    "id": 1940,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -914,15 +946,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "伊達の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1941",
+    "id": 1941,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -942,15 +975,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "盛名の御礼",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1942",
+    "id": 1942,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -970,15 +1004,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "織田の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1943",
+    "id": 1943,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -998,15 +1033,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "徳川の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1944",
+    "id": 1944,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -1026,15 +1062,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "豊臣の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1945",
+    "id": 1945,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -1054,15 +1091,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "天廻争乱",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1946",
+    "id": 1946,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -1082,15 +1120,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "日ノ本燎原",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1947",
+    "id": 1947,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -1110,15 +1149,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "報恩謝徳",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1948",
+    "id": 1948,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -1138,15 +1178,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "織田の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1949",
+    "id": 1949,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -1166,15 +1207,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "徳川の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "1950",
+    "id": 1950,
     "rarity": "祝",
     "jobType": "将",
     "illustrator": "",
@@ -1194,15 +1236,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "豊臣の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6001",
+    "id": 6001,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1222,15 +1265,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "東西無双",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6002",
+    "id": 6002,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1250,15 +1294,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "大判ぶる舞",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6003",
+    "id": 6003,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1278,15 +1323,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "にゃん刀流",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6004",
+    "id": 6004,
     "rarity": "雅",
     "jobType": "文",
     "illustrator": "",
@@ -1306,15 +1352,16 @@
     "intGrowth": null,
     "skill": {
       "name": "お風呂番",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6005",
+    "id": 6005,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1334,15 +1381,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "草履番",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6006",
+    "id": 6006,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1362,15 +1410,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "三姉妹の絆",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6007",
+    "id": 6007,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1390,15 +1439,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "お目付け役",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6008",
+    "id": 6008,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1418,15 +1468,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "晴天の烽火",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6009",
+    "id": 6009,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1446,15 +1497,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "うさぎ番",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6010",
+    "id": 6010,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1474,15 +1526,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "お団子番",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6011",
+    "id": 6011,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1502,15 +1555,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "応援番",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6012",
+    "id": 6012,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1530,15 +1584,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "早駆番",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6013",
+    "id": 6013,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1558,15 +1613,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "お配り番",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6014",
+    "id": 6014,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1586,15 +1642,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "御用聞き番",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6015",
+    "id": 6015,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1614,15 +1671,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "剣の礎",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6016",
+    "id": 6016,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1642,15 +1700,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "黒田のお年玉",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6017",
+    "id": 6017,
     "rarity": "雅",
     "jobType": "姫",
     "illustrator": "",
@@ -1670,15 +1729,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "戦国ノ姫",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6018",
+    "id": 6018,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1698,15 +1758,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "美麗なる返礼",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6019",
+    "id": 6019,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1726,15 +1787,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "戦国大返し",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6020",
+    "id": 6020,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1754,15 +1816,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "武芸の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6021",
+    "id": 6021,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1782,15 +1845,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "島津の絆",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6022",
+    "id": 6022,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1810,15 +1874,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "すいか番",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6023",
+    "id": 6023,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1838,15 +1903,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "うきわ番",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6024",
+    "id": 6024,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1866,15 +1932,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "堅将の饗宴",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6025",
+    "id": 6025,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1894,15 +1961,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "どらきゅら風",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6026",
+    "id": 6026,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1922,15 +1990,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "魔女っ娘風",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6027",
+    "id": 6027,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1950,15 +2019,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "淀のお年玉",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6028",
+    "id": 6028,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -1978,15 +2048,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "織田の絆",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6029",
+    "id": 6029,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2006,15 +2077,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "着付け番",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6030",
+    "id": 6030,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2034,15 +2106,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "着付け番",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6031",
+    "id": 6031,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2062,15 +2135,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "メタルボディ",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6032",
+    "id": 6032,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2090,15 +2164,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "袖の下",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6033",
+    "id": 6033,
     "rarity": "雅",
     "jobType": "姫",
     "illustrator": "",
@@ -2118,15 +2193,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "戦姫の饗宴",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6034",
+    "id": 6034,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2146,15 +2222,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "秀眉の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6035",
+    "id": 6035,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2174,15 +2251,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "お助けにゃん",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6036",
+    "id": 6036,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2202,15 +2280,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "頑張るにゃん",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6037",
+    "id": 6037,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2230,15 +2309,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "風林火山 極",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6038",
+    "id": 6038,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2258,15 +2338,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "真田のお年玉",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6039",
+    "id": 6039,
     "rarity": "雅",
     "jobType": "姫",
     "illustrator": "",
@@ -2286,15 +2367,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "美姫の饗宴",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6040",
+    "id": 6040,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2314,15 +2396,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "猫パンチ",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6041",
+    "id": 6041,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2342,15 +2425,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "御台所衆",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6043",
+    "id": 6043,
     "rarity": "雅",
     "jobType": "姫",
     "illustrator": "",
@@ -2370,15 +2454,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "天下のお袋様",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6044",
+    "id": 6044,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2398,15 +2483,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "朱槍の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6045",
+    "id": 6045,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2426,15 +2512,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "雛遊び",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6046",
+    "id": 6046,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2454,15 +2541,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "花より団子",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6047",
+    "id": 6047,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2482,15 +2570,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "守媛の饗宴",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6048",
+    "id": 6048,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2510,15 +2599,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "破城の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6049",
+    "id": 6049,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2538,15 +2628,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "短冊番",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6050",
+    "id": 6050,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2566,15 +2657,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "お星番",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6051",
+    "id": 6051,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2594,15 +2686,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "正義と誇り",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6052",
+    "id": 6052,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2622,15 +2715,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "三姉妹の饗艶",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6053",
+    "id": 6053,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2650,15 +2744,16 @@
     "intGrowth": null,
     "skill": {
       "name": "ご利益にゃん",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6054",
+    "id": 6054,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2678,15 +2773,16 @@
     "intGrowth": null,
     "skill": {
       "name": "真田の誓い",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6055",
+    "id": 6055,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2706,15 +2802,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "真田のお年玉",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6056",
+    "id": 6056,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2734,15 +2831,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "井伊の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6057",
+    "id": 6057,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2762,15 +2860,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "破軍の教え",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6058",
+    "id": 6058,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2790,15 +2889,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "勇将の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6059",
+    "id": 6059,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2818,15 +2918,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "覇縁の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6060",
+    "id": 6060,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2846,15 +2947,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "覇王の転生",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6061",
+    "id": 6061,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2874,15 +2976,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "メタルボディ",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6062",
+    "id": 6062,
     "rarity": "雅",
     "jobType": "姫",
     "illustrator": "",
@@ -2902,15 +3005,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "撃姫の饗宴",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6063",
+    "id": 6063,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2930,15 +3034,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "雲のかなたに",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6064",
+    "id": 6064,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2958,15 +3063,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "お風呂番",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6065",
+    "id": 6065,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -2986,15 +3092,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "草履番",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6066",
+    "id": 6066,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3014,15 +3121,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "平手の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6067",
+    "id": 6067,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3042,15 +3150,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "千万の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6068",
+    "id": 6068,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3070,15 +3179,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "三英傑の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6069",
+    "id": 6069,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3098,15 +3208,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "破戟の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6070",
+    "id": 6070,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3126,15 +3237,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "明智のお年玉",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6071",
+    "id": 6071,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3154,15 +3266,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "雪之丞の贈物",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6072",
+    "id": 6072,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3182,15 +3295,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "姫奏の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6073",
+    "id": 6073,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3210,15 +3324,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "戦守の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6074",
+    "id": 6074,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3238,15 +3353,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "早雲黎明紀",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6075",
+    "id": 6075,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3266,15 +3382,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "傾国の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6076",
+    "id": 6076,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3294,15 +3411,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "千代女の贈物",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6077",
+    "id": 6077,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3322,15 +3440,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "槍守の饗宴",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6078",
+    "id": 6078,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3350,15 +3469,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "馬守の饗宴",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6079",
+    "id": 6079,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3378,15 +3498,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "弓守の饗宴",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6080",
+    "id": 6080,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3406,15 +3527,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "銃王の教え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6081",
+    "id": 6081,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3434,15 +3556,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "焔王の教え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6082",
+    "id": 6082,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3462,15 +3585,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "騎王の教え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6083",
+    "id": 6083,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3490,15 +3614,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "上杉のお年玉",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6084",
+    "id": 6084,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3518,15 +3643,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "甲賀忍法帖",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6085",
+    "id": 6085,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3546,15 +3672,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "センゴクの絆",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6086",
+    "id": 6086,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3574,15 +3701,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "銃王の教え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6087",
+    "id": 6087,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3602,15 +3730,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "焔王の教え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6088",
+    "id": 6088,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3630,15 +3759,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "騎王の教え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6089",
+    "id": 6089,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3658,15 +3788,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "挺身の教え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6090",
+    "id": 6090,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3686,15 +3817,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "金トラの贈物",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6092",
+    "id": 6092,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3714,15 +3846,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "明智のお年玉",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6093",
+    "id": 6093,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3742,15 +3875,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "にゃんの乱",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6095",
+    "id": 6095,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3770,15 +3904,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "自由奔放",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6096",
+    "id": 6096,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3798,15 +3933,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "天下一の傾奇者",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6097",
+    "id": 6097,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3826,15 +3962,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "火将の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6098",
+    "id": 6098,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3854,15 +3991,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "仁将の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6099",
+    "id": 6099,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3882,15 +4020,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "万端の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6100",
+    "id": 6100,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3910,15 +4049,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "王法の饗宴",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6101",
+    "id": 6101,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -3938,15 +4078,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "武田のお年玉",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6701",
+    "id": 6701,
     "rarity": "化",
     "jobType": "将",
     "illustrator": "",
@@ -3966,15 +4107,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "輪廻転身",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6702",
+    "id": 6702,
     "rarity": "化",
     "jobType": "将",
     "illustrator": "",
@@ -3994,15 +4136,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "小姓の教え",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6703",
+    "id": 6703,
     "rarity": "化",
     "jobType": "将",
     "illustrator": "",
@@ -4022,15 +4165,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "小姓の教え",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6704",
+    "id": 6704,
     "rarity": "化",
     "jobType": "将",
     "illustrator": "",
@@ -4050,15 +4194,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "滅私奉公",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6705",
+    "id": 6705,
     "rarity": "化",
     "jobType": "将",
     "illustrator": "",
@@ -4078,15 +4223,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "黄色い声援",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6706",
+    "id": 6706,
     "rarity": "化",
     "jobType": "将",
     "illustrator": "",
@@ -4106,15 +4252,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "小姓の教え",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6707",
+    "id": 6707,
     "rarity": "化",
     "jobType": "将",
     "illustrator": "",
@@ -4134,15 +4281,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "小姓の教え",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6708",
+    "id": 6708,
     "rarity": "化",
     "jobType": "将",
     "illustrator": "",
@@ -4162,15 +4310,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "小姓の教え",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6709",
+    "id": 6709,
     "rarity": "化",
     "jobType": "将",
     "illustrator": "",
@@ -4190,15 +4339,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "小姓の教え",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6710",
+    "id": 6710,
     "rarity": "化",
     "jobType": "将",
     "illustrator": "",
@@ -4218,15 +4368,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "献芹之意",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6711",
+    "id": 6711,
     "rarity": "化",
     "jobType": "将",
     "illustrator": "",
@@ -4246,15 +4397,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "小姓の教え",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6712",
+    "id": 6712,
     "rarity": "化",
     "jobType": "将",
     "illustrator": "",
@@ -4274,15 +4426,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "小姓の教え",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6713",
+    "id": 6713,
     "rarity": "化",
     "jobType": "将",
     "illustrator": "",
@@ -4302,15 +4455,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "滅私奉公",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6714",
+    "id": 6714,
     "rarity": "化",
     "jobType": "将",
     "illustrator": "",
@@ -4330,15 +4484,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "献芹之意",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6715",
+    "id": 6715,
     "rarity": "化",
     "jobType": "将",
     "illustrator": "",
@@ -4358,15 +4513,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "小姓の教え",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6716",
+    "id": 6716,
     "rarity": "化",
     "jobType": "将",
     "illustrator": "",
@@ -4386,15 +4542,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "黄色い声援",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6717",
+    "id": 6717,
     "rarity": "化",
     "jobType": "将",
     "illustrator": "",
@@ -4414,15 +4571,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "黄色い声援",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6720",
+    "id": 6720,
     "rarity": "化",
     "jobType": "将",
     "illustrator": "",
@@ -4442,15 +4600,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "童の戯れ",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6721",
+    "id": 6721,
     "rarity": "化",
     "jobType": "将",
     "illustrator": "",
@@ -4470,15 +4629,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "小姓の教え",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6722",
+    "id": 6722,
     "rarity": "化",
     "jobType": "将",
     "illustrator": "",
@@ -4498,15 +4658,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "滅私奉公",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6723",
+    "id": 6723,
     "rarity": "化",
     "jobType": "将",
     "illustrator": "",
@@ -4526,15 +4687,16 @@
     "intGrowth": 0,
     "skill": {
       "name": "黄色い声援",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "6801",
+    "id": 6801,
     "rarity": "雅",
     "jobType": "将",
     "illustrator": "",
@@ -4554,11 +4716,12 @@
     "intGrowth": 0,
     "skill": {
       "name": "天下統一",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   }
 ]

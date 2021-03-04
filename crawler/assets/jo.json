@@ -1,6 +1,6 @@
 [
   {
-    "id": "5001",
+    "id": 5001,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -20,21 +20,22 @@
     "intGrowth": 1,
     "skill": {
       "name": "槍隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5002",
+    "id": 5002,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "島津歳久",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1870,
     "yari": "D",
     "yumi": "D",
@@ -45,18 +46,19 @@
     "intelligence": 350,
     "attackGrowth": 14,
     "defenceGrowth": 12,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "鉄砲隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      "薩摩"
-    ]
+    "unitSkill": {
+      "name": [
+        "薩摩"
+      ]
+    }
   },
   {
-    "id": "5003",
+    "id": 5003,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -76,15 +78,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "弓隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5004",
+    "id": 5004,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -101,18 +104,19 @@
     "intelligence": 380,
     "attackGrowth": 12,
     "defenceGrowth": 12,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      "海赤"
-    ]
+    "unitSkill": {
+      "name": [
+        "海赤"
+      ]
+    }
   },
   {
-    "id": "5005",
+    "id": 5005,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -129,24 +133,25 @@
     "intelligence": 370,
     "attackGrowth": 13,
     "defenceGrowth": 13,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      "戦場"
-    ]
+    "unitSkill": {
+      "name": [
+        "戦場"
+      ]
+    }
   },
   {
-    "id": "5006",
+    "id": 5006,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "小島弥太郎",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1150,
     "yari": "B",
     "yumi": "F",
@@ -160,21 +165,22 @@
     "intGrowth": 1,
     "skill": {
       "name": "槍隊堅守",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      "戦場"
-    ]
+    "unitSkill": {
+      "name": [
+        "戦場"
+      ]
+    }
   },
   {
-    "id": "5007",
+    "id": 5007,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "蜂須賀小六",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1940,
     "yari": "C",
     "yumi": "C",
@@ -185,18 +191,19 @@
     "intelligence": 390,
     "attackGrowth": 13,
     "defenceGrowth": 13,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "鉄砲隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5008",
+    "id": 5008,
     "rarity": "序",
     "jobType": "剣",
     "illustrator": "",
@@ -216,15 +223,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "弓隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      "剣の"
-    ]
+    "unitSkill": {
+      "name": [
+        "剣の"
+      ]
+    }
   },
   {
-    "id": "5009",
+    "id": 5009,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -244,21 +252,22 @@
     "intGrowth": 1,
     "skill": {
       "name": "槍隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5010",
+    "id": 5010,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "飯富虎昌",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 2020,
     "yari": "C",
     "yumi": "D",
@@ -272,21 +281,22 @@
     "intGrowth": 1,
     "skill": {
       "name": "騎馬隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5011",
+    "id": 5011,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "平手政秀",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1380,
     "yari": "E",
     "yumi": "E",
@@ -300,15 +310,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "弓隊堅守",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5012",
+    "id": 5012,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -328,21 +339,22 @@
     "intGrowth": 1,
     "skill": {
       "name": "槍隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5013",
+    "id": 5013,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "角隈石宗",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1000,
     "yari": "C",
     "yumi": "C",
@@ -356,15 +368,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "城破り",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5014",
+    "id": 5014,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -381,18 +394,19 @@
     "intelligence": 280,
     "attackGrowth": 13,
     "defenceGrowth": 13,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "鉄砲隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      "戦場"
-    ]
+    "unitSkill": {
+      "name": [
+        "戦場"
+      ]
+    }
   },
   {
-    "id": "5015",
+    "id": 5015,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -412,21 +426,22 @@
     "intGrowth": 1,
     "skill": {
       "name": "騎馬隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5016",
+    "id": 5016,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "陶晴賢",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1870,
     "yari": "C",
     "yumi": "C",
@@ -440,21 +455,22 @@
     "intGrowth": 2,
     "skill": {
       "name": "防壁破り",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5017",
+    "id": 5017,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "斎藤利三",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1900,
     "yari": "C",
     "yumi": "D",
@@ -468,15 +484,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "鉄砲隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5018",
+    "id": 5018,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -493,24 +510,25 @@
     "intelligence": 300,
     "attackGrowth": 8,
     "defenceGrowth": 7,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5019",
+    "id": 5019,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "三好義賢",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1930,
     "yari": "C",
     "yumi": "C",
@@ -524,15 +542,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "城破り",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5020",
+    "id": 5020,
     "rarity": "序",
     "jobType": "忍",
     "illustrator": "",
@@ -549,18 +568,19 @@
     "intelligence": 355,
     "attackGrowth": 13,
     "defenceGrowth": 13,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      "忍び"
-    ]
+    "unitSkill": {
+      "name": [
+        "忍び"
+      ]
+    }
   },
   {
-    "id": "5021",
+    "id": 5021,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -580,15 +600,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "槍隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      "森三"
-    ]
+    "unitSkill": {
+      "name": [
+        "森三"
+      ]
+    }
   },
   {
-    "id": "5022",
+    "id": 5022,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -608,21 +629,22 @@
     "intGrowth": 1,
     "skill": {
       "name": "騎馬隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5023",
+    "id": 5023,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "尼子晴久",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 2160,
     "yari": "D",
     "yumi": "D",
@@ -633,24 +655,25 @@
     "intelligence": 290,
     "attackGrowth": 11,
     "defenceGrowth": 11,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "騎馬隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5024",
+    "id": 5024,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "稲葉一鉄",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 2070,
     "yari": "C",
     "yumi": "D",
@@ -661,18 +684,19 @@
     "intelligence": 290,
     "attackGrowth": 13,
     "defenceGrowth": 13,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "兵器進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5025",
+    "id": 5025,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -692,15 +716,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "騎馬隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5026",
+    "id": 5026,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -717,18 +742,19 @@
     "intelligence": 310,
     "attackGrowth": 13,
     "defenceGrowth": 13,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5027",
+    "id": 5027,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -748,15 +774,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "槍隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5028",
+    "id": 5028,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -776,21 +803,22 @@
     "intGrowth": 2,
     "skill": {
       "name": "弓隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5029",
+    "id": 5029,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "直江景綱",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1900,
     "yari": "C",
     "yumi": "C",
@@ -804,15 +832,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "騎馬隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5030",
+    "id": 5030,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -829,18 +858,19 @@
     "intelligence": 305,
     "attackGrowth": 12,
     "defenceGrowth": 12,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5031",
+    "id": 5031,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -860,15 +890,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "騎馬隊襲撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5032",
+    "id": 5032,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -888,15 +919,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "槍隊襲撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      "龍造"
-    ]
+    "unitSkill": {
+      "name": [
+        "龍造"
+      ]
+    }
   },
   {
-    "id": "5033",
+    "id": 5033,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -916,15 +948,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "騎馬隊襲撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      "龍造"
-    ]
+    "unitSkill": {
+      "name": [
+        "龍造"
+      ]
+    }
   },
   {
-    "id": "5034",
+    "id": 5034,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -944,21 +977,22 @@
     "intGrowth": 1,
     "skill": {
       "name": "弓隊襲撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      "龍造"
-    ]
+    "unitSkill": {
+      "name": [
+        "龍造"
+      ]
+    }
   },
   {
-    "id": "5035",
+    "id": 5035,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "甲斐宗運",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1840,
     "yari": "C",
     "yumi": "C",
@@ -972,15 +1006,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "城破り",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5036",
+    "id": 5036,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -1000,15 +1035,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "槍隊急襲",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5037",
+    "id": 5037,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -1025,18 +1061,19 @@
     "intelligence": 250,
     "attackGrowth": 12,
     "defenceGrowth": 12,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "騎馬隊堅守",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5038",
+    "id": 5038,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -1056,15 +1093,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "弓隊堅守",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5039",
+    "id": 5039,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -1084,21 +1122,22 @@
     "intGrowth": 1,
     "skill": {
       "name": "槍隊襲撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      "海赤"
-    ]
+    "unitSkill": {
+      "name": [
+        "海赤"
+      ]
+    }
   },
   {
-    "id": "5040",
+    "id": 5040,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "安藤守就",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 2030,
     "yari": "D",
     "yumi": "C",
@@ -1109,24 +1148,25 @@
     "intelligence": 310,
     "attackGrowth": 13,
     "defenceGrowth": 14,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "騎馬隊堅守",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5041",
+    "id": 5041,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "朝比奈泰朝",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1400,
     "yari": "D",
     "yumi": "D",
@@ -1140,15 +1180,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "弓隊急襲",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5042",
+    "id": 5042,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -1168,21 +1209,22 @@
     "intGrowth": 1,
     "skill": {
       "name": "弓隊堅守",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5043",
+    "id": 5043,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "荒木村重",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1890,
     "yari": "C",
     "yumi": "D",
@@ -1193,18 +1235,19 @@
     "intelligence": 290,
     "attackGrowth": 14,
     "defenceGrowth": 14,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "鉄砲隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      "揺る"
-    ]
+    "unitSkill": {
+      "name": [
+        "揺る"
+      ]
+    }
   },
   {
-    "id": "5044",
+    "id": 5044,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -1224,15 +1267,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "騎馬隊堅守",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      "海赤"
-    ]
+    "unitSkill": {
+      "name": [
+        "海赤"
+      ]
+    }
   },
   {
-    "id": "5045",
+    "id": 5045,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -1252,15 +1296,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "槍隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5046",
+    "id": 5046,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -1277,18 +1322,19 @@
     "intelligence": 350,
     "attackGrowth": 12,
     "defenceGrowth": 11,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "城破り",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      "主へ"
-    ]
+    "unitSkill": {
+      "name": [
+        "主へ"
+      ]
+    }
   },
   {
-    "id": "5047",
+    "id": 5047,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -1308,22 +1354,23 @@
     "intGrowth": 1,
     "skill": {
       "name": "防壁破り",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      "揺る..",
-      "主へ.."
-    ]
+    "unitSkill": {
+      "name": [
+        "揺る",
+        "主へ"
+      ]
+    }
   },
   {
-    "id": "5048",
+    "id": 5048,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "有馬晴信",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1400,
     "yari": "D",
     "yumi": "E",
@@ -1337,15 +1384,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "槍隊堅守",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      "主へ"
-    ]
+    "unitSkill": {
+      "name": [
+        "主へ"
+      ]
+    }
   },
   {
-    "id": "5049",
+    "id": 5049,
     "rarity": "序",
     "jobType": "剣",
     "illustrator": "",
@@ -1362,18 +1410,19 @@
     "intelligence": 185,
     "attackGrowth": 25,
     "defenceGrowth": 25,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "宝蔵院流",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5050",
+    "id": 5050,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -1390,25 +1439,26 @@
     "intelligence": 340,
     "attackGrowth": 12,
     "defenceGrowth": 12,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "鉄砲隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      "揺る..",
-      "主へ.."
-    ]
+    "unitSkill": {
+      "name": [
+        "揺る",
+        "主へ"
+      ]
+    }
   },
   {
-    "id": "5051",
+    "id": 5051,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "古田織部",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1330,
     "yari": "D",
     "yumi": "E",
@@ -1419,18 +1469,19 @@
     "intelligence": 280,
     "attackGrowth": 11,
     "defenceGrowth": 11,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊急襲",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      "揺る"
-    ]
+    "unitSkill": {
+      "name": [
+        "揺る"
+      ]
+    }
   },
   {
-    "id": "5052",
+    "id": 5052,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -1447,24 +1498,25 @@
     "intelligence": 330,
     "attackGrowth": 14,
     "defenceGrowth": 13,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "兵器運用術",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      "七本"
-    ]
+    "unitSkill": {
+      "name": [
+        "七本"
+      ]
+    }
   },
   {
-    "id": "5053",
+    "id": 5053,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "平野長泰",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1280,
     "yari": "F",
     "yumi": "F",
@@ -1478,15 +1530,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "騎馬隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      "七本"
-    ]
+    "unitSkill": {
+      "name": [
+        "七本"
+      ]
+    }
   },
   {
-    "id": "5054",
+    "id": 5054,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -1503,18 +1556,19 @@
     "intelligence": 400,
     "attackGrowth": 13,
     "defenceGrowth": 15,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊堅陣",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5055",
+    "id": 5055,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -1531,24 +1585,25 @@
     "intelligence": 320,
     "attackGrowth": 13,
     "defenceGrowth": 14,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5056",
+    "id": 5056,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "真柄直隆",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1850,
     "yari": "B",
     "yumi": "C",
@@ -1559,24 +1614,25 @@
     "intelligence": 345,
     "attackGrowth": 15,
     "defenceGrowth": 13,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5057",
+    "id": 5057,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "織田有楽斎",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1320,
     "yari": "E",
     "yumi": "E",
@@ -1587,26 +1643,27 @@
     "intelligence": 350,
     "attackGrowth": 7,
     "defenceGrowth": 8,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "鉄砲隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      "揺る..",
-      "主へ..",
-      "御仏.."
-    ]
+    "unitSkill": {
+      "name": [
+        "揺る",
+        "主へ",
+        "御仏"
+      ]
+    }
   },
   {
-    "id": "5058",
+    "id": 5058,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "相馬義胤",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1900,
     "yari": "C",
     "yumi": "B",
@@ -1620,15 +1677,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "弓隊襲撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5059",
+    "id": 5059,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -1645,24 +1703,25 @@
     "intelligence": 300,
     "attackGrowth": 13,
     "defenceGrowth": 13,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊急襲",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5060",
+    "id": 5060,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "大友義統",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1320,
     "yari": "E",
     "yumi": "C",
@@ -1676,21 +1735,22 @@
     "intGrowth": 1,
     "skill": {
       "name": "弓隊守護",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5061",
+    "id": 5061,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "来島通康",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1920,
     "yari": "B",
     "yumi": "C",
@@ -1704,21 +1764,22 @@
     "intGrowth": 1,
     "skill": {
       "name": "槍隊襲撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5062",
+    "id": 5062,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "山名豊国",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1150,
     "yari": "D",
     "yumi": "D",
@@ -1729,18 +1790,19 @@
     "intelligence": 330,
     "attackGrowth": 10,
     "defenceGrowth": 12,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "兵器布陣",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5063",
+    "id": 5063,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -1757,24 +1819,25 @@
     "intelligence": 350,
     "attackGrowth": 13,
     "defenceGrowth": 13,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊守備",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5064",
+    "id": 5064,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "渡辺勘兵衛",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1930,
     "yari": "B",
     "yumi": "D",
@@ -1785,18 +1848,19 @@
     "intelligence": 300,
     "attackGrowth": 14,
     "defenceGrowth": 10,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊急襲",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5065",
+    "id": 5065,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -1813,24 +1877,25 @@
     "intelligence": 345,
     "attackGrowth": 11,
     "defenceGrowth": 12,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊守備",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5066",
+    "id": 5066,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "明石全登",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1250,
     "yari": "C",
     "yumi": "E",
@@ -1844,15 +1909,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "槍隊堅守",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      "主へ"
-    ]
+    "unitSkill": {
+      "name": [
+        "主へ"
+      ]
+    }
   },
   {
-    "id": "5067",
+    "id": 5067,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -1869,24 +1935,25 @@
     "intelligence": 320,
     "attackGrowth": 12,
     "defenceGrowth": 12,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "鉄砲隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5068",
+    "id": 5068,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "穴山梅雪",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 2050,
     "yari": "C",
     "yumi": "D",
@@ -1897,24 +1964,25 @@
     "intelligence": 330,
     "attackGrowth": 15,
     "defenceGrowth": 13,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "騎馬隊急襲",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5069",
+    "id": 5069,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "寺沢広高",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1890,
     "yari": "C",
     "yumi": "C",
@@ -1928,15 +1996,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "騎馬隊堅守",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5070",
+    "id": 5070,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -1956,15 +2025,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "槍隊襲撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5071",
+    "id": 5071,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -1984,15 +2054,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "鉄砲隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      "火龍"
-    ]
+    "unitSkill": {
+      "name": [
+        "火龍"
+      ]
+    }
   },
   {
-    "id": "5072",
+    "id": 5072,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -2009,18 +2080,19 @@
     "intelligence": 350,
     "attackGrowth": 14,
     "defenceGrowth": 11,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "騎馬隊急襲",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5073",
+    "id": 5073,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -2037,18 +2109,19 @@
     "intelligence": 370,
     "attackGrowth": 12,
     "defenceGrowth": 12,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊襲撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5074",
+    "id": 5074,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -2065,18 +2138,19 @@
     "intelligence": 345,
     "attackGrowth": 12,
     "defenceGrowth": 13,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "騎馬隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5075",
+    "id": 5075,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -2096,15 +2170,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "弓隊守備",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5076",
+    "id": 5076,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -2121,18 +2196,19 @@
     "intelligence": 345,
     "attackGrowth": 13,
     "defenceGrowth": 12,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊襲撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5077",
+    "id": 5077,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -2152,15 +2228,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "槍隊急襲",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5078",
+    "id": 5078,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -2177,18 +2254,19 @@
     "intelligence": 345,
     "attackGrowth": 12,
     "defenceGrowth": 13,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5079",
+    "id": 5079,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -2205,18 +2283,19 @@
     "intelligence": 320,
     "attackGrowth": 11,
     "defenceGrowth": 12,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      "五色"
-    ]
+    "unitSkill": {
+      "name": [
+        "五色"
+      ]
+    }
   },
   {
-    "id": "5080",
+    "id": 5080,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -2233,18 +2312,19 @@
     "intelligence": 380,
     "attackGrowth": 12,
     "defenceGrowth": 14,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊守備",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5081",
+    "id": 5081,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -2264,21 +2344,22 @@
     "intGrowth": 1,
     "skill": {
       "name": "騎馬隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5082",
+    "id": 5082,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "小国頼久",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 2010,
     "yari": "B",
     "yumi": "E",
@@ -2289,24 +2370,25 @@
     "intelligence": 340,
     "attackGrowth": 13,
     "defenceGrowth": 12,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5083",
+    "id": 5083,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "内藤昌豊",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1980,
     "yari": "D",
     "yumi": "D",
@@ -2317,24 +2399,25 @@
     "intelligence": 250,
     "attackGrowth": 13,
     "defenceGrowth": 13,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "金爆 砲撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      "四天"
-    ]
+    "unitSkill": {
+      "name": [
+        "四天"
+      ]
+    }
   },
   {
-    "id": "5084",
+    "id": 5084,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "高坂昌信",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1980,
     "yari": "B",
     "yumi": "D",
@@ -2345,24 +2428,25 @@
     "intelligence": 250,
     "attackGrowth": 13,
     "defenceGrowth": 13,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "金爆 槍撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      "四天"
-    ]
+    "unitSkill": {
+      "name": [
+        "四天"
+      ]
+    }
   },
   {
-    "id": "5085",
+    "id": 5085,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "馬場信房",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1980,
     "yari": "D",
     "yumi": "B",
@@ -2373,24 +2457,25 @@
     "intelligence": 250,
     "attackGrowth": 13,
     "defenceGrowth": 13,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "金爆 弓撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      "四天"
-    ]
+    "unitSkill": {
+      "name": [
+        "四天"
+      ]
+    }
   },
   {
-    "id": "5086",
+    "id": 5086,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "山県昌景",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1980,
     "yari": "D",
     "yumi": "D",
@@ -2401,18 +2486,19 @@
     "intelligence": 250,
     "attackGrowth": 13,
     "defenceGrowth": 13,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "金爆 騎突",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      "四天"
-    ]
+    "unitSkill": {
+      "name": [
+        "四天"
+      ]
+    }
   },
   {
-    "id": "5087",
+    "id": 5087,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -2429,18 +2515,19 @@
     "intelligence": 330,
     "attackGrowth": 12,
     "defenceGrowth": 12,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "騎馬隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5088",
+    "id": 5088,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -2460,15 +2547,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "騎馬隊堅守",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5089",
+    "id": 5089,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -2485,24 +2573,25 @@
     "intelligence": 300,
     "attackGrowth": 12,
     "defenceGrowth": 12,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊守備",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5090",
+    "id": 5090,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "一柳直盛",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1280,
     "yari": "C",
     "yumi": "C",
@@ -2516,15 +2605,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "弓隊急襲",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5091",
+    "id": 5091,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -2544,21 +2634,22 @@
     "intGrowth": 1,
     "skill": {
       "name": "騎馬隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5092",
+    "id": 5092,
     "rarity": "序",
     "jobType": "姫",
     "illustrator": "",
     "description": "",
     "name": "椿姫",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1280,
     "yari": "F",
     "yumi": "D",
@@ -2569,18 +2660,19 @@
     "intelligence": 350,
     "attackGrowth": 12,
     "defenceGrowth": 11,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊襲撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      "戦姫"
-    ]
+    "unitSkill": {
+      "name": [
+        "戦姫"
+      ]
+    }
   },
   {
-    "id": "5093",
+    "id": 5093,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -2597,18 +2689,19 @@
     "intelligence": 330,
     "attackGrowth": 12,
     "defenceGrowth": 11,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "騎馬隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5094",
+    "id": 5094,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -2628,21 +2721,22 @@
     "intGrowth": 1,
     "skill": {
       "name": "槍隊守備",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5095",
+    "id": 5095,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "米谷常秀",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 2030,
     "yari": "C",
     "yumi": "B",
@@ -2656,15 +2750,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "弓隊急襲",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5096",
+    "id": 5096,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -2684,15 +2779,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "槍隊急襲",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5097",
+    "id": 5097,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -2709,24 +2805,25 @@
     "intelligence": 360,
     "attackGrowth": 11,
     "defenceGrowth": 12,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "騎馬隊堅守",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5098",
+    "id": 5098,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "森好之",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1180,
     "yari": "C",
     "yumi": "E",
@@ -2740,15 +2837,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "槍隊堅守",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5099",
+    "id": 5099,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -2765,24 +2863,25 @@
     "intelligence": 370,
     "attackGrowth": 11,
     "defenceGrowth": 13,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊守備",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5100",
+    "id": 5100,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "堀秀治",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1980,
     "yari": "B",
     "yumi": "C",
@@ -2796,15 +2895,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "槍隊急襲",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5101",
+    "id": 5101,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -2824,15 +2924,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "弓隊堅守",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5102",
+    "id": 5102,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -2852,21 +2953,22 @@
     "intGrowth": 1,
     "skill": {
       "name": "鉄砲隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5103",
+    "id": 5103,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "鳥屋尾満栄",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 2010,
     "yari": "F",
     "yumi": "B",
@@ -2877,24 +2979,25 @@
     "intelligence": 410,
     "attackGrowth": 14,
     "defenceGrowth": 14,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "四風賢鳳",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5104",
+    "id": 5104,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "蒲生賢秀",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 2000,
     "yari": "C",
     "yumi": "C",
@@ -2905,18 +3008,19 @@
     "intelligence": 380,
     "attackGrowth": 12,
     "defenceGrowth": 13,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊守備",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5105",
+    "id": 5105,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -2933,18 +3037,19 @@
     "intelligence": 350,
     "attackGrowth": 14,
     "defenceGrowth": 12,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5106",
+    "id": 5106,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -2964,21 +3069,22 @@
     "intGrowth": 1,
     "skill": {
       "name": "弓隊守備",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5107",
+    "id": 5107,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "福留親政",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1800,
     "yari": "B",
     "yumi": "D",
@@ -2992,21 +3098,22 @@
     "intGrowth": 2,
     "skill": {
       "name": "荒切武者",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5108",
+    "id": 5108,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "七条兼仲",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 2000,
     "yari": "D",
     "yumi": "C",
@@ -3017,24 +3124,25 @@
     "intelligence": 380,
     "attackGrowth": 12,
     "defenceGrowth": 14,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "騎馬隊堅陣",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5109",
+    "id": 5109,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "中村一氏",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1860,
     "yari": "C",
     "yumi": "D",
@@ -3045,24 +3153,25 @@
     "intelligence": 320,
     "attackGrowth": 15,
     "defenceGrowth": 13,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "鉄砲隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5110",
+    "id": 5110,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "柴田勝豊",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1220,
     "yari": "C",
     "yumi": "D",
@@ -3073,24 +3182,25 @@
     "intelligence": 290,
     "attackGrowth": 10,
     "defenceGrowth": 12,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "兵器布陣",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5111",
+    "id": 5111,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "平岡頼勝",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 2050,
     "yari": "C",
     "yumi": "D",
@@ -3101,18 +3211,19 @@
     "intelligence": 320,
     "attackGrowth": 14,
     "defenceGrowth": 13,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "迅速行軍",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5112",
+    "id": 5112,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -3132,21 +3243,22 @@
     "intGrowth": 2,
     "skill": {
       "name": "鉄砲隊守護",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5113",
+    "id": 5113,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "鳥居忠吉",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1970,
     "yari": "C",
     "yumi": "C",
@@ -3160,21 +3272,22 @@
     "intGrowth": 2,
     "skill": {
       "name": "弓隊守備",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5114",
+    "id": 5114,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "西園寺実充",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 2070,
     "yari": "D",
     "yumi": "C",
@@ -3185,18 +3298,19 @@
     "intelligence": 330,
     "attackGrowth": 13,
     "defenceGrowth": 13,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "迅速行軍",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5115",
+    "id": 5115,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -3213,18 +3327,19 @@
     "intelligence": 330,
     "attackGrowth": 12,
     "defenceGrowth": 15,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "船穿応射",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5116",
+    "id": 5116,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -3244,21 +3359,22 @@
     "intGrowth": 2,
     "skill": {
       "name": "騎馬隊守護",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5117",
+    "id": 5117,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "斎藤龍興",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1300,
     "yari": "D",
     "yumi": "C",
@@ -3269,24 +3385,25 @@
     "intelligence": 380,
     "attackGrowth": 14,
     "defenceGrowth": 15,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "龍哭の酒",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5118",
+    "id": 5118,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "伊東マンショ",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1020,
     "yari": "D",
     "yumi": "C",
@@ -3300,15 +3417,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "兵器布陣",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5119",
+    "id": 5119,
     "rarity": "序",
     "jobType": "姫",
     "illustrator": "",
@@ -3328,21 +3446,22 @@
     "intGrowth": 2,
     "skill": {
       "name": "紫電一閃",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5120",
+    "id": 5120,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "浅井政元",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1120,
     "yari": "C",
     "yumi": "C",
@@ -3353,18 +3472,19 @@
     "intelligence": 380,
     "attackGrowth": 14,
     "defenceGrowth": 17,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "玄武の陣",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5121",
+    "id": 5121,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -3384,15 +3504,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "馬廻御奉行",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5122",
+    "id": 5122,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -3409,24 +3530,25 @@
     "intelligence": 360,
     "attackGrowth": 16,
     "defenceGrowth": 15,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "橙武者",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5123",
+    "id": 5123,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "淡輪重政",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1220,
     "yari": "B",
     "yumi": "D",
@@ -3437,24 +3559,25 @@
     "intelligence": 320,
     "attackGrowth": 14,
     "defenceGrowth": 16,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊守護",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5124",
+    "id": 5124,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "内ヶ島氏理",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1900,
     "yari": "D",
     "yumi": "E",
@@ -3465,18 +3588,19 @@
     "intelligence": 380,
     "attackGrowth": 17,
     "defenceGrowth": 14,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "夜叉熊",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5125",
+    "id": 5125,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -3496,15 +3620,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "荒切武者",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5126",
+    "id": 5126,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -3524,15 +3649,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "槍隊襲撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5127",
+    "id": 5127,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -3552,15 +3678,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "槍隊堅守",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5128",
+    "id": 5128,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -3580,21 +3707,22 @@
     "intGrowth": 1,
     "skill": {
       "name": "鉄砲隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5129",
+    "id": 5129,
     "rarity": "序",
     "jobType": "姫",
     "illustrator": "",
     "description": "",
     "name": "絶姫",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1380,
     "yari": "D",
     "yumi": "C",
@@ -3605,18 +3733,19 @@
     "intelligence": 370,
     "attackGrowth": 13,
     "defenceGrowth": 12,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊襲撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5130",
+    "id": 5130,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -3636,21 +3765,22 @@
     "intGrowth": 2,
     "skill": {
       "name": "騎馬隊守護",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5131",
+    "id": 5131,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "温井景隆",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1320,
     "yari": "B",
     "yumi": "C",
@@ -3661,24 +3791,25 @@
     "intelligence": 360,
     "attackGrowth": 15,
     "defenceGrowth": 14,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊急襲",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5132",
+    "id": 5132,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "松平広忠",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1290,
     "yari": "C",
     "yumi": "C",
@@ -3689,24 +3820,25 @@
     "intelligence": 390,
     "attackGrowth": 13,
     "defenceGrowth": 11,
-    "intGrowth": 2.5,
+    "intGrowth": 2,
     "skill": {
       "name": "弓隊挟撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5133",
+    "id": 5133,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "小田氏治",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1900,
     "yari": "C",
     "yumi": "C",
@@ -3717,24 +3849,25 @@
     "intelligence": 390,
     "attackGrowth": 15,
     "defenceGrowth": 15,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "防壁破り",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5134",
+    "id": 5134,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "猪苗代盛国",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 2100,
     "yari": "B",
     "yumi": "C",
@@ -3745,24 +3878,25 @@
     "intelligence": 390,
     "attackGrowth": 15,
     "defenceGrowth": 16,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5135",
+    "id": 5135,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "田尻鑑種",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1380,
     "yari": "D",
     "yumi": "C",
@@ -3776,15 +3910,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "弓隊堅守",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5136",
+    "id": 5136,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -3801,18 +3936,19 @@
     "intelligence": 340,
     "attackGrowth": 14,
     "defenceGrowth": 12,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊挟撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5137",
+    "id": 5137,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -3832,21 +3968,22 @@
     "intGrowth": 2,
     "skill": {
       "name": "弓隊堅守",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5138",
+    "id": 5138,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "坂井久蔵",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1880,
     "yari": "B",
     "yumi": "D",
@@ -3857,24 +3994,25 @@
     "intelligence": 350,
     "attackGrowth": 15,
     "defenceGrowth": 13,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊急襲",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5139",
+    "id": 5139,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "足利義栄",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1180,
     "yari": "C",
     "yumi": "C",
@@ -3888,21 +4026,22 @@
     "intGrowth": 1,
     "skill": {
       "name": "槍隊堅守",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5140",
+    "id": 5140,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "森下通与",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1950,
     "yari": "B",
     "yumi": "C",
@@ -3913,24 +4052,25 @@
     "intelligence": 350,
     "attackGrowth": 15,
     "defenceGrowth": 11,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊襲撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5141",
+    "id": 5141,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "益田元祥",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1200,
     "yari": "D",
     "yumi": "D",
@@ -3941,24 +4081,25 @@
     "intelligence": 340,
     "attackGrowth": 13,
     "defenceGrowth": 17,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "騎馬隊守護",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5142",
+    "id": 5142,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "三好康長",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1980,
     "yari": "D",
     "yumi": "C",
@@ -3969,24 +4110,25 @@
     "intelligence": 385,
     "attackGrowth": 12,
     "defenceGrowth": 14,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "騎馬隊堅陣",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5143",
+    "id": 5143,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "興津清房",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1920,
     "yari": "B",
     "yumi": "D",
@@ -3997,24 +4139,25 @@
     "intelligence": 385,
     "attackGrowth": 15,
     "defenceGrowth": 16,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊守護",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5144",
+    "id": 5144,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "伊丹康直",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 2050,
     "yari": "C",
     "yumi": "D",
@@ -4025,18 +4168,19 @@
     "intelligence": 390,
     "attackGrowth": 14,
     "defenceGrowth": 15,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊堅守",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5145",
+    "id": 5145,
     "rarity": "序",
     "jobType": "姫",
     "illustrator": "",
@@ -4053,24 +4197,25 @@
     "intelligence": 380,
     "attackGrowth": 13,
     "defenceGrowth": 14,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5146",
+    "id": 5146,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "本城常光",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1950,
     "yari": "B",
     "yumi": "C",
@@ -4081,24 +4226,25 @@
     "intelligence": 390,
     "attackGrowth": 16,
     "defenceGrowth": 15,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊挟撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5147",
+    "id": 5147,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "島津久保",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1230,
     "yari": "C",
     "yumi": "D",
@@ -4109,18 +4255,19 @@
     "intelligence": 375,
     "attackGrowth": 17,
     "defenceGrowth": 16,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊挟撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5148",
+    "id": 5148,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -4137,18 +4284,19 @@
     "intelligence": 390,
     "attackGrowth": 15,
     "defenceGrowth": 17,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5149",
+    "id": 5149,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -4165,18 +4313,19 @@
     "intelligence": 320,
     "attackGrowth": 17,
     "defenceGrowth": 14,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊襲撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5150",
+    "id": 5150,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -4196,21 +4345,22 @@
     "intGrowth": 2,
     "skill": {
       "name": "鉄砲隊守護",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5151",
+    "id": 5151,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "木下家定",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1940,
     "yari": "C",
     "yumi": "B",
@@ -4224,15 +4374,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "弓隊布陣",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5152",
+    "id": 5152,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -4252,15 +4403,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "騎馬隊布陣",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5153",
+    "id": 5153,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -4280,15 +4432,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "鉄砲隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5154",
+    "id": 5154,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -4305,24 +4458,25 @@
     "intelligence": 330,
     "attackGrowth": 17,
     "defenceGrowth": 15,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5155",
+    "id": 5155,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "羽柴秀勝",
-    "cost": 2.5,
+    "cost": 2,
     "capacity": 1950,
     "yari": "C",
     "yumi": "E",
@@ -4336,21 +4490,22 @@
     "intGrowth": 2,
     "skill": {
       "name": "騎馬隊奇襲",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5156",
+    "id": 5156,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "小野道好",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1280,
     "yari": "B",
     "yumi": "D",
@@ -4361,18 +4516,19 @@
     "intelligence": 350,
     "attackGrowth": 17,
     "defenceGrowth": 15,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5157",
+    "id": 5157,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -4389,18 +4545,19 @@
     "intelligence": 340,
     "attackGrowth": 16,
     "defenceGrowth": 17,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊堅陣",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5158",
+    "id": 5158,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -4420,21 +4577,22 @@
     "intGrowth": 2,
     "skill": {
       "name": "槍隊襲撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5159",
+    "id": 5159,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "冷泉隆豊",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1320,
     "yari": "B",
     "yumi": "D",
@@ -4448,21 +4606,22 @@
     "intGrowth": 2,
     "skill": {
       "name": "槍隊急襲",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5160",
+    "id": 5160,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "由良成繁",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1300,
     "yari": "D",
     "yumi": "B",
@@ -4473,24 +4632,25 @@
     "intelligence": 360,
     "attackGrowth": 16,
     "defenceGrowth": 17,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊堅守",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5161",
+    "id": 5161,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "白井浄三",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1380,
     "yari": "C",
     "yumi": "C",
@@ -4501,18 +4661,19 @@
     "intelligence": 420,
     "attackGrowth": 17,
     "defenceGrowth": 16,
-    "intGrowth": 2.5,
+    "intGrowth": 2,
     "skill": {
       "name": "槍隊挟撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5162",
+    "id": 5162,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -4532,15 +4693,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "勝男武士",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5163",
+    "id": 5163,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -4560,15 +4722,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "騎馬隊守備",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5164",
+    "id": 5164,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -4585,18 +4748,19 @@
     "intelligence": 400,
     "attackGrowth": 15,
     "defenceGrowth": 17,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊守備",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5165",
+    "id": 5165,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -4613,18 +4777,19 @@
     "intelligence": 410,
     "attackGrowth": 17,
     "defenceGrowth": 15,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊急襲",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5166",
+    "id": 5166,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -4644,21 +4809,22 @@
     "intGrowth": 2,
     "skill": {
       "name": "弓隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5167",
+    "id": 5167,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "肝付兼続",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1340,
     "yari": "C",
     "yumi": "D",
@@ -4669,18 +4835,19 @@
     "intelligence": 410,
     "attackGrowth": 15,
     "defenceGrowth": 17,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5168",
+    "id": 5168,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -4697,24 +4864,25 @@
     "intelligence": 400,
     "attackGrowth": 17,
     "defenceGrowth": 16,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊襲撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5169",
+    "id": 5169,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "原田直政",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1350,
     "yari": "D",
     "yumi": "C",
@@ -4725,18 +4893,19 @@
     "intelligence": 400,
     "attackGrowth": 16,
     "defenceGrowth": 17,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "騎馬隊守備",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5170",
+    "id": 5170,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -4753,24 +4922,25 @@
     "intelligence": 400,
     "attackGrowth": 16,
     "defenceGrowth": 17,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5171",
+    "id": 5171,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "コックス",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1320,
     "yari": "B",
     "yumi": "D",
@@ -4784,15 +4954,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "槍隊急襲",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5172",
+    "id": 5172,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -4812,21 +4983,22 @@
     "intGrowth": 2,
     "skill": {
       "name": "槍隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5173",
+    "id": 5173,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "肝付兼続",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1330,
     "yari": "C",
     "yumi": "B",
@@ -4837,18 +5009,19 @@
     "intelligence": 370,
     "attackGrowth": 15,
     "defenceGrowth": 17,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊堅陣",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5174",
+    "id": 5174,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -4868,15 +5041,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "鉄砲隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5175",
+    "id": 5175,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -4893,24 +5067,25 @@
     "intelligence": 370,
     "attackGrowth": 15,
     "defenceGrowth": 17,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5176",
+    "id": 5176,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "黒田長政",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1340,
     "yari": "C",
     "yumi": "E",
@@ -4921,18 +5096,19 @@
     "intelligence": 380,
     "attackGrowth": 16,
     "defenceGrowth": 18,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊堅陣",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5177",
+    "id": 5177,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -4949,18 +5125,19 @@
     "intelligence": 390,
     "attackGrowth": 18,
     "defenceGrowth": 16,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5178",
+    "id": 5178,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -4977,24 +5154,25 @@
     "intelligence": 400,
     "attackGrowth": 15,
     "defenceGrowth": 17,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊守備",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5179",
+    "id": 5179,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "織田信廣",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1750,
     "yari": "C",
     "yumi": "D",
@@ -5005,18 +5183,19 @@
     "intelligence": 400,
     "attackGrowth": 18,
     "defenceGrowth": 16,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊襲撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5180",
+    "id": 5180,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -5036,15 +5215,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "槍隊堅守",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5181",
+    "id": 5181,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -5064,21 +5244,22 @@
     "intGrowth": 2,
     "skill": {
       "name": "弓隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5182",
+    "id": 5182,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "滝川益氏",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1750,
     "yari": "C",
     "yumi": "D",
@@ -5089,18 +5270,19 @@
     "intelligence": 380,
     "attackGrowth": 16,
     "defenceGrowth": 18,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5183",
+    "id": 5183,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -5117,18 +5299,19 @@
     "intelligence": 400,
     "attackGrowth": 15,
     "defenceGrowth": 17,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5184",
+    "id": 5184,
     "rarity": "序",
     "jobType": "姫",
     "illustrator": "",
@@ -5145,18 +5328,19 @@
     "intelligence": 390,
     "attackGrowth": 15,
     "defenceGrowth": 17,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      "戦姫"
-    ]
+    "unitSkill": {
+      "name": [
+        "戦姫"
+      ]
+    }
   },
   {
-    "id": "5185",
+    "id": 5185,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -5173,24 +5357,25 @@
     "intelligence": 390,
     "attackGrowth": 18,
     "defenceGrowth": 17,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5186",
+    "id": 5186,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "汐崎重盛",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1360,
     "yari": "C",
     "yumi": "D",
@@ -5201,24 +5386,25 @@
     "intelligence": 380,
     "attackGrowth": 18,
     "defenceGrowth": 17,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊襲撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5187",
+    "id": 5187,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "一色義道",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1360,
     "yari": "C",
     "yumi": "B",
@@ -5229,18 +5415,19 @@
     "intelligence": 400,
     "attackGrowth": 17,
     "defenceGrowth": 16,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5188",
+    "id": 5188,
     "rarity": "序",
     "jobType": "姫",
     "illustrator": "",
@@ -5257,24 +5444,25 @@
     "intelligence": 400,
     "attackGrowth": 14,
     "defenceGrowth": 18,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5189",
+    "id": 5189,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "西郷純堯",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1350,
     "yari": "C",
     "yumi": "D",
@@ -5288,15 +5476,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "槍隊急襲",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5190",
+    "id": 5190,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -5313,18 +5502,19 @@
     "intelligence": 400,
     "attackGrowth": 14,
     "defenceGrowth": 16,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊堅守",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5191",
+    "id": 5191,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -5341,24 +5531,25 @@
     "intelligence": 410,
     "attackGrowth": 13,
     "defenceGrowth": 16,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5192",
+    "id": 5192,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "木幡高清",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1360,
     "yari": "C",
     "yumi": "C",
@@ -5369,18 +5560,19 @@
     "intelligence": 400,
     "attackGrowth": 16,
     "defenceGrowth": 18,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊堅陣",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5193",
+    "id": 5193,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -5397,24 +5589,25 @@
     "intelligence": 410,
     "attackGrowth": 18,
     "defenceGrowth": 15,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "槍隊急襲",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5194",
+    "id": 5194,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "室賀正武",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1360,
     "yari": "C",
     "yumi": "B",
@@ -5425,18 +5618,19 @@
     "intelligence": 420,
     "attackGrowth": 17,
     "defenceGrowth": 18,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊堅陣",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5195",
+    "id": 5195,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -5456,15 +5650,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "旗鼓堂々",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5196",
+    "id": 5196,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -5484,15 +5679,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "槍隊堅守",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5197",
+    "id": 5197,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -5509,24 +5705,25 @@
     "intelligence": 390,
     "attackGrowth": 18,
     "defenceGrowth": 17,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5198",
+    "id": 5198,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "伊勢貞興",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1370,
     "yari": "C",
     "yumi": "B",
@@ -5540,21 +5737,22 @@
     "intGrowth": 2,
     "skill": {
       "name": "弓隊堅陣",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5199",
+    "id": 5199,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "木戸孝範",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1380,
     "yari": "C",
     "yumi": "D",
@@ -5568,15 +5766,16 @@
     "intGrowth": null,
     "skill": {
       "name": "槍隊襲撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5200",
+    "id": 5200,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -5596,21 +5795,22 @@
     "intGrowth": null,
     "skill": {
       "name": "槍隊襲撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5201",
+    "id": 5201,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "福原貞俊",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1390,
     "yari": "D",
     "yumi": "D",
@@ -5624,21 +5824,22 @@
     "intGrowth": null,
     "skill": {
       "name": "鉄砲隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5202",
+    "id": 5202,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
     "description": "",
     "name": "梅津政景",
-    "cost": 1.5,
+    "cost": 1,
     "capacity": 1390,
     "yari": "D",
     "yumi": "C",
@@ -5652,15 +5853,16 @@
     "intGrowth": null,
     "skill": {
       "name": "弓隊備え",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5203",
+    "id": 5203,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -5680,15 +5882,45 @@
     "intGrowth": null,
     "skill": {
       "name": "弓隊進撃",
-      "type": "攻",
-      "description": ""
+      "type": "攻"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5701",
+    "id": 5204,
+    "rarity": "序",
+    "jobType": "将",
+    "illustrator": "",
+    "description": "",
+    "name": "海北友松",
+    "cost": 2,
+    "capacity": 1780,
+    "yari": "D",
+    "yumi": "C",
+    "kiba": "D",
+    "heiki": "D",
+    "attack": 460,
+    "defence": 480,
+    "intelligence": 410,
+    "attackGrowth": null,
+    "defenceGrowth": null,
+    "intGrowth": null,
+    "skill": {
+      "name": "弓隊備え",
+      "type": "防"
+    },
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
+  },
+  {
+    "id": 5701,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -5705,18 +5937,19 @@
     "intelligence": 193,
     "attackGrowth": 19,
     "defenceGrowth": 19,
-    "intGrowth": 1.5,
+    "intGrowth": 1,
     "skill": {
       "name": "弓隊堅守",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5702",
+    "id": 5702,
     "rarity": "序",
     "jobType": "姫",
     "illustrator": "",
@@ -5736,15 +5969,16 @@
     "intGrowth": 2,
     "skill": {
       "name": "紫電一閃",
-      "type": "特",
-      "description": ""
+      "type": "特"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5703",
+    "id": 5703,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -5764,15 +5998,16 @@
     "intGrowth": 1,
     "skill": {
       "name": "小姓の感謝",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   },
   {
-    "id": "5704",
+    "id": 5704,
     "rarity": "序",
     "jobType": "将",
     "illustrator": "",
@@ -5792,11 +6027,12 @@
     "intGrowth": 1,
     "skill": {
       "name": "不腆之意",
-      "type": "防",
-      "description": ""
+      "type": "防"
     },
-    "unitSkill": [
-      ""
-    ]
+    "unitSkill": {
+      "name": [
+        ""
+      ]
+    }
   }
 ]
