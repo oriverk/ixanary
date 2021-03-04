@@ -5,13 +5,13 @@
   "author": "oriverk <oriveryk@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "build": "npx ts-node src/index.ts"
-  },
-  "devDependencies": {
-    "@types/node": "^14.14.31",
-    "prisma": "2.17.0",
-    "ts-node": "^9.1.1",
-    "typescript": "^4.2.2"
+    "db:save": "prisma migrate dev --create-only --preview-feature",
+    "db:migrate": "prisma migrate dev --preview-feature",
+    "db:migrate:prod": "prisma migrate deploy --preview-feature",
+    "db:seed": "prisma db seed --preview-feature",
+    "dev": "nodemon src/index.ts",
+    "build": "tsc",
+    "start": "node build/index.js"
   },
   "dependencies": {
     "@prisma/client": "^2.17.0",
@@ -19,5 +19,13 @@
     "fastify-cli": "^2.8.0",
     "fastify-formbody": "^5.0.0",
     "fastify-plugin": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.31",
+    "nodemon": "^2.0.7",
+    "prisma": "2.17.0",
+    "ts-eager": "^1.1.3",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.2.2"
   }
 }
