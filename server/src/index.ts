@@ -39,13 +39,18 @@ app.post(unitSkill, createUnitSkill)
 app.put(`${unitSkill}/:name`, updateUnitSkill)
 app.delete(`${unitSkill}/:name`, deleteUnitSkill)
 
-const start = async () => {
-  try {
-    await app.listen(3000)
-  } catch (err) {
-    app.log.error(err)
-    process.exit(1)
-  }
-}
+// const start = async () => {
+//   try {
+//     await app.listen(3000)
+//   } catch (err) {
+//     app.log.error(err)
+//     process.exit(1)
+//   }
+// }
 
-start()
+// start()
+
+export default async(req: fastify.FastifyRequest, res: fastify.FastifyReply) => {
+  await app.ready()
+  app.server.emit('request', req, res)
+}
