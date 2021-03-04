@@ -6,22 +6,29 @@ import { Card } from '../../types/prisma'
 const prisma = new PrismaClient()
 
 interface CreateCardBody extends Card {
-  skillName?: string,
-  skillRarity?: string,
-  skillType?: string,
-  skillDescription?: string,
+  skillName?: string
+  skillRarity?: string
+  skillType?: string
+  skillTarget?: string
+  skillContent: string[]
+  skillContent10: string[]
+  skillExtra?: string
+  skillFirst: string[]
+  skillSecond: string[]
+  skillThird: string[]
 
-  unitSkillName?: string,
-  unitSkillType?: string,
-  unitSkillDescription?: string
+  unitSkillName?: string
+  unitSkillTarget?: string
+  unitSkillContent: string[]
+  unitSkillContent10: string[]
 }
 
 // POST:/cards
 export const createCard = async (req: FastifyRequest<{ Body: CreateCardBody }>, res: FastifyReply) => {
   const {
     id, name, rarity, jobType, illustrator, cost, capacity, yari, kiba, yumi, heiki, attack, defence, intelligence, attackGrowth, defenceGrowth, intGrowth,
-    skillName, skillRarity, skillType, skillDescription,
-    unitSkillName, unitSkillType, unitSkillDescription
+    skillName, skillRarity, skillType, skillTarget, skillContent, skillContent10, skillExtra, skillFirst, skillSecond, skillThird,
+    unitSkillName, unitSkillTarget, unitSkillContent, unitSkillContent10
   } = req.body
 
   if (!id) {
@@ -39,7 +46,7 @@ export const createCard = async (req: FastifyRequest<{ Body: CreateCardBody }>, 
     }
   })
 
-  if (skillName) {
+  if (typeof skillName === 'string') {
     card = await prisma.card.update({
       where: {
         id: card.id
@@ -50,9 +57,15 @@ export const createCard = async (req: FastifyRequest<{ Body: CreateCardBody }>, 
             where: { name: skillName },
             create: {
               name: skillName,
-              type: skillType,
               rarity: skillRarity,
-              description: skillDescription
+              type: skillType,
+              target: skillTarget,
+              content: skillContent,
+              content10: skillContent10,
+              extra: skillExtra,
+              first: skillFirst,
+              second: skillSecond,
+              third: skillThird
             }
           }
         }
@@ -60,7 +73,7 @@ export const createCard = async (req: FastifyRequest<{ Body: CreateCardBody }>, 
     })
   }
 
-  if (unitSkillName && unitSkillType) {
+  if (unitSkillName) {
     card = await prisma.card.update({
       where: {
         id: card.id
@@ -71,8 +84,9 @@ export const createCard = async (req: FastifyRequest<{ Body: CreateCardBody }>, 
             where: { name: unitSkillName, },
             create: {
               name: unitSkillName,
-              type: unitSkillType,
-              description: unitSkillDescription
+              target: unitSkillTarget,
+              content: unitSkillContent,
+              content10: unitSkillContent10
             }
           }
         }

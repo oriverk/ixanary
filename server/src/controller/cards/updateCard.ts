@@ -10,14 +10,25 @@ interface UpdateCardParams {
 }
 
 interface UpdateCardBody extends Omit<Card, 'id'> {
-  skillName?: string,
-  skillRarity?: string,
-  skillType?: string,
-  skillDescription?: string,
+  newId?: number
+  newSkillName?: string
+  newUnitSkillName?: string
 
-  unitSkillName?: string,
-  unitSkillType?: string,
-  unitSkillDescription?: string
+  skillName?: string
+  skillRarity?: string
+  skillType?: string
+  skillTarget?: string
+  skillContent: string[]
+  skillContent10: string[]
+  skillExtra?: string
+  skillFirst: string[]
+  skillSecond: string[]
+  skillThird: string[]
+
+  unitSkillName?: string
+  unitSkillTarget?: string
+  unitSkillContent: string[]
+  unitSkillContent10: string[]
 }
 
 // PUT:/cards/:id
@@ -32,14 +43,17 @@ export const updateCard = async (req: FastifyRequest<{ Params: UpdateCardParams,
   }
 
   const {
+    newId, newSkillName, newUnitSkillName,
     name, rarity, jobType, illustrator, cost, capacity, yari, kiba, yumi, heiki, attack, defence, intelligence, attackGrowth, defenceGrowth, intGrowth,
-    skillName, skillRarity, skillType, skillDescription,
-    unitSkillName, unitSkillType, unitSkillDescription
+    skillName, skillRarity, skillType, skillTarget, skillContent, skillContent10, skillExtra, skillFirst, skillSecond, skillThird,
+    unitSkillName, unitSkillTarget, unitSkillContent, unitSkillContent10,
   } = req.body
 
+  
   let card = await prisma.card.update({
     where: { id: Number(id) },
     data: {
+      id: newId !== null ? newId : undefined,
       name: name !== null ? name : undefined,
       rarity: rarity !== null ? rarity : undefined,
       jobType: jobType !== null ? jobType : undefined,
@@ -59,7 +73,9 @@ export const updateCard = async (req: FastifyRequest<{ Params: UpdateCardParams,
     }
   })
 
-  if (skillName) {
+
+
+  if (skillName && newSkillName) {
     card = await prisma.card.update({
       where: {
         id: card.id
@@ -69,10 +85,16 @@ export const updateCard = async (req: FastifyRequest<{ Params: UpdateCardParams,
           connectOrCreate: {
             where: { name: skillName },
             create: {
-              name: skillName,
-              type: skillType,
+              name: newSkillName,
               rarity: skillRarity,
-              description: skillDescription
+              type: skillType,
+              target: skillTarget,
+              content: skillContent,
+              content10: skillContent10,
+              extra: skillExtra,
+              first: skillFirst,
+              second: skillSecond,
+              third: skillThird
             }
           }
         }
@@ -80,7 +102,7 @@ export const updateCard = async (req: FastifyRequest<{ Params: UpdateCardParams,
     })
   }
 
-  if (unitSkillName && unitSkillType) {
+  if (unitSkillName && newUnitSkillName) {
     card = await prisma.card.update({
       where: {
         id: card.id
@@ -90,9 +112,10 @@ export const updateCard = async (req: FastifyRequest<{ Params: UpdateCardParams,
           connectOrCreate: {
             where: { name: unitSkillName, },
             create: {
-              name: unitSkillName,
-              type: unitSkillType,
-              description: unitSkillDescription
+              name: newUnitSkillName,
+              target: unitSkillTarget,
+              content: unitSkillContent,
+              content10: unitSkillContent10
             }
           }
         }
