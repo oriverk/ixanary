@@ -1,0 +1,10 @@
+{
+  "rewrites": [
+    {"source": "/cards", "destination": "/cards"},
+    {"source": "/cards/:id","destination": "/cards/:id"},
+    {"source": "/skills","destination": "/skills"},
+    {"source": "/skills/:name","destination": "/cards/:name"},
+    {"source": "/unit-skills","destination": "/unit-skillds"},
+    {"source": "/unit-skills/:name","destination": "/unit-skills/:name"}
+  ]
+}
