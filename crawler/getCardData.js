@@ -63,7 +63,7 @@ async function getCardData(page, url, tableSelecotr) {
     data = await getCardData(page, target.url.project[url], target.tableSelector[url])
     try {
       fs.writeFileSync(
-      path.join(process.cwd(), `assets/${url}.json`),
+      path.join(process.cwd(), `assets/generated/${url}.json`),
         JSON.stringify(data, undefined, 2),
         'utf-8'
       )

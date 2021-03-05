@@ -56,7 +56,7 @@ model UnitSkill{
   id            Int       @id @default(autoincrement())
   name          String    @db.VarChar(15) @unique
   target        String?    @db.VarChar(10)
-  content       String[]
+  content       String[] // [[rate, effect]]
   content10     String[]
   cards Card[]
 }
