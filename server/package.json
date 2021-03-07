@@ -17,9 +17,9 @@
     "db:migrate": "npx prisma migrate dev --preview-feature",
     "db:migrate:prod": "npx prisma migrate deploy --preview-feature && yarn build",
     "db:seed": "npx prisma db seed --preview-feature",
-    "dev": "nodemon api/index.ts",
-    "build": "tsc api/index.ts --outDir build",
-    "start": "node build/index.js"
+    "dev": "nodemon api/app.ts",
+    "build": "tsc api/app.ts --outDir build",
+    "start": "node build/app.js"
   },
   "dependencies": {
     "@prisma/client": "^2.17.0",
