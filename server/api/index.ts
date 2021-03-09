@@ -32,12 +32,12 @@ app.put(`${skills}/:name`, updateSkill)
 app.delete(`${skills}/:name`, deleteSkill)
 
 const unitSkill = '/unit-skills'
-// unitSkill
-// app.get(unitSkill, getAllUnitSkills)
-// app.get(`${unitSkill}/:name`, getUnitSkill)
-// app.post(unitSkill, createUnitSkill)
-// app.put(`${unitSkill}/:name`, updateUnitSkill)
-// app.delete(`${unitSkill}/:name`, deleteUnitSkill)
+unitSkill
+app.get(unitSkill, getAllUnitSkills)
+app.get(`${unitSkill}/:name`, getUnitSkill)
+app.post(unitSkill, createUnitSkill)
+app.put(`${unitSkill}/:name`, updateUnitSkill)
+app.delete(`${unitSkill}/:name`, deleteUnitSkill)
 
 // const start = async () => {
 //   try {
