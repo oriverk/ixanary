@@ -15,7 +15,7 @@
   "scripts": {
     "db:save": " nxx prisma migrate dev --create-only --preview-feature",
     "db:migrate": "npx prisma migrate dev --preview-feature",
-    "db:migrate:prod": "npx prisma migrate deploy --preview-feature && yarn build",
+    "db:migrate:prod": "npx prisma migrate deploy --preview-feature",
     "db:seed": "npx prisma db seed --preview-feature",
     "dev": "nodemon api/app.ts",
     "start": "node api/index.ts"
